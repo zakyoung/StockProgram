@@ -8,7 +8,10 @@ class Stock:
     return self.yfData['sector']
   @property
   def payoutRatio(self):
-    return self.yfData['payoutRatio'] * 100
+    try:
+      return self.yfData['payoutRatio'] * 100
+    except:
+      return 'Stock does not pay a dividend'
   @property
   def priceToBook(self):
     return self.yfData['priceToBook']
@@ -23,7 +26,10 @@ class Stock:
     return self.yfData['trailingAnnualDividendRate']
   @property
   def DividendGrowthRate(self):
-    return ((self.currentDividendRate-self.priorYearDividendRate)/self.priorYearDividendRate) * 100
+    try:
+      return ((self.currentDividendRate-self.priorYearDividendRate)/self.priorYearDividendRate) * 100
+    except:
+      return "Calculation not possible"
   @property
   def fiftyTwoWeekHigh(self):
     return self.yfData['fiftyTwoWeekHigh']
@@ -39,5 +45,4 @@ class Stock:
   @property
   def forwardPeRatio(self):
     return self.yfData['forwardPE']
-s1 = Stock('MSFT')
-print(s1.forwardPeRatio)
+
