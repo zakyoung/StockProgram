@@ -1,4 +1,5 @@
 import yfinance as yf
+import csv
 class Stock:
   def __init__(self,ticker):
     self.ticker = ticker
@@ -31,6 +32,9 @@ class Stock:
     except:
       return "Calculation not possible"
   @property
+  def fiveYearAvgDividendRate(self):
+    return self.yfData['fiveYearAvgDividendRate']
+  @property
   def fiftyTwoWeekHigh(self):
     return self.yfData['fiftyTwoWeekHigh']
   @property
@@ -45,4 +49,26 @@ class Stock:
   @property
   def forwardPeRatio(self):
     return self.yfData['forwardPE']
+  @property
+  def fourYearEarnings(self):
+    return dict(self.yfData['Earnings'])
+  @property
+  def fourYearRevenue(self):
+    return dict(self.yfData['Revenue'])
+  @property
+  def currentRatio(self):
+    #This is the annual current ratio
+    stockData = self.yfData
+    needed_data = dict(stockData.balance_sheet[list(stockData.balance_sheet)[0]])
+    try:
+      current_ratio = needed_data['Total Current Assets']/needed_data['Total Current Liabilities']
+      return current_ratio
+    except:
+      return None
+def run():
+  with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
+    nyseReader = csv.DictReader(nyse)
+    nasdaqReader = csv.DictReader(nasdaq)
 
+if __name__ == "__main__":
+  run()
