@@ -4,6 +4,9 @@ class Stock:
   def __init__(self,ticker):
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
+  def __str__(self):
+    return self.ticker
+  __repr__ = __str__
   @property
   def sector(self):
     return self.yfData.info['sector']
