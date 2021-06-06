@@ -68,10 +68,17 @@ class Stock:
     we must Calculate it using Total current assets / Total current Liabilities
     """
     stockData = self.yfData
-    needed_data = dict(stockData.quarterly_balance_sheet[list(stockData.quarterly_balance_sheet)[0]])
+    needed_data = dict(stockData.balance_sheet[list(stockData.balance_sheet)[0]])
     try:
       current_ratio = needed_data['Total Current Assets']/needed_data['Total Current Liabilities']
       return current_ratio
+    except:
+      return None
+  @property
+  def operatingCashflow(self):
+    stockData = self.yfData
+    try:
+      return stockData.cashflow[list(stockData.cashflow)[0]]["Total Cash From Operating Activities"]
     except:
       return None
 def run():
@@ -79,6 +86,6 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     msft = Stock('msft')
-    print(msft.fourYearRevenue)
+    print(msft.operatingCashflow)
 if __name__ == "__main__":
   run()
