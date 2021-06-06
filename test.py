@@ -1,7 +1,7 @@
 import yfinance as yf
 import csv
 with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
-  nyseReader = ['aapl']
+  nyseReader = csv.DictReader(nyse)
   for stock in nyseReader:
+    stock = stock['Ticker']
     stockData = yf.Ticker(f"{stock}")
-    print(dict(stockData.financials[list(stockData.financials)[0]]))

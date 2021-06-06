@@ -114,7 +114,6 @@ def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
-    msft = Stock('msft')
-    print(msft.interestCoverageRatio)
+    allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
 if __name__ == "__main__":
   run()
