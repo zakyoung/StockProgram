@@ -81,11 +81,40 @@ class Stock:
       return stockData.cashflow[list(stockData.cashflow)[0]]["Total Cash From Operating Activities"]
     except:
       return None
+  @property
+  def returnOnAssets(self):
+    """
+    For return on assets we use the equation earnings/total Assets 
+    """
+    stockData = self.yfData
+    try:
+      mostRecentYear = list(self.fourYearEarnings.keys())[-1]
+      earnings = self.fourYearEarnings[mostRecentYear]
+      totalAssets = dict(stockData.balance_sheet[list(stockData.balance_sheet)[0]])['Total Assets']
+      return (earnings/totalAssets)*100
+    except:
+      return None
+  @property
+  def interestCoverageRatio(self):
+    stockData = self.yfData
+    try:
+      dataDictinary = dict(stockData.financials[list(stockData.financials)[0]])
+      print(dataDictinary)
+      ebit = dataDictinary['Ebit']
+      interestExpense = dataDictinary['Interest Expense']
+      if interestExpense != 0:
+        print(ebit)
+        print(interestExpense)
+        return abs(ebit/interestExpense)
+      else:
+        return "No interest expense"
+    except:
+      return None
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     msft = Stock('msft')
-    print(msft.operatingCashflow)
+    print(msft.interestCoverageRatio)
 if __name__ == "__main__":
   run()
