@@ -9,49 +9,82 @@ class Stock:
   __repr__ = __str__
   @property
   def sector(self):
-    return self.yfData.info['sector']
+    try:
+      return self.yfData.info['sector']
+    except:
+      return None
   @property
   def payoutRatio(self):
     try:
       return self.yfData.info['payoutRatio'] * 100
     except:
-      return 'Stock does not pay a dividend'
+      return None
   @property
   def priceToBook(self):
-    return self.yfData.info['priceToBook']
+    try:
+      return self.yfData.info['priceToBook']
+    except:
+      return None
   @property
   def marketCap(self):
-    return self.yfData.info['marketCap']
+    try:
+      return self.yfData.info['marketCap']
+    except:
+      return None
   @property
   def currentDividendRate(self):
-    return self.yfData.info['dividendRate']
+    try:
+      return self.yfData.info['dividendRate']
+    except:
+      return None
   @property
   def priorYearDividendRate(self):
-    return self.yfData.info['trailingAnnualDividendRate']
+    try:
+      return self.yfData.info['trailingAnnualDividendRate']
+    except:
+      return None
   @property
   def DividendGrowthRate(self):
     try:
       return ((self.currentDividendRate-self.priorYearDividendRate)/self.priorYearDividendRate) * 100
     except:
-      return "Calculation not possible"
+      return None
   @property
   def fiveYearAvgDividendRate(self):
-    return self.yfData.info['fiveYearAvgDividendRate']
+    try:
+      return self.yfData.info['fiveYearAvgDividendRate']
+    except:
+      return None
   @property
   def fiftyTwoWeekHigh(self):
-    return self.yfData.info['fiftyTwoWeekHigh']
+    try:
+      return self.yfData.info['fiftyTwoWeekHigh']
+    except:
+      return None
   @property
   def fiftyTwoWeekLow(self):
-    return self.yfData.info['fiftyTwoWeekLow']
+    try:
+      return self.yfData.info['fiftyTwoWeekLow']
+    except:
+      return None
   @property
   def previousClose(self):
-    return self.yfData.info['previousClose']
+    try:
+      return self.yfData.info['previousClose']
+    except:
+      return None
   @property
   def trailingPeRatio(self):
-    return self.yfData.info['trailingPE']
+    try:
+      return self.yfData.info['trailingPE']
+    except:
+      return None
   @property
   def forwardPeRatio(self):
-    return self.yfData.info['forwardPE']
+    try:
+      return self.yfData.info['forwardPE']
+    except:
+      return None
   @property
   def fourYearEarnings(self):
     try:
@@ -118,7 +151,5 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    s1 = Stock('ABR')
-    print(s1.interestCoverageRatio)
 if __name__ == "__main__":
   run()
