@@ -1,0 +1,152 @@
+This is a list of every sector that I could get from the yahoo finance api. At the bottom a raw version in dictionary form is provided
+
+Specialty Chemicals
+Restaurants
+Capital Markets
+Software�Application
+Semiconductor Equipment & Materials
+Personal Services
+REIT�Healthcare Facilities
+Furnishings, Fixtures & Appliances
+Other Precious Metals & Mining
+Mortgage Finance
+Computer Hardware
+Education & Training Services
+Aerospace & Defense
+Insurance Brokers
+Insurance�Life
+Auto Manufacturers
+Department Stores
+Beverages�Wineries & Distilleries
+Utilities�Regulated Electric
+Diagnostics & Research
+Information Technology Services
+Oil & Gas Midstream
+Packaged Foods
+Diversified Utilities
+Oil & Gas Integrated
+Asset Management
+Electrical Equipment & Parts
+Credit Services
+Resorts & Casinos
+Utilities�Diversified
+Advertising Agencies
+Luxury Goods
+Tobacco
+Thermal Coal
+Uranium
+Chemicals
+Airports & Air Services
+Oil & Gas Drilling
+Utilities�Regulated Water
+Industrial Distribution
+Financial Conglomerates
+Beverages�Non-Alcoholic
+Drug Manufacturers�General
+Building Materials
+Apparel Retail
+Trucking
+Silver
+Apparel Manufacturing
+Integrated Freight & Logistics
+Travel Services
+Farm Products
+Insurance�Specialty
+Oil & Gas Equipment & Services
+Scientific & Technical Instruments
+Recreational Vehicles
+Household & Personal Products
+Copper
+Utilities�Renewable
+Diversified Machinery
+REIT�Mortgage
+Other Industrial Metals & Mining
+Publishing
+Coking Coal
+Waste Management
+Broadcasting
+Specialty Retail
+Shell Companies
+REIT�Office
+Steel
+Consulting Services
+Airlines
+REIT�Retail
+Packaging & Containers
+Farm & Heavy Construction Machinery
+Internet Retail
+Insurance�Reinsurance
+Real Estate Services
+Leisure
+Lumber & Wood Production
+Biotechnology
+Independent Oil & Gas
+Conglomerates
+REIT�Diversified
+Auto & Truck Dealerships
+Paper & Paper Products
+Drug Manufacturers�Specialty & Generic
+Staffing & Employment Services
+Gold
+Agricultural Inputs
+Discount Stores
+Solar
+Entertainment
+Real Estate�Diversified
+Electronic Components
+Marine Shipping
+Home Improvement Retail
+Security & Protection Services
+Auto Parts
+REIT�Specialty
+REIT�Residential
+Medical Distribution
+Consumer Electronics
+REIT�Hotel & Motel
+Medical Care Facilities
+Utilities�Independent Power Producers
+Specialty Industrial Machinery
+Medical Instruments & Supplies
+Financial Data & Stock Exchanges
+Medical Devices
+Pollution & Treatment Controls
+Electronics & Computer Distribution
+Software�Infrastructure
+Communication Equipment
+Rental & Leasing Services
+Closed-End Fund - Equity
+Electronic Gaming & Multimedia
+Tools & Accessories
+Railroads
+Beverages�Brewers
+Grocery Stores
+Gambling
+Lodging
+Banks�Regional
+Insurance�Diversified
+Real Estate�Development
+Utilities�Regulated Gas
+Banks�Diversified
+Metal Fabrication
+Healthcare Plans
+REIT�Industrial
+Aluminum
+Engineering & Construction
+Footwear & Accessories
+Food Distribution
+Insurance�Property & Casualty
+Health Information Services
+Building Products & Equipment
+Oil & Gas Refining & Marketing
+Semiconductors
+Oil & Gas E&P
+Specialty Business Services
+Residential Construction
+Pharmaceutical Retailers
+Confectioners
+Telecom Services
+Internet Content & Information
+Business Equipment & Supplies
+Textile Manufacturing0
+
+{''Internet Content & Information', 'Financial Conglomerates', 'Recreational Vehicles', 'REIT—Retail', 'Specialty Chemicals', 'Oil & Gas Refining & Marketing', 'Copper', 'Gambling', 'Packaging & Containers', 'Metal Fabrication', 'Solar', 'Textile Manufacturing', 'Industrial Distribution', 'Luxury Goods', 'Airlines', 'Medical Distribution', 'Steel', 'Pharmaceutical Retailers', 'Integrated Freight & Logistics', 'Medical Care Facilities', 'Grocery Stores', 'Telecom Services', 'REIT—Diversified', 'Restaurants', 'Farm & Heavy Construction Machinery', 'Home Improvement Retail', 'Agricultural Inputs', 'Furnishings, Fixtures & Appliances', 'Insurance—Life', 'Railroads', 'Electrical Equipment & Parts', 'Diagnostics & Research', 'Internet Retail', 'Banks—Regional', 'Business Equipment & Supplies', 'Engineering & Construction', 'Healthcare Plans', 'Lumber & Wood Production', 'Education & Training Services', 'Household & Personal Products', 'Building Materials', 'Staffing & Employment Services', 'Thermal Coal', 'Closed-End Fund - Equity', 'Uranium', 'Building Products & Equipment', 'Lodging', 'Chemicals', 'Insurance—Diversified', 'Aluminum', 'REIT—Specialty', 'Insurance—Specialty', 'Health Information Services', 'Aerospace & Defense', 'Information Technology Services', 'Rental & Leasing Services', 'Credit Services', 'Semiconductors', 'Pollution & Treatment Controls', 'Utilities—Renewable', 'Leisure', 'Medical Devices', 'Beverages—Wineries & Distilleries', 'Drug Manufacturers—General', 'REIT—Industrial', 'REIT—Office', 'Scientific & Technical Instruments', 'REIT—Residential', 'Utilities—Regulated Gas', 'Other Precious Metals & Mining', 'Resorts & Casinos', 'Real Estate—Diversified', 'Personal Services', 'Diversified Machinery', 'Specialty Business Services', 'Paper & Paper Products', 'Electronic Components', 'Publishing', 'Beverages—Brewers', 'Insurance—Reinsurance', 'Trucking', 'Banks—Diversified', 'Residential Construction', 'Entertainment', 'Financial Data & Stock Exchanges', 'Medical Instruments & Supplies', 'Utilities—Diversified', 'Semiconductor Equipment & Materials', 'Software—Infrastructure', 'Mortgage Finance', 'Coking Coal', 'Travel Services', 'Real Estate—Development', 'Consumer Electronics', 'Auto Parts', 'REIT—Healthcare Facilities', 'Computer Hardware', 'Specialty Retail', 'Diversified Utilities', 'Biotechnology', 'Tools & Accessories', 'Advertising Agencies', 'Oil & Gas Midstream', 'Electronics & Computer Distribution', 'Insurance Brokers', 'Software—Application', 'Footwear & Accessories', 'Oil & Gas Drilling', 'Oil & Gas E&P', 'Marine Shipping', 'Specialty Industrial Machinery', 'Food Distribution', 'Broadcasting', 'Capital Markets', 'Airports & Air Services', 'Apparel Manufacturing', 'Packaged Foods', 'Communication Equipment', 'Farm Products', 'Drug Manufacturers—Specialty & Generic', 'Electronic Gaming & Multimedia', 'Beverages—Non-Alcoholic', 'Independent Oil & Gas', 'Silver', 'Consulting Services', 'Utilities—Regulated Electric', 'Oil & Gas Equipment & Services', 'Utilities—Regulated Water', 'Conglomerates', 'Confectioners', 'Other Industrial Metals & Mining', 'Department Stores', 'Insurance—Property & Casualty', 'Shell Companies', 'Discount Stores', 'Gold', 'REIT—Hotel & Motel', 'Oil & Gas Integrated', 'Utilities—Independent Power Producers', 'Waste Management', 'Auto Manufacturers', 'Asset Management', 'Apparel Retail', 'Real Estate Services', 'Tobacco', 'Auto & Truck Dealerships', 'Security & Protection Services', 'REIT—Mortgage'}
