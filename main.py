@@ -146,6 +146,9 @@ class Stock:
         return "No interest expense"
     except:
       return None
+class IndustryAverages:
+  def __init__(self):
+    pass
 def stockAnalyzer(stockObject):
   pass
 def run():
