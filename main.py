@@ -146,6 +146,8 @@ class Stock:
         return "No interest expense"
     except:
       return None
+def stockAnalyzer(stockObject):
+  pass
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
