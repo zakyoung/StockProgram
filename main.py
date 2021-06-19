@@ -8,9 +8,9 @@ class Stock:
     return self.ticker
   __repr__ = __str__
   @property
-  def sector(self):
+  def industry(self):
     try:
-      return self.yfData.info['sector']
+      return self.yfData.info['industry']
     except:
       return None
   @property
@@ -135,12 +135,9 @@ class Stock:
     stockData = self.yfData
     try:
       dataDictinary = dict(stockData.financials[list(stockData.financials)[0]])
-      print(dataDictinary)
       ebit = dataDictinary['Ebit']
       interestExpense = dataDictinary['Interest Expense']
       if interestExpense != 0:
-        print(ebit)
-        print(interestExpense)
         return abs(ebit/interestExpense)
       else:
         return "No interest expense"
@@ -156,5 +153,7 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
+    s1 = Stock('aapl')
+    print(s1.industry)
 if __name__ == "__main__":
   run()

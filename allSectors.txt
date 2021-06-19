@@ -1,5 +1,4 @@
 This is a list of every sector that I could get from the yahoo finance api. At the bottom a raw version in dictionary form is provided
-
 Specialty Chemicals
 Restaurants
 Capital Markets
