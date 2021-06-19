@@ -4,6 +4,11 @@ class Stock:
   def __init__(self,ticker):
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
+    self.__points = None
+  def getPoints(self):
+    return self.__points
+  def setPoints(self,points):
+    self.__points = points
   def __str__(self):
     return f"{self.ticker.upper()} ({self.industry})"
   __repr__ = __str__
@@ -92,11 +97,43 @@ class Stock:
     except:
       return None
   @property
+  def fourYearEarningsGrowthRate(self):
+    try:
+      earnings = list(self.yfData.earnings['Earnings'])
+      if len(earnings) <= 1:
+        return None
+      else:
+        index = 0
+        growth_rates = []
+        while index < len(earnings)-1:
+          growth_rates.append(((earnings[index+1]-earnings[index])/earnings[index])*100)
+          index += 1
+        return sum(growth_rates)/(len(earnings)-1)
+    except:
+      return None
+  @property
   def fourYearRevenue(self):
     try:
       return dict(self.yfData.earnings['Revenue'])
     except:
       return None
+
+  @property
+  def fourYearRevenueGrowthRate(self):
+    try:
+      revenue = list(self.yfData.earnings['Revenue'])
+      if len(revenue) <= 1:
+        return None
+      else:
+        index = 0
+        growth_rates = []
+        while index < len(revenue)-1:
+          growth_rates.append(((revenue[index+1]-revenue[index])/revenue[index])*100)
+          index += 1
+        return sum(growth_rates)/(len(revenue)-1)
+    except:
+      return None
+
   @property
   def currentRatio(self):
     """
@@ -153,6 +190,8 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-
+    s1 = Stock('AAPL')
+    print(s1.fourYearRevenue)
+    print(s1.fourYearRevenueGrowthRate)
 if __name__ == "__main__":
   run()

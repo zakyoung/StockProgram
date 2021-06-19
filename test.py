@@ -1,18 +1,7 @@
-import yfinance as yf
-import csv
-with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
-  nyseReader = csv.DictReader(nyse)
-  nasdaqReader = csv.DictReader(nasdaq)
-  sectorSet = set()
-  stocks = [stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader]
-  for stock in stocks:
-    print(stock)
-    try:
-      stockData = yf.Ticker(f"{stock}")
-      sectorSet.add(stockData.info['industry'])
-    except:
-      continue
-  print(sectorSet)
-  with open('allSectors.txt','w') as writer:
-    for sector in sectorSet:
-      writer.write(sector)
+index = 0
+growth_rates = []
+while index < len(l1)-1:
+  growth_rates.append(((l1[index+1]-l1[index])/l1[index])*100)
+  index += 1
+print(growth_rates)
+
