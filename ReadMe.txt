@@ -6,6 +6,7 @@ This is the data weighting system used in the stock program. The data will be we
   - 4 points if the net income is positive
 
 2. Pe based on industy: Since we are looking for value stocks we have to try to find earnings that are cheap based on the rest of the industry averages(15 points)
+  - 2.5 points for every 1 point under the industry average so if the industry average pe is 20 and our stock has a 14 pe you would have the max amount of points.
 
 3. Current Ratio: The equation for current ratio is current assets / liabilities. The current ratio is a liquidy ratio that shows if a company has enough liquidity to cover their current obligations(10 points)
   - 0 points if under 1
