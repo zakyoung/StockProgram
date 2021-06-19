@@ -5,7 +5,7 @@ class Stock:
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
   def __str__(self):
-    return self.ticker
+    return f"{self.ticker.upper()} ({self.industry})"
   __repr__ = __str__
   @property
   def industry(self):
@@ -153,7 +153,8 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    s1 = Stock('aapl')
-    print(s1.industry)
+    for stock in allStocks:
+      print(Stock(stock))
+      print(Stock(stock).interestCoverageRatio)
 if __name__ == "__main__":
   run()
