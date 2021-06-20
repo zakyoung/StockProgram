@@ -31,15 +31,17 @@ This is the data weighting system used in the stock program. The data will be we
   - 0 points if it is under 1
   - 1 point for every 1 percent over 1(max 10)
 
-8. Dividend and a reasonable payout ratio: This is a personal preference but I prefer companies that pay dividends. I have it weighted lower because I also dont want to weed out companys that might be on the verge of being able to develop a dividend and may have high growth potential.(10 points)
+8. Dividend and a reasonable payout ratio: This is a personal preference but I prefer companies that pay dividends. I have it weighted lower because I also dont want to weed out companys that might be on the verge of being able to develop a dividend and may have high growth potential.(10 points)(implemented)
   - 1 point for every % dividend up to 5
-  - 5 points for a payout ratio under 30% and -1 points for every 10% over 30 except for reits which have to pay out 90% of earnings so as long as reits are under 95% they will get 5 points
+  - 5 points for a payout ratio under 30% and -1 points for every 10% over 30 
+  
+  except for reits which have to pay out 90% of earnings so as long as reits are under 95% they will get 5 points Will implement this in a later version
 
-9. Profit margin based on industry: We are looking or companys that have a higher profit margin compared to other companys in the industry(5 points)
+9. Profit margin based on industry: We are looking or companys that have a higher profit margin compared to other companys in the industry(5 points)(still need)
   - 0 If the companys profit margin is under the industry average
   - 0.5 points for every 1 % higher profit margin compared to industry average up to ten percent
 
 10. Price to book ratio: This shows the value of the assets that you are getting when you purchase the company(5 points)
   - 5 points if under 1
-  - -0.25 points for every 0.25 increase over 1 so a price to book of 1.25 would give 4.75 points 
+  - -0.5 points for every 1 increase over 1 so a price to book of 2 would give 4.5 points 
 

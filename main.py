@@ -65,7 +65,7 @@ class Stock:
   @property
   def fiveYearAvgDividendRate(self):
     try:
-      return self.yfData.info['fiveYearAvgDividendRate']
+      return self.yfData.info['fiveYearAvgDividendYield']
     except:
       return None
 
@@ -265,7 +265,36 @@ def interestCoverageRatioPoints(stockObject):
       points += int(stockObject.interestCoverageRatio)
   return points
 
+def dividendPoints(stockObject):
+  points = 0
+  if stockObject.fiveYearAvgDividendYield:
+    if stockObject.fiveYearAvgDividendYield >=5:
+      points+=5
+    else:
+      points += int(stockObject.fiveYearAvgDividendYield)
+  if stockObject.payoutRatio:
+    if stockObject.payoutRatio < 30:
+      points += 5
+    elif stockObject.payoutRatio < 40:
+      points += 4
+    elif stockObject.payoutRatio < 50:
+      points += 3
+    elif stockObject.payoutRatio < 60:
+      points += 2
+    elif stockObject.payoutRatio < 70:
+      points += 1
+  return points
 
+def priceToBookPoints(stockObject):
+  points = 0
+  if stockObject.priceToBook:
+    if stockObject.priceToBook < 1:
+      points += 5
+    else:
+      if stockObject.priceToBook <= 10:
+        points += (5-(0.5*int(stockObject.priceToBook)))
+  return points
+    
 def stockAnalyzer(stockObject):
   totalPoints = 0
   totalPoints += netIncomePoints(stockObject)
@@ -275,6 +304,8 @@ def stockAnalyzer(stockObject):
   totalPoints += revenueGrowthRatePoints(stockObject)
   totalPoints += operatingCashflow(stockObject)
   totalPoints += interestCoverageRatioPoints(stockObject)
+  totalPoints += dividendPoints(stockObject)
+  #Need to implement the profit margin data
 
 
 
@@ -289,6 +320,7 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-
+    s1 = Stock('ABR')
+    print(s1.fiveYearAvgDividendRate)
 if __name__ == "__main__":
   run()
