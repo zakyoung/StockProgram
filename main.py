@@ -274,6 +274,7 @@ def stockAnalyzer(stockObject):
   #Need to implement the return on Assets once I get the data formatted
   totalPoints += revenueGrowthRatePoints(stockObject)
   totalPoints += operatingCashflow(stockObject)
+  totalPoints += interestCoverageRatioPoints(stockObject)
 
 
 
