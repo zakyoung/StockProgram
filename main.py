@@ -5,16 +5,12 @@ class Stock:
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
     self.__points = None
-  
   def getPoints(self):
     return self.__points
-  
   def setPoints(self,points):
     self.__points = points
-  
   def __str__(self):
     return f"{self.ticker.upper()} ({self.industry})"
-
   __repr__ = __str__
 
   @property
@@ -114,7 +110,12 @@ class Stock:
       return dict(self.yfData.earnings['Earnings'])
     except:
       return None
-  
+  @property
+  def mostRecentYearsEarnings(self):
+    try:
+      return list(self.yfData.earnings['Earnings'])[-1]
+    except:
+      return None
   @property
   def fourYearEarningsGrowthRate(self):
     try:
@@ -153,7 +154,7 @@ class Stock:
         return sum(growth_rates)/(len(revenue)-1)
     except:
       return None
-
+  
   @property
   def currentRatio(self):
     """
@@ -203,16 +204,90 @@ class Stock:
         return "No interest expense"
     except:
       return None
+
 class IndustryAverages:
   def __init__(self):
     pass
+
+def netIncomePoints(stockObject):
+  points = 0
+  if stockObject.mostRecentYearsEarnings != None:
+    if stockObject.mostRecentYearsEarnings > 0:
+      points += 4
+  if stockObject.fourYearEarningsGrowthRate:
+    if stockObject.fourYearEarningsGrowthRate >= 0:
+      growth_rate_points =  int(stockObject.fourYearEarningsGrowthRate) * 0.25
+      if growth_rate_points >= 11:
+        points += 11
+      else:
+        points += growth_rate_points
+  return points
+
+def currentRatioPoints(stockObject):
+  points = 0
+  if stockObject.currentRatio:
+    if stockObject.currentRatio < 1:
+      points += 0
+    elif stockObject.currentRatio < 1.5:
+      points += 2
+    elif stockObject.currentRatio < 2:
+      points += 4
+    elif stockObject.currentRatio < 2.5: 
+      points += 6
+    elif stockObject.currentRatio < 3:
+      points += 8
+    else:
+      points += 10
+  return points
+
+def revenueGrowthRatePoints(stockObject):
+  points = 0
+  if stockObject.fourYearRevenueGrowthRate:
+    if stockObject.fourYearRevenueGrowthRate >= 40:
+      points += 10
+    else:
+      points += int(stockObject.fourYearRevenueGrowthRate) * 0.25
+  return points
+
+def operatingCashflow(stockObject):
+  points = 0
+  if stockObject.operatingCashflow:
+    if stockObject.operatingCashflow > 0:
+      points += 10
+  return points
+
+def interestCoverageRatioPoints(stockObject):
+  points = 0
+  if stockObject.interestCoverageRatio:
+    if stockObject.interestCoverageRatio >= 10:
+      points += 10
+    else:
+      points += int(stockObject.interestCoverageRatio)
+  return points
+
+
 def stockAnalyzer(stockObject):
-  pass
+  totalPoints = 0
+  totalPoints += netIncomePoints(stockObject)
+  #Need to implement the Pe based on industry once I get the pe data formated
+  totalPoints += currentRatioPoints(stockObject)
+  #Need to implement the return on Assets once I get the data formatted
+  totalPoints += revenueGrowthRatePoints(stockObject)
+  totalPoints += operatingCashflow(stockObject)
+
+
+
+
+
+
+  
+
+
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    s1 = Stock('AAPL')
+
 if __name__ == "__main__":
   run()
