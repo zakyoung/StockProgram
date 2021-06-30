@@ -1,3 +1,3 @@
 import yfinance as yf
-data = yf.Ticker('AAPL')
-print(data.info['dividendYield'])
+stockData = yf.Ticker('INTC')
+print(dict(stockData.balance_sheet[list(stockData.balance_sheet)[0]])['Total Stockholder Equity'])

@@ -7,10 +7,13 @@ class Stock:
     self.__points = None
   def getPoints(self):
     return self.__points
+
   def setPoints(self,points):
     self.__points = points
+
   def __str__(self):
     return f"{self.ticker.upper()} ({self.industry})"
+
   __repr__ = __str__
 
   @property
@@ -63,7 +66,7 @@ class Stock:
       return None
 
   @property
-  def fiveYearAvgDividendRate(self):
+  def fiveYearAvgDividendYield(self):
     try:
       return self.yfData.info['fiveYearAvgDividendYield']
     except:
@@ -190,7 +193,17 @@ class Stock:
       return (earnings/totalAssets)*100
     except:
       return None
-
+  @property
+  def returnOnEquity(self):
+    try:
+      mostRecentYear = list(self.fourYearEarnings.keys())[-1]
+      earnings = self.fourYearEarnings[mostRecentYear]
+      print(earnings)
+      totalEquity = dict(self.yfData.balance_sheet[list(self.yfData.balance_sheet)[0]])['Total Stockholder Equity']
+      print(totalEquity)
+      return (earnings/totalEquity)*100
+    except:
+      return None
   @property
   def interestCoverageRatio(self):
     stockData = self.yfData
@@ -307,20 +320,11 @@ def stockAnalyzer(stockObject):
   totalPoints += dividendPoints(stockObject)
   #Need to implement the profit margin data
 
-
-
-
-
-
-  
-
-
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    s1 = Stock('ABR')
-    print(s1.fiveYearAvgDividendRate)
+    s1 = Stock('INTC')
 if __name__ == "__main__":
   run()

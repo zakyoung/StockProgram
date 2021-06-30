@@ -16,7 +16,7 @@ This is the data weighting system used in the stock program. The data will be we
   - 8 points if over 2.5
   - 10 points if over 3
 
-4. Return on assets: This shows how well a company is using their assets to create revenue. We will look at this as how their ROA compares to historical averages in the industy(10 points)(Need to implement the points calculator still)
+4. Return on equity: This shows how well a company is using their equity to create revenue. We will look at this as how their ROE compares to historical averages in the industy(10 points)(Need to implement the points calculator still)
   - 0 points if under industry average
   - 0.5 points for every 1 % over the industry average up to ten points
 
@@ -41,7 +41,7 @@ This is the data weighting system used in the stock program. The data will be we
   - 0 If the companys profit margin is under the industry average
   - 0.5 points for every 1 % higher profit margin compared to industry average up to ten percent
 
-10. Price to book ratio: This shows the value of the assets that you are getting when you purchase the company(5 points)
+10. Price to book ratio: This shows the value of the assets that you are getting when you purchase the company(5 points)(implemented)
   - 5 points if under 1
   - -0.5 points for every 1 increase over 1 so a price to book of 2 would give 4.5 points 
 
