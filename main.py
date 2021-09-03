@@ -13,7 +13,8 @@ class Stock:
 
   def __str__(self):
     return f"{self.ticker.upper()} ({self.industry})"
-
+  def information(self):
+    return self.yfData.info
   __repr__ = __str__
 
   @property
@@ -29,7 +30,12 @@ class Stock:
       return self.yfData.info['payoutRatio'] * 100
     except:
       return None
-
+  @property
+  def profitMargin(self):
+    try:
+      return self.yfData.info['profitMargins']*100
+    except:
+      return None
   @property
   def priceToBook(self):
     try:
@@ -198,9 +204,7 @@ class Stock:
     try:
       mostRecentYear = list(self.fourYearEarnings.keys())[-1]
       earnings = self.fourYearEarnings[mostRecentYear]
-      print(earnings)
       totalEquity = dict(self.yfData.balance_sheet[list(self.yfData.balance_sheet)[0]])['Total Stockholder Equity']
-      print(totalEquity)
       return (earnings/totalEquity)*100
     except:
       return None
@@ -236,6 +240,24 @@ def netIncomePoints(stockObject):
         points += growth_rate_points
   return points
 
+def priceToEarningsPoints(stockObject):
+	points = 0
+	averagePe = 20
+	if stockObject.forwardPeRatio:
+		if stockObject.forwardPeRatio < averagePe - 6:
+			points += 15
+		elif stockObject.forwardPeRatio < averagePe - 5:
+			points += 12.5
+		elif stockObject.forwardPeRatio < averagePe - 4:
+			points += 10
+		elif stockObject.forwardPeRatio < averagePe - 3:
+			points += 7.5
+		elif stockObject.forwardPeRatio < averagePe - 2:
+			points += 5
+		elif stockObject.forwardPeRatio < averagePe - 1:
+			points += 2.5
+	return points
+  
 def currentRatioPoints(stockObject):
   points = 0
   if stockObject.currentRatio:
@@ -253,6 +275,18 @@ def currentRatioPoints(stockObject):
       points += 10
   return points
 
+def returnOnEquityPoints(stockObject):
+	points = 0
+	averageROE = 11.39
+	if stockObject.returnOnEquity:
+		if stockObject.returnOnEquity - averageROE >= 0:
+			points = int((stockObject.returnOnEquity - averageROE) * 0.5)
+			if points >= 10:
+				return 10
+			else:
+				return points
+	return points
+
 def revenueGrowthRatePoints(stockObject):
   points = 0
   if stockObject.fourYearRevenueGrowthRate:
@@ -262,7 +296,7 @@ def revenueGrowthRatePoints(stockObject):
       points += int(stockObject.fourYearRevenueGrowthRate) * 0.25
   return points
 
-def operatingCashflow(stockObject):
+def operatingCashflowPoints(stockObject):
   points = 0
   if stockObject.operatingCashflow:
     if stockObject.operatingCashflow > 0:
@@ -298,6 +332,18 @@ def dividendPoints(stockObject):
       points += 1
   return points
 
+def profitMarginPoints(stockObject):
+	points = 0
+	averageProfitMargin = 7.71
+	if stockObject.profitMargin:
+		if stockObject.profitMargin - averageProfitMargin >= 0:
+			points = int(stockObject.profitMargin-averageProfitMargin)*0.5
+			if points >= 5:
+				return 5
+			else:
+				return points
+	return points
+
 def priceToBookPoints(stockObject):
   points = 0
   if stockObject.priceToBook:
@@ -307,24 +353,26 @@ def priceToBookPoints(stockObject):
       if stockObject.priceToBook <= 10:
         points += (5-(0.5*int(stockObject.priceToBook)))
   return points
-    
+
 def stockAnalyzer(stockObject):
   totalPoints = 0
   totalPoints += netIncomePoints(stockObject)
-  #Need to implement the Pe based on industry once I get the pe data formated
+  totalPoints += priceToEarningsPoints(stockObject)
   totalPoints += currentRatioPoints(stockObject)
-  #Need to implement the return on Assets once I get the data formatted
+  totalPoints += returnOnEquityPoints(stockObject)
   totalPoints += revenueGrowthRatePoints(stockObject)
-  totalPoints += operatingCashflow(stockObject)
+  totalPoints += operatingCashflowPoints(stockObject)
   totalPoints += interestCoverageRatioPoints(stockObject)
   totalPoints += dividendPoints(stockObject)
-  #Need to implement the profit margin data
+  totalPoints += profitMarginPoints(stockObject)
+  totalPoints += priceToBookPoints(stockObject)
+  return totalPoints
 
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    s1 = Stock('INTC')
+
 if __name__ == "__main__":
   run()
