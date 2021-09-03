@@ -284,7 +284,6 @@ def returnOnEquityPoints(stockObject):
 			else:
 				return points
 	return points
-
 def revenueGrowthRatePoints(stockObject):
   points = 0
   if stockObject.fourYearRevenueGrowthRate:
@@ -366,6 +365,10 @@ def stockAnalyzer(stockObject):
   totalPoints += priceToBookPoints(stockObject)
   return totalPoints
 
+def individualStockScore(Ticker):
+  s1 = Stock(Ticker)
+  return f"{s1}: {stockAnalyzer(s1)}"
+  
 def run():
   with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
     nyseReader = csv.DictReader(nyse)
