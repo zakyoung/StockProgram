@@ -1,18 +1,16 @@
 import yfinance as yf
 import csv
+from datetime import date
 class Stock:
   def __init__(self,ticker):
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
-    self.__points = None
   def getPoints(self):
-    return self.__points
-
-  def setPoints(self,points):
-    self.__points = points
+    return stockAnalyzer(self)
 
   def __str__(self):
     return f"{self.ticker.upper()} ({self.industry})"
+
   def information(self):
     return self.yfData.info
   __repr__ = __str__
@@ -373,6 +371,16 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
+    scoringList = []
+    for stock in allStocks:
+      stockObj = Stock(stock)
+      stockScore = stockAnalyzer(stockObj)
+      print(f"{stockObj}: {stockScore}")
+      scoringList.append((stockObj,stockScore))
+    scoringList = sorted(scoringList, key = lambda x: x[1], reverse = True)
+    with open(f'{date.today()}-Output.txt','w') as output:
+      for val in scoringList:
+        output.write(f"{val[0]}: {val[1]}\n")
 
 if __name__ == "__main__":
   run()
