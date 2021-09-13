@@ -1,0 +1,159 @@
+Industry Name,Yahoo Finance Equivalent,Average PE Ratio,Average ROE,Average Profit Margin
+Advertising,Advertising Agencies,20.95,0.34%,2.93%
+Aerospace/Defense,Aerospace & Defense,291.56,2.49%,8.54%
+Air Transport,Airlines,8.14,-25.03%,-47.03%
+Air Transport,Airports & Air Services,8.14,-25.03%,-47.03%
+Apparel,Apparel Retail,22.38,-3.94%,-8.19%
+Apparel,Apparel Manufacturing,22.38,-3.94%,-8.19%
+Apparel,Textile Manufacturing,22.38,-3.94%,-8.19%
+Auto & Truck,Auto Manufacturers,164.37,1.40%,4.49%
+Auto Parts,Auto Parts,27.43,-4.45%,-14.31%
+Bank (Money Center),,8.46,20.98%,7.41%
+Banks (Regional),Banks—Regional,13.5,23.79%,8.22%
+Banks (Regional),Banks—Diversified,13.5,23.79%,8.22%
+Beverage (Alcoholic),Beverages—Wineries & Distilleries,45.64,11.95%,10.10%
+Beverage (Alcoholic),Beverages—Brewers,45.64,11.95%,10.10%
+Beverage (Soft),Beverages—Non-Alcoholic,201.34,14.10%,28.86%
+Broadcasting,Broadcasting,15.1,0.12%,0.24%
+Brokerage & Investment Banking,Capital Markets,21.14,12.71%,12.08%
+Building Materials,Building Materials,28.19,5.06%,20.54%
+Building Materials,Building Products & Equipment,28.19,5.06%,20.54%
+Building Materials,Lumber & Wood Production,28.19,5.06%,20.54%
+Business & Consumer Services,Personal Services,38.25,2.47%,6.81%
+Business & Consumer Services,Specialty Business Services,38.25,2.47%,6.81%
+Business & Consumer Services,Consulting Services,38.25,2.47%,6.81%
+Business & Consumer Services,Staffing & Employment Services,38.25,2.47%,6.81%
+Business & Consumer Services,Travel Services,38.25,2.47%,6.81%
+Business & Consumer Services,Security & Protection Services,38.25,2.47%,6.81%
+Cable TV,,68.46,8.50%,11.47%
+Chemical (Basic),Chemicals,13.8,-0.72%,-1.82%
+Chemical (Diversified),,13.89,6.43%,13.25%
+Chemical (Specialty),Specialty Chemicals,36.06,2.21%,2.50%
+Coal & Related Energy,Thermal Coal,2.85,-31.79%,-41.66%
+Coal & Related Energy,Coking Coal,2.85,-31.79%,-41.66%
+Computer Services,Internet Content & Information,45.38,3.62%,13.50%
+Computers/Peripherals,Computer Hardware,40.61,12.48%,50.53%
+Construction Supplies,,84.99,5.86%,13.20%
+Diversified,,26.18,12.18%,10.62%
+Drugs (Biotechnology),Biotechnology,31,-0.94%,-1.19%
+Drugs (Pharmaceutical),Drug Manufacturers—General,122.82,14.10%,18.98%
+Drugs (Pharmaceutical),Drug Manufacturers—Specialty & Generic,122.82,14.10%,18.98%
+Education,Education & Training Services,26.92,-4.82%,-5.66%
+Electrical Equipment,Electrical Equipment & Parts,51.61,7.63%,17.67%
+Electrical Equipment,Scientific & Technical Instruments,51.61,7.63%,17.67%
+Electronics (Consumer & Office),Consumer Electronics,57.06,-1.53%,-4.89%
+Electronics (General),Electronic Components,81.09,3.49%,6.67%
+Electronics (General),Electronics & Computer Distribution,81.09,3.49%,6.67%
+Engineering/Construction,Engineering & Construction,27.42,0.75%,2.54%
+Entertainment,Entertainment,908.12,-3.00%,-2.87%
+Environmental & Waste Services,Waste Management,538.13,3.52%,6.21%
+Environmental & Waste Services,Pollution & Treatment Controls,538.13,3.52%,6.21%
+Farming/Agriculture,Agricultural Inputs,26.45,3.81%,14.03%
+Farming/Agriculture,Farm Products,26.45,3.81%,14.03%
+Financial Svcs. (Non-bank & Insurance),‘Financial Conglomerates,24.3,20.13%,64.28%
+Financial Svcs. (Non-bank & Insurance),Financial Data & Stock Exchanges,24.3,20.13%,64.28%
+Financial Svcs. (Non-bank & Insurance),Credit Services,24.3,20.13%,64.28%
+Food Processing,,268.11,6.38%,10.12%
+Food Wholesalers,Packaged Foods,320.61,-0.36%,-5.03%
+Food Wholesalers,Food Distribution,320.61,-0.36%,-5.03%
+Furn/Home Furnishings,"Furnishings, Fixtures & Appliances",29.97,4.63%,13.37%
+Green & Renewable Energy,Solar,56,-34.82%,-20.59%
+Green & Renewable Energy,Utilities—Renewable,56,-34.82%,-20.59%
+Healthcare Products,Medical Devices,330.73,10.91%,10.55%
+Healthcare Products,Medical Instruments & Supplies,330.73,10.91%,10.55%
+Healthcare Support Services,Healthcare Plans,101.84,2.63%,16.60%
+Healthcare Support Services,Health Information Services,101.84,2.63%,16.60%
+Healthcare Support Services,Medical Distribution,101.84,2.63%,16.60%
+Healthcare Support Services,Diagnostics & Research,101.84,2.63%,16.60%
+Heathcare Information and Technology,,189.47,10.61%,14.11%
+Homebuilding,Residential Construction,19.46,9.04%,17.70%
+Hospitals/Healthcare Facilities,Medical Care Facilities,72.23,3.70%,70.64%
+Hotel/Gaming,Gambling,51.99,-30.78%,-30.40%
+Hotel/Gaming,Lodging,51.99,-30.78%,-30.40%
+Hotel/Gaming,Resorts & Casinos,51.99,-30.78%,-30.40%
+Household Products,Household & Personal Products,592.23,11.71%,31.60%
+Information Services,Information Technology Services,102.24,15.76%,14.35%
+Insurance (General),Insurance Brokers,65.34,1.43%,1.49%
+Insurance (General),Insurance—Diversified,65.34,1.43%,1.49%
+Insurance (General),Insurance—Specialty’,65.34,1.43%,1.49%
+Insurance (Life),Insurance—Life,18.97,6.54%,5.61%
+Insurance (Prop/Cas.),Insurance—Property & Casualty,44.23,6.68%,9.19%
+Investments & Asset Management,Asset Management,480.92,19.51%,12.35%
+Investments & Asset Management,Closed-End Fund - Equity,480.92,19.51%,12.35%
+Machinery,Farm & Heavy Construction Machinery,59.51,6.58%,12.65%
+Machinery,Specialty Industrial Machinery,59.51,6.58%,12.65%
+Machinery,Diversified Machinery,59.51,6.58%,12.65%
+Metals & Mining,Copper,30.21,1.64%,2.67%
+Metals & Mining,Metal Fabrication,30.21,1.64%,2.67%
+Metals & Mining,Aluminum,30.21,1.64%,2.67%
+Metals & Mining,Other Industrial Metals & Mining,30.21,1.64%,2.67%
+Office Equipment & Services,Business Equipment & Supplies,16.09,1.95%,6.36%
+Oil/Gas (Integrated),Oil & Gas Integrated,33.88,-7.20%,-6.19%
+Oil/Gas (Production and Exploration),Oil & Gas Refining & Marketing,25.15,-78.85%,-37.09%
+Oil/Gas (Production and Exploration),Oil & Gas Drilling,25.15,-78.85%,-37.09%
+Oil/Gas (Production and Exploration),Oil & Gas E&P,25.15,-78.85%,-37.09%
+Oil/Gas (Production and Exploration),Independent Oil & Gas,25.15,-78.85%,-37.09%
+Oil/Gas Distribution,Oil & Gas Midstream,10.84,0.96%,1.28%
+Oilfield Svcs/Equip.,Oil & Gas Equipment & Services,40.3,-10.98%,-26.63%
+Packaging & Container,Packaging & Containers,25.24,2.98%,9.76%
+Paper/Forest Products,Paper & Paper Products,20.06,2.27%,4.69%
+Power,Utilities—Independent Power Producers,21.48,8.80%,7.69%
+Power,Utilities—Regulated Electric,21.48,8.80%,7.69%
+Precious Metals,Other Precious Metals & Mining,19.65,15.79%,8.27%
+Precious Metals,Gold,19.65,15.79%,8.27%
+Precious Metals,Silver,19.65,15.79%,8.27%
+Precious Metals,Uranium,19.65,15.79%,8.27%
+Publishing & Newspapers,Publishing,48,-6.27%,-14.18%
+R.E.I.T.,REIT—Diversified,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Retail,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Specialty,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Industrial,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Office,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Residential,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Healthcare Facilities,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Hotel & Motel,49.79,6.72%,2.17%
+R.E.I.T.,REIT—Mortgage,49.79,6.72%,2.17%
+Real Estate (Development),Real Estate—Development,31.02,-0.32%,-0.13%
+Real Estate (General/Diversified),Real Estate—Diversified,40.16,5.12%,2.00%
+Real Estate (General/Diversified),Rental & Leasing Services’,40.16,5.12%,2.00%
+Real Estate (Operations & Services),Real Estate Services,1199.26,1.53%,4.71%
+Recreation,Leisure,39.3,-2.12%,-7.19%
+Reinsurance,Insurance—Reinsurance,9.56,2.16%,2.42%
+Restaurant/Dining,Restaurants,70.43,5.69%,NA
+Retail (Automotive),Auto & Truck Dealerships,30.46,3.84%,36.28%
+Retail (Building Supply),Tools & Accessories,152.69,7.53%,0.27%
+Retail (Distributors),,41.38,2.74%,9.67%
+Retail (General),Home Improvement Retail,23.23,2.79%,20.64%
+Retail (General),Discount Stores,23.23,2.79%,20.64%
+Retail (General),Department Stores,23.23,2.79%,20.64%
+Retail (General),Pharmaceutical Retailers,23.23,2.79%,20.64%
+Retail (Grocery and Food),Grocery Stores,40.6,2.20%,30.63%
+Retail (Grocery and Food),Confectioners,40.6,2.20%,30.63%
+Retail (Online),Internet Retail,133.68,4.95%,27.05%
+Retail (Special Lines),Specialty Retail,30.51,-0.10%,-0.64%
+Retail (Special Lines),Luxury Goods,30.51,-0.10%,-0.64%
+Rubber& Tires,,39.19,-10.40%,-25.69%
+Semiconductor,Semiconductors,1291.42,20.49%,22.13%
+Semiconductor Equip,Semiconductor Equipment & Materials,108.68,17.06%,32.23%
+Shipbuilding & Marine,Marine Shipping,23.4668012393081,-5.99%,-5.70%
+Shoe,Footwear & Accessories,31.53,6.86%,23.70%
+Software (Entertainment),Electronic Gaming & Multimedia,100.59,20.30%,17.71%
+Software (Internet),Software—Infrastructure,92.26,-5.60%,-11.23%
+Software (System & Application),Software—Application,193.65,19.99%,28.09%
+Steel,Steel,76.29,-1.28%,-2.84%
+Telecom (Wireless),Telecom Services,29.65,4.60%,8.91%
+Telecom. Equipment,Communication Equipment,69.36,10.79%,17.10%
+Telecom. Services,,158.41,8.52%,11.27%
+Tobacco,Tobacco,28.53,15.31%,-0.23%
+Transportation,Integrated Freight & Logistics,27.84,3.88%,22.77%
+Transportation,Industrial Distribution,27.84,3.88%,22.77%
+Transportation (Railroads),Railroads,25.54,25.07%,21.47%
+Trucking,Trucking,30.51,-9.27%,-17.70%
+Utility (General),Utilities—Diversified,20.24,8.59%,7.49%
+Utility (General),Diversified Utilities,20.24,8.59%,7.49%
+Utility (General),,20.24,8.59%,7.49%
+Utility (General),,20.24,8.59%,7.49%
+Utility (General),Utilities—Regulated Gas,20.24,8.59%,7.49%
+Utility (Water),Utilities—Regulated Water,54.77,16.24%,8.99%
+Total Market,Conglomerates,109.79,5.05%,8.25%
+Total Market (without financials),Shell Companies,103.33,4.01%,7.78%

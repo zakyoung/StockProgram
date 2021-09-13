@@ -220,10 +220,6 @@ class Stock:
     except:
       return None
 
-class IndustryAverages:
-  def __init__(self):
-    pass
-
 def netIncomePoints(stockObject):
   points = 0
   if stockObject.mostRecentYearsEarnings != None:
@@ -238,9 +234,8 @@ def netIncomePoints(stockObject):
         points += growth_rate_points
   return points
 
-def priceToEarningsPoints(stockObject):
+def priceToEarningsPoints(stockObject,averagePe):
 	points = 0
-	averagePe = 20
 	if stockObject.forwardPeRatio:
 		if stockObject.forwardPeRatio < averagePe - 6:
 			points += 15
@@ -273,10 +268,9 @@ def currentRatioPoints(stockObject):
       points += 10
   return points
 
-def returnOnEquityPoints(stockObject):
+def returnOnEquityPoints(stockObject,averageROE):
   try:
     points = 0
-    averageROE = 11.39
     if stockObject.returnOnEquity:
       if stockObject.returnOnEquity - averageROE >= 0:
         points = int((stockObject.returnOnEquity - averageROE) * 0.5)
@@ -335,9 +329,8 @@ def dividendPoints(stockObject):
       points += 1
   return points
 
-def profitMarginPoints(stockObject):
+def profitMarginPoints(stockObject,averageProfitMargin):
 	points = 0
-	averageProfitMargin = 7.71
 	if stockObject.profitMargin:
 		if stockObject.profitMargin - averageProfitMargin >= 0:
 			points = int(stockObject.profitMargin-averageProfitMargin)*0.5
@@ -357,17 +350,26 @@ def priceToBookPoints(stockObject):
         points += (5-(0.5*int(stockObject.priceToBook)))
   return points
 
-def stockAnalyzer(stockObject):
+def stockAnalyzer(stockObject,dataDict):
   totalPoints = 0
   totalPoints += netIncomePoints(stockObject)
-  totalPoints += priceToEarningsPoints(stockObject)
+  try:
+    totalPoints += priceToEarningsPoints(stockObject, float(dataDict[stockObject.industry ]["Average PE Ratio"]))
+  except:
+    pass
   totalPoints += currentRatioPoints(stockObject)
-  totalPoints += returnOnEquityPoints(stockObject)
+  try:
+    totalPoints += returnOnEquityPoints(stockObject,float(dataDict[stockObject.industry]["Average ROE"].strip('%')))
+  except:
+    pass
   totalPoints += revenueGrowthRatePoints(stockObject)
   totalPoints += operatingCashflowPoints(stockObject)
   totalPoints += interestCoverageRatioPoints(stockObject)
   totalPoints += dividendPoints(stockObject)
-  totalPoints += profitMarginPoints(stockObject)
+  try:
+    totalPoints += profitMarginPoints(stockObject,float(dataDict[stockObject.industry]["Average Profit Margin"].strip('%')))
+  except:
+    pass
   totalPoints += priceToBookPoints(stockObject)
   return totalPoints
 
@@ -380,12 +382,19 @@ def run():
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
-    scoringList = []
+    scoringList = []    
+    with open('pedatafinal.csv','r') as data:
+      DataDict = {}
+      reader = list(csv.DictReader(data))
+      for line in reader:
+        DataDict[line['Yahoo Finance Equivalent'].strip('"" ')] = line
+
     for stock in allStocks:
       stockObj = Stock(stock)
-      stockScore = stockAnalyzer(stockObj)
+      stockScore = stockAnalyzer(stockObj,DataDict)
       print(f"{stockObj}: {stockScore}")
       scoringList.append((stockObj,stockScore))
+
     scoringList = sorted(scoringList, key = lambda x: x[1], reverse = True)
     with open(f'{date.today()}-Output.txt','w') as output:
       for val in scoringList:
