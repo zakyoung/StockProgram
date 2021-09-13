@@ -1,0 +1,6265 @@
+RGR (Aerospace & Defense): 83.25
+EBS (Drug Manufacturers—Specialty & Generic): 83.0
+LAKE (Apparel Manufacturing): 82.25
+TROX (Chemicals): 82.0
+WOR (Metal Fabrication): 80.75
+VRTX (Biotechnology): 80.5
+PHM (Residential Construction): 80.25
+QIWI (Information Technology Services): 80.25
+LEN (Residential Construction): 79.25
+SGC (Apparel Manufacturing): 79.0
+NXST (Broadcasting): 78.75
+OXLC (Asset Management): 78.5
+GTN (Broadcasting): 78.25
+BIG (Discount Stores): 77.75
+NVDA (Semiconductors): 77.75
+SIGA (Biotechnology): 77.5
+QDEL (Diagnostics & Research): 77.0
+INTC (Semiconductors): 76.5
+CEO (Oil & Gas E&P): 76.25
+DRD (Gold): 75.5
+PAAS (Silver): 75.5
+SID (Steel): 75.25
+APAM (Asset Management): 75.0
+ESCA (Leisure): 74.75
+MFC (Insurance—Life): 74.5
+CE (Chemicals): 73.75
+AEIS (Electrical Equipment & Parts): 73.25
+EXP (Building Materials): 73.25
+REGN (Biotechnology): 73.25
+MBUU (Recreational Vehicles): 72.75
+IRWD (Drug Manufacturers—Specialty & Generic): 72.5
+MED (Personal Services): 72.5
+MKSI (Scientific & Technical Instruments): 72.5
+PZN (Asset Management): 72.25
+NEM (Gold): 72.0
+COWN (Capital Markets): 71.75
+LPX (Building Products & Equipment): 71.75
+MHO (Residential Construction): 71.75
+ELP (Utilities—Diversified): 71.5
+GRVY (Electronic Gaming & Multimedia): 71.5
+HMN (Insurance—Property & Casualty): 71.5
+SPWH (Leisure): 71.5
+BABA (Internet Retail): 71.25
+MTH (Residential Construction): 71.25
+ESGR (Insurance—Diversified): 71
+GSK (Drug Manufacturers—General): 71.0
+HVT (Home Improvement Retail): 71.0
+AEL (Insurance—Life): 70.75
+AMGN (Drug Manufacturers—General): 70.75
+CIO (REIT—Office): 70.75
+CMC (Steel): 70.75
+FDX (Integrated Freight & Logistics): 70.75
+PBFX (Oil & Gas Midstream): 70.75
+STC (Insurance—Property & Casualty): 70.75
+ENVA (Credit Services): 70.5
+NBIX (Biotechnology): 70.5
+LGIH (Residential Construction): 70.25
+LMT (Aerospace & Defense): 70.25
+MEI (Electronic Components): 70.25
+RNR (Insurance—Reinsurance): 70.25
+SNY (Drug Manufacturers—General): 70.25
+PUK (Insurance—Life): 70.0
+ALXN (Biotechnology): 69.75
+CCS (Residential Construction): 69.75
+LAZ (Capital Markets): 69.5
+TER (Semiconductor Equipment & Materials): 69.5
+CSGP (Real Estate Services): 69.25
+DHT (Oil & Gas Midstream): 69.25
+ESNT (Mortgage Finance): 69.25
+LFVN (Packaged Foods): 69.25
+NNI (Credit Services): 69.25
+SEIC (Asset Management): 69.25
+AMG (Asset Management): 69.0
+FNF (Insurance—Specialty): 69.0
+UFPI (Lumber & Wood Production): 69.0
+ABR (REIT—Mortgage): 68.75
+AU (Gold): 68.75
+KLAC (Semiconductor Equipment & Materials): 68.75
+TKC (Telecom Services): 68.75
+OBCI (Conglomerates): 68.5
+PGR (Insurance—Property & Casualty): 68.5
+BCC (Lumber & Wood Production): 68.25
+COKE (Beverages—Non-Alcoholic): 68.25
+KFRC (Staffing & Employment Services): 68.25
+LINC (Education & Training Services): 68.25
+ORI (Insurance—Diversified): 68.25
+EVR (Capital Markets): 68.0
+IIIN (Metal Fabrication): 68.0
+INFI (Biotechnology): 68.0
+PCRX (Drug Manufacturers—Specialty & Generic): 68.0
+WSM (Specialty Retail): 68.0
+CIG (Utilities—Diversified): 67.75
+MRCC (Mortgage Finance): 67.75
+BDSI (Drug Manufacturers—Specialty & Generic): 67.5
+CI (Healthcare Plans): 67.5
+KMPR (Insurance—Property & Casualty): 67.5
+NVR (Residential Construction): 67.5
+SGU (Oil & Gas Midstream): 67.5
+SMG (Agricultural Inputs): 67.5
+FF (Chemicals): 67.0
+MRK (Drug Manufacturers—General): 67.0
+NMIH (Insurance—Property & Casualty): 67.0
+PRGS (Software—Application): 67.0
+CRMT (Auto & Truck Dealerships): 66.5
+DHI (Residential Construction): 66.5
+ERIC (Communication Equipment): 66.5
+GRBK (Residential Construction): 66.5
+PFSI (Mortgage Finance): 66.5
+PSXP (Oil & Gas Midstream): 66.5
+SSP (Broadcasting): 66.5
+USNA (Household & Personal Products): 66.5
+BBY (Specialty Retail): 66.25
+GNTX (Auto Parts): 66.25
+SHLX (Oil & Gas Midstream): 66.25
+GOLD (Gold): 66.0
+JOUT (Leisure): 66.0
+PRI (Insurance—Life): 66.0
+SRPT (Biotechnology): 66.0
+YY (Internet Content & Information): 66
+EBMT (Banks—Regional): 65.75
+GHL (Capital Markets): 65.75
+MSFT (Software—Infrastructure): 65.75
+RCII (Rental & Leasing Services): 65.75
+TPVG (Asset Management): 65.75
+LPLA (Capital Markets): 65.5
+SSNC (Software—Application): 65.5
+XOMA (Biotechnology): 65.5
+BIO (Medical Devices): 65.25
+BKE (Apparel Retail): 65.25
+MBT (Telecom Services): 65.25
+MPB (Banks—Regional): 65.25
+PDEX (Medical Instruments & Supplies): 65.25
+ABCB (Banks—Regional): 65.0
+CSCO (Communication Equipment): 65.0
+DQ (Semiconductor Equipment & Materials): 65.0
+EXAS (Diagnostics & Research): 65.0
+NLS (Leisure): 65.0
+RDN (Insurance—Specialty): 65.0
+CMI (Specialty Industrial Machinery): 64.75
+HOLI (Electrical Equipment & Parts): 64.75
+RE (Insurance—Reinsurance): 64.75
+ACGL (Insurance—Diversified): 64.5
+BIIB (Drug Manufacturers—General): 64.5
+EA (Electronic Gaming & Multimedia): 64.5
+MPW (REIT—Healthcare Facilities): 64.5
+NEU (Specialty Chemicals): 64.5
+NOC (Aerospace & Defense): 64.5
+PLAB (Semiconductor Equipment & Materials): 64.5
+ECPG (Mortgage Finance): 64.25
+HII (Aerospace & Defense): 64.25
+SCU (Asset Management): 64.25
+VRA (Footwear & Accessories): 64.25
+DV (Software—Application): 64.0
+IVZ (Asset Management): 64.0
+NAVI (Credit Services): 64.0
+ATHM (Internet Content & Information): 63.75
+EDUC (Publishing): 63.75
+FMN (Asset Management): 63.75
+MKTX (Capital Markets): 63.75
+TPL (Oil & Gas E&P): 63.75
+TWOU (Education & Training Services): 63.75
+VIPS (Internet Retail): 63.75
+GBDC (Asset Management): 63.5
+GOOD (REIT—Diversified): 63.5
+KGC (Gold): 63.5
+MOMO (Internet Content & Information): 63.5
+NRG (Utilities—Independent Power Producers): 63.5
+SLF (Insurance—Diversified): 63.5
+VBTX (Banks—Regional): 63.5
+CRS (Metal Fabrication): 63.25
+ATRS (Medical Instruments & Supplies): 63.0
+ATVI (Electronic Gaming & Multimedia): 63.0
+HZO (Specialty Retail): 63.0
+IMKTA (Grocery Stores): 63.0
+KOP (Specialty Chemicals): 63.0
+MLI (Metal Fabrication): 63.0
+NBN (Banks—Regional): 63.0
+ORCL (Software—Infrastructure): 63.0
+ALL (Insurance—Property & Casualty): 62.75
+SFM (Grocery Stores): 62.75
+TPX (Furnishings, Fixtures & Appliances): 62.75
+TX (Steel): 62.75
+CPB (Packaged Foods): 62.5
+FHN (Banks—Regional): 62.5
+GBL (Capital Markets): 62.5
+GFF (Tools & Accessories): 62.5
+LRCX (Semiconductor Equipment & Materials): 62.5
+MAS (Building Products & Equipment): 62.5
+PCH (REIT—Specialty): 62.5
+AGCO (Farm & Heavy Construction Machinery): 62.25
+CP (Railroads): 62.25
+HIBB (Specialty Retail): 62.25
+AMKR (Semiconductors): 62.0
+FGEN (Biotechnology): 62.0
+GLP (Oil & Gas Midstream): 62.0
+SVA (Biotechnology): 62
+BGFV (Specialty Retail): 61.75
+GFI (Gold): 61.75
+IBCP (Banks—Regional): 61.75
+NUS (Household & Personal Products): 61.75
+NWPX (Metal Fabrication): 61.75
+OAS (Oil & Gas E&P): 61.75
+TGP (Oil & Gas Midstream): 61.75
+CFBK (Banks—Regional): 61.5
+EDU (Education & Training Services): 61.5
+HRB (Personal Services): 61.5
+MPV (Asset Management): 61.5
+SCVL (Apparel Retail): 61.5
+SLM (Credit Services): 61.5
+SPKE (Utilities—Regulated Electric): 61.5
+VIVO (Diagnostics & Research): 61.5
+ALSN (Auto Parts): 61.25
+BIDU (Internet Content & Information): 61.25
+BLDR (Building Products & Equipment): 61.25
+DRNA (Biotechnology): 61.25
+ELA (Specialty Retail): 61.25
+FDUS (Asset Management): 61.25
+HUN (Chemicals): 61.25
+IBA (Farm Products): 61.25
+ORRF (Banks—Regional): 61.25
+ZTS (Drug Manufacturers—Specialty & Generic): 61.25
+HP (Oil & Gas Drilling): 61.0
+IAG (Gold): 61.0
+MTG (Insurance—Specialty): 61.0
+OFS (Asset Management): 61.0
+THG (Insurance—Property & Casualty): 61.0
+UNM (Insurance—Life): 61.0
+ASX (Semiconductors): 60.75
+CZWI (Banks—Regional): 60.75
+IBTX (Banks—Regional): 60.75
+MPLX (Oil & Gas Midstream): 60.75
+SFNC (Banks—Regional): 60.75
+SPTN (Food Distribution): 60.75
+STX (Computer Hardware): 60.75
+ACET (Biotechnology): 60.5
+FAF (Insurance—Specialty): 60.5
+NGVC (Grocery Stores): 60.5
+BCRX (Biotechnology): 60.25
+CCMP (Semiconductor Equipment & Materials): 60.25
+EQC (REIT—Office): 60.25
+FOXA (Broadcasting): 60.25
+JYNT (Medical Care Facilities): 60.25
+MU (Semiconductors): 60.25
+RS (Steel): 60.25
+SNX (Information Technology Services): 60.25
+SWM (Paper & Paper Products): 60.25
+TOL (Residential Construction): 60.25
+ATLC (Credit Services): 60
+CPRX (Biotechnology): 60.0
+FNV (Gold): 60.0
+HTH (Banks—Regional): 60.0
+OMER (Biotechnology): 60
+SAR (Asset Management): 60.0
+WLKP (Chemicals): 60.0
+BRKS (Semiconductor Equipment & Materials): 59.75
+CRWS (Textile Manufacturing): 59.75
+DXCM (Diagnostics & Research): 59.75
+EVN (Asset Management): 59.75
+FBMS (Banks—Regional): 59.75
+FIX (Engineering & Construction): 59.75
+HEP (Oil & Gas Midstream): 59.75
+MCI (Asset Management): 59.75
+QCOM (Semiconductors): 59.75
+AL (Rental & Leasing Services): 59.5
+DECK (Footwear & Accessories): 59.5
+FRBA (Banks—Regional): 59.5
+FSFG (Banks—Regional): 59.5
+HEAR (Consumer Electronics): 59.5
+NKG (Asset Management): 59.5
+TMO (Diagnostics & Research): 59.5
+UMC (Semiconductors): 59.5
+JAZZ (Biotechnology): 59.25
+MTRN (Other Industrial Metals & Mining): 59.25
+MUSA (Specialty Retail): 59.25
+STL (Banks—Regional): 59.25
+AGNC (REIT—Mortgage): 59.0
+AIR (Aerospace & Defense): 59.0
+BPOP (Banks—Regional): 59.0
+CBNK (Banks—Regional): 59.0
+CHK (Oil & Gas E&P): 59.0
+CSX (Railroads): 59.0
+DLB (Information Technology Services): 59.0
+HIG (Insurance—Diversified): 59.0
+HIMX (Semiconductors): 59.0
+INTU (Software—Application): 59.0
+JNJ (Drug Manufacturers—General): 59.0
+LOGI (Computer Hardware): 59.0
+LOPE (Education & Training Services): 59.0
+MCK (Medical Distribution): 59.0
+PML (Asset Management): 59.0
+QRVO (Semiconductors): 59.0
+SNA (Tools & Accessories): 59.0
+TMHC (Residential Construction): 59.0
+TSLX (Asset Management): 59.0
+VALE (Other Industrial Metals & Mining): 59.0
+WHR (Furnishings, Fixtures & Appliances): 59.0
+WSFS (Banks—Regional): 59.0
+ENTG (Semiconductor Equipment & Materials): 58.75
+FDS (Financial Data & Stock Exchanges): 58.75
+FFWM (Banks—Regional): 58.75
+FRO (Oil & Gas Midstream): 58.75
+RCKY (Footwear & Accessories): 58.75
+BC (Leisure): 58.5
+BWA (Auto Parts): 58.5
+CO (Diagnostics & Research): 58.5
+EVTC (Software—Infrastructure): 58.5
+GOOG (Internet Content & Information): 58.5
+GOOGL (Internet Content & Information): 58.5
+MO (Tobacco): 58.5
+OIS (Oil & Gas Equipment & Services): 58.5
+SMMF (Banks—Regional): 58.5
+SSD (Building Products & Equipment): 58.5
+TKR (Tools & Accessories): 58.5
+VLY (Banks—Regional): 58.5
+AFL (Insurance—Life): 58.25
+CHI (Asset Management): 58.25
+FBC (Banks—Regional): 58.25
+FL (Footwear & Accessories): 58.25
+ITRN (Communication Equipment): 58.25
+MCO (Financial Data & Stock Exchanges): 58.25
+MRCY (Aerospace & Defense): 58.25
+PKI (Diagnostics & Research): 58.25
+SAMG (Asset Management): 58.25
+SCCO (Copper): 58.25
+TR (Confectioners): 58.25
+ANTM (Healthcare Plans): 58.0
+FMC (Agricultural Inputs): 58.0
+IMMR (Software—Application): 58.0
+LZB (Furnishings, Fixtures & Appliances): 58.0
+MSB (Steel): 58.0
+ONB (Banks—Regional): 58.0
+SASR (Banks—Regional): 58.0
+SE (Electronic Gaming & Multimedia): 58
+UTHR (Biotechnology): 58.0
+VZ (Telecom Services): 58.0
+AMAT (Semiconductor Equipment & Materials): 57.75
+CASH (Banks—Regional): 57.75
+CHE (Medical Care Facilities): 57.75
+CHMG (Banks—Regional): 57.75
+FOX (Broadcasting): 57.75
+KNX (Trucking): 57.75
+MARA (Capital Markets): 57.75
+MXIM (Semiconductors): 57.75
+NIO (Auto Manufacturers): 57.75
+TSM (Semiconductors): 57.75
+UCBI (Banks—Regional): 57.75
+AIN (Textile Manufacturing): 57.5
+BAH (Consulting Services): 57.5
+BXC (Building Products & Equipment): 57.5
+DOX (Software—Infrastructure): 57.5
+DSM (Asset Management): 57.5
+DVA (Medical Care Facilities): 57.5
+EBF (Business Equipment & Supplies): 57.5
+IBP (Building Products & Equipment): 57.5
+KIM (REIT—Retail): 57.5
+LAD (Auto & Truck Dealerships): 57.5
+MDC (Residential Construction): 57.5
+NEWT (Asset Management): 57.5
+NTAP (Computer Hardware): 57.5
+PINC (Health Information Services): 57.5
+SVM (Silver): 57.5
+TROW (Asset Management): 57.5
+BGCP (Capital Markets): 57.25
+BLX (Banks—Regional): 57.25
+CHY (Asset Management): 57.25
+HUM (Healthcare Plans): 57.25
+JBSS (Packaged Foods): 57.25
+LXFR (Specialty Industrial Machinery): 57.25
+MC (Capital Markets): 57.25
+NMFC (Asset Management): 57.25
+SC (Credit Services): 57.25
+SLGN (Packaging & Containers): 57.25
+SMP (Auto Parts): 57.25
+TXN (Semiconductors): 57.25
+UBCP (Banks—Regional): 57.25
+UEIC (Consumer Electronics): 57.25
+ADBE (Software—Infrastructure): 57.0
+BEN (Asset Management): 57.0
+CHRS (Biotechnology): 57.0
+FCCY (Banks—Regional): 57.0
+LCUT (Furnishings, Fixtures & Appliances): 57.0
+NTES (Internet Content & Information): 57.0
+PCAR (Farm & Heavy Construction Machinery): 57.0
+PMT (REIT—Mortgage): 57.0
+RM (Credit Services): 57.0
+SAM (Beverages—Brewers): 57.0
+SENEA (Packaged Foods): 57.0
+SENEB (Packaged Foods): 57.0
+XL (Auto Parts): 57.0
+ABM (Specialty Business Services): 56.75
+JBL (Electronic Components): 56.75
+LOAN (REIT—Mortgage): 56.75
+MGRC (Rental & Leasing Services): 56.75
+OSK (Farm & Heavy Construction Machinery): 56.75
+SRLP (Oil & Gas Refining & Marketing): 56.75
+WES (Oil & Gas Midstream): 56.75
+ACRE (REIT—Mortgage): 56.5
+CROX (Footwear & Accessories): 56.5
+DKL (Oil & Gas Midstream): 56.5
+DYNT (Medical Devices): 56.5
+ICCC (Biotechnology): 56.5
+LOW (Home Improvement Retail): 56.5
+PG (Household & Personal Products): 56.5
+PHT (Asset Management): 56.5
+SAGE (Biotechnology): 56.5
+SF (Capital Markets): 56.5
+SGMO (Biotechnology): 56.5
+SMFG (Banks—Diversified): 56.5
+CELP (Oil & Gas Equipment & Services): 56.25
+CRUS (Semiconductors): 56.25
+FSM (Silver): 56.25
+FUNC (Banks—Regional): 56.25
+HBNC (Banks—Regional): 56.25
+MFG (Banks—Regional): 56.25
+MOV (Luxury Goods): 56.25
+PBIP (Banks—Regional): 56.25
+STLD (Steel): 56.25
+TECH (Biotechnology): 56.25
+ALX (REIT—Retail): 56.0
+ASML (Semiconductor Equipment & Materials): 56.0
+AUDC (Communication Equipment): 56.0
+CMU (Asset Management): 56.0
+COG (Oil & Gas E&P): 56.0
+CYD (Specialty Industrial Machinery): 56.0
+IDRA (Biotechnology): 56.0
+OMC (Advertising Agencies): 56.0
+SAFT (Insurance—Property & Casualty): 56.0
+TCPC (Asset Management): 56.0
+WU (Credit Services): 56.0
+ABBV (Drug Manufacturers—General): 55.75
+APA (Oil & Gas E&P): 55.75
+BANR (Banks—Regional): 55.75
+BCBP (Banks—Regional): 55.75
+CIM (REIT—Mortgage): 55.75
+CNC (Healthcare Plans): 55.75
+GGG (Specialty Industrial Machinery): 55.75
+INOD (Information Technology Services): 55.75
+IRBT (Consumer Electronics): 55.75
+MMP (Oil & Gas Midstream): 55.75
+PB (Banks—Regional): 55.75
+SRE (Utilities—Diversified): 55.75
+AIMC (Specialty Industrial Machinery): 55.5
+BMTC (Banks—Regional): 55.5
+CTS (Electronic Components): 55.5
+FBP (Banks—Regional): 55.5
+GNW (Insurance—Life): 55.5
+HASI (REIT—Specialty): 55.5
+LL (Home Improvement Retail): 55.5
+LPG (Oil & Gas Midstream): 55.5
+POOL (Leisure): 55.5
+PRAA (Credit Services): 55.5
+TAL (Education & Training Services): 55.5
+TSN (Farm Products): 55.5
+WSBF (Banks—Regional): 55.5
+WST (Medical Instruments & Supplies): 55.5
+XRX (Information Technology Services): 55.5
+AMX (Telecom Services): 55.25
+BERY (Packaging & Containers): 55.25
+BKCC (Asset Management): 55.25
+CAH (Medical Distribution): 55.25
+CCLP (Oil & Gas Equipment & Services): 55.25
+COF (Credit Services): 55.25
+ESSA (Banks—Regional): 55.25
+GGB (Steel): 55.25
+MA (Credit Services): 55.25
+RVNC (Biotechnology): 55.25
+SBLK (Marine Shipping): 55.25
+SIMO (Semiconductors): 55.25
+VPV (Asset Management): 55.25
+ZUMZ (Apparel Retail): 55.25
+AGIO (Biotechnology): 55.0
+AMNB (Banks—Regional): 55.0
+CPSS (Credit Services): 55.0
+CTT (REIT—Specialty): 55.0
+DGX (Diagnostics & Research): 55.0
+FAST (Industrial Distribution): 55.0
+KLIC (Semiconductor Equipment & Materials): 55.0
+MSM (Industrial Distribution): 55.0
+NL (Security & Protection Services): 55.0
+TTWO (Electronic Gaming & Multimedia): 55.0
+VHI (Chemicals): 55.0
+VRTS (Asset Management): 55.0
+XLNX (Semiconductors): 55.0
+AFG (Insurance—Property & Casualty): 54.75
+ARE (REIT—Office): 54.75
+BOCH (Banks—Regional): 54.75
+CAC (Banks—Regional): 54.75
+CCK (Packaging & Containers): 54.75
+CXH (Asset Management): 54.75
+HMLP (Oil & Gas Midstream): 54.75
+JD (Internet Retail): 54.75
+KRNY (Banks—Regional): 54.75
+RPM (Specialty Chemicals): 54.75
+UGI (Utilities—Regulated Gas): 54.75
+AMCX (Broadcasting): 54.5
+BCEI (Oil & Gas E&P): 54.5
+EHTH (Insurance Brokers): 54.5
+FFBC (Banks—Regional): 54.5
+HOFT (Furnishings, Fixtures & Appliances): 54.5
+ISTR (Banks—Regional): 54.5
+LDOS (Information Technology Services): 54.5
+MTBC (Health Information Services): 54.5
+NPO (Specialty Industrial Machinery): 54.5
+OXY (Oil & Gas E&P): 54.5
+PLXS (Electronic Components): 54.5
+RMD (Medical Instruments & Supplies): 54.5
+STRL (Engineering & Construction): 54.5
+STWD (REIT—Mortgage): 54.5
+SUPN (Drug Manufacturers—Specialty & Generic): 54.5
+TCFC (Banks—Regional): 54.5
+TLK (Telecom Services): 54.5
+V (Credit Services): 54.5
+VSH (Semiconductors): 54.5
+WERN (Trucking): 54.5
+WWE (Entertainment): 54.5
+CINF (Insurance—Property & Casualty): 54.25
+CXE (Asset Management): 54.25
+FBHS (Furnishings, Fixtures & Appliances): 54.25
+MET (Insurance—Life): 54.25
+ORAN (Telecom Services): 54.25
+PATK (Recreational Vehicles): 54.25
+TTEC (Information Technology Services): 54.25
+UNTY (Banks—Regional): 54.25
+WDFC (Specialty Chemicals): 54.25
+BFS (REIT—Retail): 54.0
+CPRT (Specialty Business Services): 54.0
+CTAS (Specialty Business Services): 54.0
+DCO (Aerospace & Defense): 54.0
+DLNG (Oil & Gas Midstream): 54.0
+EBIX (Software—Application): 54.0
+FET (Oil & Gas Equipment & Services): 54.0
+INBK (Banks—Regional): 54.0
+KEYS (Scientific & Technical Instruments): 54.0
+MMM (Specialty Industrial Machinery): 54.0
+NVS (Drug Manufacturers—General): 54.0
+OSBC (Banks—Regional): 54.0
+SGOC (Credit Services): 54.0
+THFF (Banks—Regional): 54.0
+UHS (Medical Care Facilities): 54.0
+VMW (Software—Infrastructure): 54.0
+WAT (Diagnostics & Research): 54.0
+WIX (Software—Infrastructure): 54.0
+YNDX (Internet Content & Information): 54.0
+ABG (Auto & Truck Dealerships): 53.75
+AXGN (Medical Devices): 53.75
+BZH (Residential Construction): 53.75
+CNO (Insurance—Life): 53.75
+EBAY (Internet Retail): 53.75
+FUL (Specialty Chemicals): 53.75
+HNNA (Asset Management): 53.75
+HOMB (Banks—Regional): 53.75
+ISNS (Scientific & Technical Instruments): 53.75
+KBH (Residential Construction): 53.75
+KELYA (Staffing & Employment Services): 53.75
+LYB (Specialty Chemicals): 53.75
+MNST (Beverages—Non-Alcoholic): 53.75
+MSON (Medical Devices): 53.75
+MTOR (Auto Parts): 53.75
+NEWR (Software—Infrastructure): 53.75
+OCUL (Biotechnology): 53.75
+PPBI (Banks—Regional): 53.75
+STRA (Education & Training Services): 53.75
+UMH (REIT—Residential): 53.75
+VIV (Telecom Services): 53.75
+WRLD (Credit Services): 53.75
+AMP (Asset Management): 53.5
+BGS (Packaged Foods): 53.5
+BSET (Furnishings, Fixtures & Appliances): 53.5
+BXMT (REIT—Mortgage): 53.5
+FBNC (Banks—Regional): 53.5
+FMNB (Banks—Regional): 53.5
+FSBW (Banks—Regional): 53.5
+GPI (Auto & Truck Dealerships): 53.5
+HELE (Household & Personal Products): 53.5
+KR (Grocery Stores): 53.5
+LBRDK (Entertainment): 53.5
+LPSN (Software—Application): 53.5
+NX (Building Products & Equipment): 53.5
+PCYO (Utilities—Regulated Water): 53.5
+SMBC (Banks—Regional): 53.5
+SSB (Banks—Regional): 53.5
+WIRE (Electrical Equipment & Parts): 53.5
+ENS (Electrical Equipment & Parts): 53.25
+GNRC (Specialty Industrial Machinery): 53.25
+IDXX (Diagnostics & Research): 53.25
+NUE (Steel): 53.25
+OCFC (Banks—Regional): 53.25
+RGEN (Medical Instruments & Supplies): 53.25
+RPT (REIT—Retail): 53.25
+AINV (Asset Management): 53.0
+AMD (Semiconductors): 53.0
+BSRR (Banks—Regional): 53.0
+BUSE (Banks—Regional): 53.0
+EVER (Internet Content & Information): 53.0
+FLY (Aerospace & Defense): 53.0
+HMC (Auto Manufacturers): 53.0
+HTLF (Banks—Regional): 53.0
+MMAC (Mortgage Finance): 53.0
+RMAX (Real Estate Services): 53.0
+SLG (REIT—Office): 53.0
+SPB (Household & Personal Products): 53.0
+TOWN (Banks—Regional): 53.0
+TRV (Insurance—Property & Casualty): 53.0
+VMO (Asset Management): 53.0
+BELFB (Electronic Components): 52.75
+CDNS (Software—Application): 52.75
+CPLP (Marine Shipping): 52.75
+EGO (Gold): 52.75
+ESXB (Banks—Regional): 52.75
+GILD (Drug Manufacturers—General): 52.75
+HNP (Utilities—Independent Power Producers): 52.75
+LNC (Insurance—Life): 52.75
+QCRH (Banks—Regional): 52.75
+RIO (Other Industrial Metals & Mining): 52.75
+RJF (Capital Markets): 52.75
+TGLS (Building Products & Equipment): 52.75
+A (Diagnostics & Research): 52.5
+AAN (Specialty Retail): 52.5
+BRC (Security & Protection Services): 52.5
+CNOB (Banks—Regional): 52.5
+DE (Farm & Heavy Construction Machinery): 52.5
+EFSC (Banks—Regional): 52.5
+ENSG (Medical Care Facilities): 52.5
+HEI (Aerospace & Defense): 52.5
+NMM (Marine Shipping): 52.5
+NOA (Oil & Gas Equipment & Services): 52.5
+PGTI (Building Products & Equipment): 52.5
+PLPC (Electrical Equipment & Parts): 52.5
+SMED (Waste Management): 52.5
+SUN (Oil & Gas Refining & Marketing): 52.5
+TCS (Specialty Retail): 52.5
+TSCO (Specialty Retail): 52.5
+UBSI (Banks—Regional): 52.5
+ALLE (Security & Protection Services): 52.25
+AMPH (Drug Manufacturers—Specialty & Generic): 52.25
+DHF (Asset Management): 52.25
+DOW (Chemicals): 52.25
+FCBC (Banks—Regional): 52.25
+GHC (Education & Training Services): 52.25
+HBCP (Banks—Regional): 52.25
+HSY (Confectioners): 52.25
+KRO (Specialty Chemicals): 52.25
+MCY (Insurance—Property & Casualty): 52.25
+SAL (Banks—Regional): 52.25
+SCM (Asset Management): 52.25
+SHBI (Banks—Regional): 52.25
+SIGI (Insurance—Property & Casualty): 52.25
+UCTT (Semiconductor Equipment & Materials): 52.25
+VGM (Asset Management): 52.25
+WGO (Recreational Vehicles): 52.25
+AMRK (Capital Markets): 52.0
+AVK (Asset Management): 52.0
+AVY (Business Equipment & Supplies): 52.0
+FMBH (Banks—Regional): 52.0
+FORM (Semiconductors): 52.0
+LNN (Farm & Heavy Construction Machinery): 52.0
+MCBC (Banks—Regional): 52.0
+MITT (REIT—Mortgage): 52.0
+NVAX (Biotechnology): 52
+PHI (Telecom Services): 52.0
+SCL (Specialty Chemicals): 52.0
+SEE (Packaging & Containers): 52.0
+WIT (Information Technology Services): 52.0
+WTM (Insurance—Property & Casualty): 52
+ABB (Electrical Equipment & Parts): 51.75
+AIZ (Insurance—Specialty): 51.75
+APH (Electronic Components): 51.75
+CAT (Farm & Heavy Construction Machinery): 51.75
+CENT (Packaged Foods): 51.75
+CVBF (Banks—Regional): 51.75
+EPD (Oil & Gas Midstream): 51.75
+FCX (Copper): 51.75
+FNB (Banks—Regional): 51.75
+GRFS (Drug Manufacturers—General): 51.75
+GS (Capital Markets): 51.75
+HPQ (Computer Hardware): 51.75
+IRS (Conglomerates): 51.75
+VCYT (Biotechnology): 51.75
+VKQ (Asset Management): 51.75
+WSBC (Banks—Regional): 51.75
+YPF (Oil & Gas Integrated): 51.75
+ABT (Medical Devices): 51.5
+AZPN (Software—Application): 51.5
+CCNE (Banks—Regional): 51.5
+CMRE (Marine Shipping): 51.5
+FBIZ (Banks—Regional): 51.5
+FSS (Pollution & Treatment Controls): 51.5
+GNE (Utilities—Regulated Electric): 51.5
+HRZN (Asset Management): 51.5
+JKS (Solar): 51.5
+LCNB (Banks—Regional): 51.5
+NBHC (Banks—Regional): 51.5
+PFD (Asset Management): 51.5
+PFLT (Asset Management): 51.5
+QURE (Biotechnology): 51.5
+RBCAA (Banks—Regional): 51.5
+REGI (Oil & Gas Refining & Marketing): 51.5
+RPRX (Biotechnology): 51.5
+TGH (Rental & Leasing Services): 51.5
+ULBI (Electrical Equipment & Parts): 51.5
+AGI (Gold): 51.25
+BXS (Banks—Regional): 51.25
+CSWC (Asset Management): 51.25
+DGICA (Insurance—Property & Casualty): 51.25
+EGRX (Drug Manufacturers—Specialty & Generic): 51.25
+ENTA (Biotechnology): 51.25
+FOXF (Recreational Vehicles): 51.25
+FRME (Banks—Regional): 51.25
+GWW (Industrial Distribution): 51.25
+ITW (Specialty Industrial Machinery): 51.25
+MGA (Auto Parts): 51.25
+RIBT (Packaged Foods): 51.25
+AEM (Gold): 51.0
+BAX (Medical Instruments & Supplies): 51.0
+BMA (Banks—Regional): 51.0
+NHI (REIT—Healthcare Facilities): 51.0
+S (Software—Infrastructure): 51
+SBSI (Banks—Regional): 51.0
+TBPH (Biotechnology): 51.0
+TGA (Oil & Gas E&P): 51.0
+TWO (REIT—Mortgage): 51.0
+WLK (Specialty Chemicals): 51.0
+XIN (Real Estate—Development): 51
+ADS (Credit Services): 50.75
+AXDX (Diagnostics & Research): 50.75
+CB (Insurance—Property & Casualty): 50.75
+CLI (REIT—Office): 50.75
+DAN (Auto Parts): 50.75
+DG (Discount Stores): 50.75
+DLHC (Specialty Business Services): 50.75
+ETG (Asset Management): 50.75
+FLXS (Furnishings, Fixtures & Appliances): 50.75
+ISBC (Banks—Regional): 50.75
+LEO (Asset Management): 50.75
+MASI (Medical Instruments & Supplies): 50.75
+MDU (Building Materials): 50.75
+MPX (Recreational Vehicles): 50.75
+MTX (Chemicals): 50.75
+RUSHA (Auto & Truck Dealerships): 50.75
+SBFG (Banks—Regional): 50.75
+SCHN (Steel): 50.75
+VBIV (Biotechnology): 50.75
+WAL (Banks—Regional): 50.75
+AB (Asset Management): 50.5
+AGD (Asset Management): 50.5
+AKAM (Software—Infrastructure): 50.5
+CNA (Insurance—Property & Casualty): 50.5
+COO (Medical Instruments & Supplies): 50.5
+CW (Specialty Industrial Machinery): 50.5
+DKS (Specialty Retail): 50.5
+ECC (Asset Management): 50.5
+GES (Apparel Retail): 50.5
+GIS (Packaged Foods): 50.5
+KE (Electrical Equipment & Parts): 50.5
+KO (Beverages—Non-Alcoholic): 50.5
+MBWM (Banks—Regional): 50.5
+NAT (Marine Shipping): 50.5
+OFLX (Specialty Industrial Machinery): 50.5
+SAIC (Information Technology Services): 50.5
+SPNS (Software—Application): 50.5
+TPH (Residential Construction): 50.5
+ARI (REIT—Mortgage): 50.25
+BELFA (Electronic Components): 50.25
+EFC (Mortgage Finance): 50.25
+GLRE (Insurance—Reinsurance): 50.25
+NGS (Oil & Gas Equipment & Services): 50.25
+NRIM (Banks—Regional): 50.25
+SNV (Banks—Regional): 50.25
+TAIT (Electronics & Computer Distribution): 50.25
+TCBK (Banks—Regional): 50.25
+TRI (Consulting Services): 50.25
+TRNX (Oil & Gas Integrated): 50.25
+WTBA (Banks—Regional): 50.25
+AAPL (Consumer Electronics): 50.0
+ADMA (Biotechnology): 50.0
+AGRX (Drug Manufacturers—Specialty & Generic): 50.0
+ASTE (Farm & Heavy Construction Machinery): 50.0
+ATAX (Mortgage Finance): 50.0
+AXTA (Specialty Chemicals): 50.0
+CASI (Biotechnology): 50.0
+CEMI (Diagnostics & Research): 50.0
+CODI (Conglomerates): 50.0
+CONN (Specialty Retail): 50.0
+HCA (Medical Care Facilities): 50.0
+IQI (Asset Management): 50.0
+K (Packaged Foods): 50.0
+OIA (Asset Management): 50.0
+PANL (Marine Shipping): 50.0
+RGLD (Gold): 50.0
+WASH (Banks—Regional): 50.0
+ZGNX (Biotechnology): 50.0
+AROW (Banks—Regional): 49.75
+ECOM (Software—Application): 49.75
+EPZM (Biotechnology): 49.75
+GLOP (Oil & Gas Midstream): 49.75
+INFY (Information Technology Services): 49.75
+LMRK (Real Estate Services): 49.75
+NSIT (Information Technology Services): 49.75
+PKX (Steel): 49.75
+SEM (Medical Care Facilities): 49.75
+TTMI (Electronic Components): 49.75
+WRE (REIT—Office): 49.75
+ADES (Pollution & Treatment Controls): 49.5
+AEZS (Biotechnology): 49.5
+ALNY (Biotechnology): 49.5
+BCLI (Biotechnology): 49.5
+BECN (Building Products & Equipment): 49.5
+CIEN (Communication Equipment): 49.5
+CSTE (Building Products & Equipment): 49.5
+CTXS (Software—Application): 49.5
+ESI (Specialty Chemicals): 49.5
+FCF (Banks—Regional): 49.5
+HON (Specialty Industrial Machinery): 49.5
+IBM (Information Technology Services): 49.5
+IIM (Asset Management): 49.5
+LMAT (Medical Instruments & Supplies): 49.5
+MERC (Paper & Paper Products): 49.5
+MHK (Furnishings, Fixtures & Appliances): 49.5
+PH (Specialty Industrial Machinery): 49.5
+PMBC (Banks—Regional): 49.5
+SXI (Specialty Industrial Machinery): 49.5
+Y (Insurance—Property & Casualty): 49.5
+ACLS (Semiconductor Equipment & Materials): 49.25
+AKBA (Biotechnology): 49.25
+ALG (Farm & Heavy Construction Machinery): 49.25
+AMZN (Internet Retail): 49.25
+AON (Insurance Brokers): 49.25
+AVAV (Aerospace & Defense): 49.25
+CBD (Department Stores): 49.25
+CENTA (Packaged Foods): 49.25
+CTG (Information Technology Services): 49.25
+DVD (Leisure): 49.25
+EBSB (Banks—Regional): 49.25
+FCNCA (Banks—Regional): 49.25
+FISI (Banks—Regional): 49.25
+GABC (Banks—Regional): 49.25
+HWKN (Specialty Chemicals): 49.25
+NMT (Asset Management): 49.25
+NVO (Biotechnology): 49.25
+PII (Recreational Vehicles): 49.25
+PRTK (Biotechnology): 49.25
+QLYS (Software—Infrastructure): 49.25
+REXR (REIT—Industrial): 49.25
+ROK (Specialty Industrial Machinery): 49.25
+SKM (Telecom Services): 49.25
+SUNS (Asset Management): 49.25
+TFX (Medical Instruments & Supplies): 49.25
+TTC (Tools & Accessories): 49.25
+USLM (Building Materials): 49.25
+AI (Information Technology Services): 49.0
+AVGO (Semiconductors): 49.0
+BLCM (Biotechnology): 49
+CATY (Banks—Regional): 49.0
+CZNC (Banks—Regional): 49.0
+DLTR (Discount Stores): 49.0
+DM (Computer Hardware): 49.0
+FLXN (Drug Manufacturers—Specialty & Generic): 49
+GRUB (Internet Retail): 49.0
+NKTR (Biotechnology): 49.0
+PBYI (Biotechnology): 49
+RESN (Semiconductors): 49.0
+SMLR (Medical Devices): 49
+TGT (Discount Stores): 49.0
+UVE (Insurance—Property & Casualty): 49.0
+ACRX (Drug Manufacturers—Specialty & Generic): 48.75
+BRFS (Packaged Foods): 48.75
+BRKR (Medical Devices): 48.75
+CPSI (Health Information Services): 48.75
+CSQ (Asset Management): 48.75
+CTHR (Luxury Goods): 48.75
+CVCY (Banks—Regional): 48.75
+ETH (Furnishings, Fixtures & Appliances): 48.75
+HRTX (Biotechnology): 48.75
+KNOP (Marine Shipping): 48.75
+LITB (Internet Retail): 48.75
+LXP (REIT—Diversified): 48.75
+MHI (Asset Management): 48.75
+MOH (Healthcare Plans): 48.75
+MX (Semiconductors): 48.75
+NXJ (Asset Management): 48.75
+PFG (Insurance—Diversified): 48.75
+PM (Tobacco): 48.75
+SBRA (REIT—Healthcare Facilities): 48.75
+TW (Capital Markets): 48.75
+USM (Telecom Services): 48.75
+ALLY (Credit Services): 48.5
+ARNA (Biotechnology): 48.5
+ASB (Banks—Regional): 48.5
+BLDP (Specialty Industrial Machinery): 48.5
+CHKP (Software—Infrastructure): 48.5
+CLVS (Biotechnology): 48.5
+CTRN (Apparel Retail): 48.5
+DCI (Specialty Industrial Machinery): 48.5
+EML (Tools & Accessories): 48.5
+FB (Internet Content & Information): 48.5
+FFC (Asset Management): 48.5
+HIX (Asset Management): 48.5
+HMST (Banks—Regional): 48.5
+ICD (Oil & Gas Drilling): 48.5
+ICUI (Medical Instruments & Supplies): 48.5
+NDAQ (Financial Data & Stock Exchanges): 48.5
+PMF (Asset Management): 48.5
+PMX (Asset Management): 48.5
+RNST (Banks—Regional): 48.5
+SMTC (Semiconductors): 48.5
+TM (Auto Manufacturers): 48.5
+UVSP (Banks—Regional): 48.5
+BMRC (Banks—Regional): 48.25
+CAG (Packaged Foods): 48.25
+CCBG (Banks—Regional): 48.25
+CHRW (Integrated Freight & Logistics): 48.25
+CNHI (Farm & Heavy Construction Machinery): 48.25
+CRAI (Consulting Services): 48.25
+HBP (Industrial Distribution): 48.25
+HNI (Business Equipment & Supplies): 48.25
+KOS (Oil & Gas E&P): 48.25
+NVRO (Medical Devices): 48.25
+PNFP (Banks—Regional): 48.25
+PTCT (Biotechnology): 48.25
+RAND (Asset Management): 48.25
+SBH (Specialty Retail): 48.25
+SWK (Tools & Accessories): 48.25
+SYKE (Information Technology Services): 48.25
+TRIB (Diagnostics & Research): 48.25
+UBS (Banks—Diversified): 48.25
+AM (Oil & Gas Midstream): 48.0
+CACI (Information Technology Services): 48.0
+KAI (Specialty Industrial Machinery): 48.0
+LH (Diagnostics & Research): 48.0
+LXRX (Biotechnology): 48.0
+LYTS (Electronic Components): 48.0
+MEIP (Biotechnology): 48.0
+MOFG (Banks—Regional): 48.0
+MORN (Financial Data & Stock Exchanges): 48.0
+MOS (Agricultural Inputs): 48.0
+NFLX (Entertainment): 48.0
+OHI (REIT—Healthcare Facilities): 48.0
+PACB (Diagnostics & Research): 48.0
+PFE (Drug Manufacturers—General): 48.0
+PRQR (Biotechnology): 48.0
+RYAM (Chemicals): 48.0
+SLCT (Banks—Regional): 48.0
+STEM (Software—Infrastructure): 48
+SWKS (Semiconductors): 48.0
+TRMK (Banks—Regional): 48.0
+ABC (Medical Distribution): 47.75
+BBL (Other Industrial Metals & Mining): 47.75
+BMI (Electrical Equipment & Parts): 47.75
+EW (Medical Devices): 47.75
+GLDD (Engineering & Construction): 47.75
+HD (Home Improvement Retail): 47.75
+INGR (Packaged Foods): 47.75
+LLY (Drug Manufacturers—General): 47.75
+MPWR (Semiconductors): 47.75
+NBTB (Banks—Regional): 47.75
+NRP (Thermal Coal): 47.75
+OC (Building Products & Equipment): 47.75
+RDY (Drug Manufacturers—Specialty & Generic): 47.75
+SPH (Utilities—Regulated Gas): 47.75
+THS (Packaged Foods): 47.75
+TREX (Building Products & Equipment): 47.75
+UBOH (Banks—Regional): 47.75
+AAWW (Airports & Air Services): 47.5
+ADUS (Medical Care Facilities): 47.5
+APD (Chemicals): 47.5
+ARDX (Biotechnology): 47.5
+AXS (Insurance—Property & Casualty): 47.5
+BIOC (Diagnostics & Research): 47.5
+BPY (Real Estate Services): 47.5
+CTLT (Drug Manufacturers—Specialty & Generic): 47.5
+CUBI (Banks—Regional): 47.5
+DAC (Marine Shipping): 47.5
+FLC (Asset Management): 47.5
+FMBI (Banks—Regional): 47.5
+FOR (Real Estate—Development): 47.5
+FORTY (Information Technology Services): 47.5
+FRA (Asset Management): 47.5
+FT (Asset Management): 47.5
+GD (Aerospace & Defense): 47.5
+GEOS (Oil & Gas Equipment & Services): 47.5
+KWR (Specialty Chemicals): 47.5
+LORL (Telecom Services): 47.5
+MKL (Insurance—Property & Casualty): 47.5
+NID (Asset Management): 47.5
+PEP (Beverages—Non-Alcoholic): 47.5
+PFO (Asset Management): 47.5
+REPH (Drug Manufacturers—Specialty & Generic): 47.5
+SJM (Packaged Foods): 47.5
+VECO (Semiconductor Equipment & Materials): 47.5
+WBK (Banks—Diversified): 47.5
+WLL (Oil & Gas E&P): 47.5
+ACI (Grocery Stores): 47.25
+ACN (Information Technology Services): 47.25
+ADP (Staffing & Employment Services): 47.25
+ATO (Utilities—Regulated Gas): 47.25
+BHP (Other Industrial Metals & Mining): 47.25
+CR (Specialty Industrial Machinery): 47.25
+CSGS (Software—Infrastructure): 47.25
+FDP (Farm Products): 47.25
+FLWS (Specialty Retail): 47.25
+GIII (Apparel Retail): 47.25
+GPK (Packaging & Containers): 47.25
+HBI (Apparel Manufacturing): 47.25
+HCSG (Medical Care Facilities): 47.25
+HI (Specialty Industrial Machinery): 47.25
+HIW (REIT—Office): 47.25
+ICPT (Biotechnology): 47.25
+IEX (Specialty Industrial Machinery): 47.25
+INDB (Banks—Regional): 47.25
+JOBS (Staffing & Employment Services): 47.25
+KRG (REIT—Retail): 47.25
+LGND (Biotechnology): 47.25
+MATX (Marine Shipping): 47.25
+MLR (Auto Parts): 47.25
+NEO (Diagnostics & Research): 47.25
+PKE (Aerospace & Defense): 47.25
+PZC (Asset Management): 47.25
+RARE (Biotechnology): 47.25
+RGA (Insurance—Reinsurance): 47.25
+STAG (REIT—Industrial): 47.25
+URBN (Apparel Retail): 47.25
+WWD (Aerospace & Defense): 47.25
+ACST (Biotechnology): 47
+ADMS (Drug Manufacturers—Specialty & Generic): 47
+ATSG (Integrated Freight & Logistics): 47.0
+B (Specialty Industrial Machinery): 47.0
+CRC (Oil & Gas E&P): 47.0
+CTBI (Banks—Regional): 47.0
+CYTK (Biotechnology): 47.0
+DAR (Packaged Foods): 47.0
+EXEL (Biotechnology): 47.0
+FEIM (Communication Equipment): 47.0
+FTNT (Software—Infrastructure): 47.0
+GTLS (Specialty Industrial Machinery): 47.0
+HTBX (Biotechnology): 47.0
+KMB (Household & Personal Products): 47.0
+LARK (Banks—Regional): 47.0
+LKQ (Auto Parts): 47.0
+MLM (Building Materials): 47.0
+OKE (Oil & Gas Midstream): 47.0
+POWI (Semiconductors): 47.0
+PTR (Oil & Gas Integrated): 47.0
+SBS (Utilities—Regulated Water): 47.0
+SRT (Specialty Business Services): 47.0
+STM (Semiconductors): 47.0
+SVVC (Asset Management): 47
+TILE (Furnishings, Fixtures & Appliances): 47.0
+TXT (Aerospace & Defense): 47.0
+UGP (Oil & Gas Refining & Marketing): 47.0
+VEEV (Health Information Services): 47.0
+ADPT (Biotechnology): 46.75
+AFMD (Biotechnology): 46.75
+AMOT (Electronic Components): 46.75
+ASMB (Biotechnology): 46.75
+BMY (Drug Manufacturers—General): 46.75
+BSBR (Banks—Regional): 46.75
+CVS (Healthcare Plans): 46.75
+EGBN (Banks—Regional): 46.75
+FELE (Specialty Industrial Machinery): 46.75
+GASS (Marine Shipping): 46.75
+GGAL (Banks—Regional): 46.75
+GSBC (Banks—Regional): 46.75
+HAFC (Banks—Regional): 46.75
+OMI (Medical Distribution): 46.75
+SANM (Electronic Components): 46.75
+SRCE (Banks—Regional): 46.75
+STRT (Auto Parts): 46.75
+TEDU (Education & Training Services): 46.75
+AME (Specialty Industrial Machinery): 46.5
+AXAS (Oil & Gas E&P): 46.5
+BDN (REIT—Office): 46.5
+BLUE (Biotechnology): 46.5
+CHW (Asset Management): 46.5
+DHR (Diagnostics & Research): 46.5
+DISCA (Entertainment): 46.5
+DISCK (Entertainment): 46.5
+DRRX (Drug Manufacturers—Specialty & Generic): 46.5
+FLS (Specialty Industrial Machinery): 46.5
+FULT (Banks—Regional): 46.5
+HALO (Biotechnology): 46.5
+KIRK (Specialty Retail): 46.5
+KT (Telecom Services): 46.5
+LBAI (Banks—Regional): 46.5
+LWAY (Packaged Foods): 46.5
+MMD (Asset Management): 46.5
+MSA (Security & Protection Services): 46.5
+NKE (Footwear & Accessories): 46.5
+NSP (Staffing & Employment Services): 46.5
+ODC (Specialty Chemicals): 46.5
+PLL (Other Industrial Metals & Mining): 46.5
+SXT (Specialty Chemicals): 46.5
+TRST (Banks—Regional): 46.5
+UTI (Education & Training Services): 46.5
+ASC (Marine Shipping): 46.25
+BRKL (Banks—Regional): 46.25
+CDW (Information Technology Services): 46.25
+CWCO (Utilities—Regulated Water): 46.25
+DOOR (Building Products & Equipment): 46.25
+DWSN (Oil & Gas Equipment & Services): 46.25
+ERIE (Insurance Brokers): 46.25
+ERII (Pollution & Treatment Controls): 46.25
+EWBC (Banks—Diversified): 46.25
+EXPO (Consulting Services): 46.25
+FIBK (Banks—Regional): 46.25
+GRMN (Scientific & Technical Instruments): 46.25
+HOLX (Medical Instruments & Supplies): 46.25
+MTD (Diagnostics & Research): 46.25
+NFBK (Banks—Regional): 46.25
+NICK (Credit Services): 46.25
+PCTY (Software—Application): 46.25
+PLUG (Electrical Equipment & Parts): 46.25
+PSEC (Asset Management): 46.25
+RXN (Specialty Industrial Machinery): 46.25
+SIEN (Medical Devices): 46.25
+UNH (Healthcare Plans): 46.25
+VEC (Aerospace & Defense): 46.25
+ALDX (Biotechnology): 46.0
+BLFS (Medical Instruments & Supplies): 46.0
+BNFT (Software—Application): 46.0
+CFG (Banks—Regional): 46.0
+COLB (Banks—Regional): 46.0
+CSII (Medical Devices): 46.0
+DYN (Biotechnology): 46
+ETR (Utilities—Regulated Electric): 46.0
+FATE (Biotechnology): 46
+GLPI (REIT—Specialty): 46.0
+GTIM (Restaurants): 46.0
+GTS (Healthcare Plans): 46.0
+IX (Credit Services): 46.0
+LBRDA (Entertainment): 46.0
+MGPI (Agricultural Inputs): 46.0
+NATI (Software—Application): 46.0
+NNA (Oil & Gas Midstream): 46.0
+RGLS (Biotechnology): 46.0
+SFST (Banks—Regional): 46.0
+SNOW (Software—Application): 46
+SNPS (Software—Infrastructure): 46.0
+THO (Recreational Vehicles): 46.0
+TRNO (REIT—Industrial): 46.0
+WMS (Building Products & Equipment): 46.0
+ALGN (Medical Devices): 45.75
+AMRB (Banks—Regional): 45.75
+ANET (Computer Hardware): 45.75
+AZN (Drug Manufacturers—General): 45.75
+BGT (Asset Management): 45.75
+CDK (Software—Application): 45.75
+CRESY (Conglomerates): 45.75
+FI (Oil & Gas Equipment & Services): 45.75
+FLIC (Banks—Regional): 45.75
+LANC (Packaged Foods): 45.75
+LFC (Insurance—Life): 45.75
+MLHR (Furnishings, Fixtures & Appliances): 45.75
+NUO (Asset Management): 45.75
+OLED (Semiconductor Equipment & Materials): 45.75
+PBR (Oil & Gas Integrated): 45.75
+R (Rental & Leasing Services): 45.75
+SCD (Asset Management): 45.75
+SMCI (Computer Hardware): 45.75
+STT (Asset Management): 45.75
+SYF (Credit Services): 45.75
+TMST (Steel): 45.75
+VBLT (Biotechnology): 45.75
+VGR (Tobacco): 45.75
+ZION (Banks—Regional): 45.75
+ADSK (Software—Application): 45.5
+AIF (Asset Management): 45.5
+AMWD (Furnishings, Fixtures & Appliances): 45.5
+ANSS (Software—Application): 45.5
+AVNW (Communication Equipment): 45.5
+DLX (Advertising Agencies): 45.5
+DSX (Marine Shipping): 45.5
+DVN (Oil & Gas E&P): 45.5
+EHI (Asset Management): 45.5
+ENPH (Solar): 45.5
+FMS (Medical Care Facilities): 45.5
+GBLI (Insurance—Property & Casualty): 45.5
+GILT (Communication Equipment): 45.5
+LAND (REIT—Industrial): 45.5
+MFM (Asset Management): 45.5
+MOD (Auto Parts): 45.5
+PFS (Banks—Regional): 45.5
+QNST (Advertising Agencies): 45.5
+SA (Gold): 45.5
+TTGT (Internet Content & Information): 45.5
+UG (Household & Personal Products): 45.5
+UMBF (Banks—Regional): 45.5
+VALU (Financial Data & Stock Exchanges): 45.5
+WSO (Industrial Distribution): 45.5
+BP (Oil & Gas Integrated): 45.25
+CHD (Household & Personal Products): 45.25
+DFS (Credit Services): 45.25
+EC (Oil & Gas Integrated): 45.25
+JVA (Packaged Foods): 45.25
+KEY (Banks—Regional): 45.25
+LFUS (Electronic Components): 45.25
+MDCA (Advertising Agencies): 45.25
+NYT (Publishing): 45.25
+PAYX (Staffing & Employment Services): 45.25
+PKBK (Banks—Regional): 45.25
+PNC (Banks—Regional): 45.25
+RFIL (Electrical Equipment & Parts): 45.25
+RYI (Metal Fabrication): 45.25
+STN (Engineering & Construction): 45.25
+SYK (Medical Devices): 45.25
+TSE (Specialty Chemicals): 45.25
+VNDA (Biotechnology): 45.25
+VOYA (Financial Conglomerates): 45.25
+WB (Internet Content & Information): 45.25
+WEYS (Footwear & Accessories): 45.25
+APOG (Building Products & Equipment): 45.0
+BAC (Banks—Diversified): 45.0
+BANF (Banks—Regional): 45.0
+CL (Household & Personal Products): 45.0
+FOLD (Biotechnology): 45.0
+GURE (Specialty Chemicals): 45
+KPTI (Biotechnology): 45.0
+LTRPA (Internet Content & Information): 45.0
+MDWD (Biotechnology): 45
+MN (Asset Management): 45.0
+PEBO (Banks—Regional): 45.0
+SLP (Health Information Services): 45.0
+SNFCA (Credit Services): 45.0
+SSBI (Banks—Regional): 45.0
+UPLD (Software—Application): 45.0
+WWW (Footwear & Accessories): 45.0
+ZBRA (Communication Equipment): 45.0
+AMED (Medical Care Facilities): 44.75
+ANGI (Internet Content & Information): 44.75
+BRO (Insurance Brokers): 44.75
+DD (Specialty Chemicals): 44.75
+FFIC (Banks—Regional): 44.75
+GBCI (Banks—Regional): 44.75
+GDP (Oil & Gas E&P): 44.75
+HOG (Recreational Vehicles): 44.75
+HTBK (Banks—Regional): 44.75
+IART (Medical Devices): 44.75
+LEA (Auto Parts): 44.75
+LEJU (Real Estate Services): 44.75
+MNDO (Software—Application): 44.75
+MTB (Banks—Regional): 44.75
+NWBI (Banks—Regional): 44.75
+NYCB (Banks—Regional): 44.75
+PAG (Auto & Truck Dealerships): 44.75
+ROL (Personal Services): 44.75
+SAP (Software—Application): 44.75
+SPRO (Biotechnology): 44.75
+SWI (Software—Infrastructure): 44.75
+TBNK (Banks—Regional): 44.75
+TGTX (Biotechnology): 44.75
+TISI (Specialty Business Services): 44.75
+UFPT (Packaging & Containers): 44.75
+AZZ (Electrical Equipment & Parts): 44.5
+BK (Asset Management): 44.5
+BNS (Banks—Diversified): 44.5
+CREE (Semiconductors): 44.5
+CTRE (REIT—Healthcare Facilities): 44.5
+EMR (Specialty Industrial Machinery): 44.5
+EPAM (Information Technology Services): 44.5
+FITB (Banks—Regional): 44.5
+GSL (Marine Shipping): 44.5
+HZNP (Drug Manufacturers—General): 44.5
+JOE (Real Estate—Diversified): 44.5
+LEU (Uranium): 44.5
+MBCN (Banks—Regional): 44.5
+MHF (Asset Management): 44.5
+MPA (Asset Management): 44.5
+MS (Capital Markets): 44.5
+MYRG (Engineering & Construction): 44.5
+NKSH (Banks—Regional): 44.5
+PGC (Banks—Regional): 44.5
+SBCF (Banks—Regional): 44.5
+STOR (REIT—Diversified): 44.5
+UNFI (Food Distribution): 44.5
+USB (Banks—Regional): 44.5
+WD (Mortgage Finance): 44.5
+AAON (Building Products & Equipment): 44.25
+DGII (Communication Equipment): 44.25
+DISH (Entertainment): 44.25
+GEO (REIT—Healthcare Facilities): 44.25
+GLOB (Software—Application): 44.25
+HFWA (Banks—Regional): 44.25
+JMP (Capital Markets): 44.25
+LUNA (Scientific & Technical Instruments): 44.25
+MMS (Specialty Business Services): 44.25
+PKG (Packaging & Containers): 44.25
+PSO (Publishing): 44.25
+STNG (Oil & Gas Midstream): 44.25
+TOPS (Marine Shipping): 44.25
+VNET (Information Technology Services): 44.25
+ANAT (Insurance—Diversified): 44.0
+AOD (Asset Management): 44.0
+BSL (Asset Management): 44.0
+BYM (Asset Management): 44.0
+CCUR (Computer Hardware): 44
+CPF (Banks—Regional): 44.0
+CRM (Software—Application): 44.0
+DSPG (Semiconductors): 44.0
+EIG (Insurance—Specialty): 44.0
+FARM (Packaged Foods): 44.0
+FCN (Consulting Services): 44.0
+HLF (Packaged Foods): 44.0
+LBTYK (Entertainment): 44.0
+MHD (Asset Management): 44.0
+MYD (Asset Management): 44.0
+NTWK (Software—Application): 44.0
+PAYC (Software—Application): 44.0
+PBCT (Banks—Regional): 44.0
+PETS (Pharmaceutical Retailers): 44.0
+RF (Banks—Regional): 44.0
+RVSB (Banks—Regional): 44.0
+TSEM (Semiconductors): 44.0
+WBS (Banks—Regional): 44.0
+WCC (Industrial Distribution): 44.0
+WETF (Asset Management): 44.0
+WILC (Food Distribution): 44.0
+WTS (Specialty Industrial Machinery): 44.0
+Z (Internet Content & Information): 44.0
+AAP (Specialty Retail): 43.75
+ABEV (Beverages—Brewers): 43.75
+ACNB (Banks—Regional): 43.75
+AOSL (Semiconductors): 43.75
+ARCC (Asset Management): 43.75
+CHCI (Real Estate—Diversified): 43.75
+CMA (Banks—Regional): 43.75
+CMCO (Farm & Heavy Construction Machinery): 43.75
+CORT (Biotechnology): 43.75
+DCT (Software—Application): 43.75
+ESEA (Marine Shipping): 43.75
+EXTR (Communication Equipment): 43.75
+FRPH (Real Estate Services): 43.75
+KGJI (Gold): 43.75
+MYI (Asset Management): 43.75
+NTIC (Specialty Chemicals): 43.75
+ORLY (Specialty Retail): 43.75
+RMBS (Semiconductors): 43.75
+SANW (Farm Products): 43.75
+SNP (Oil & Gas Integrated): 43.75
+UNF (Specialty Business Services): 43.75
+WFC (Banks—Diversified): 43.75
+WMK (Grocery Stores): 43.75
+X (Steel): 43.75
+BFK (Asset Management): 43.5
+COHU (Semiconductor Equipment & Materials): 43.5
+ESE (Scientific & Technical Instruments): 43.5
+HTLD (Trucking): 43.5
+IPAR (Household & Personal Products): 43.5
+IR (Specialty Industrial Machinery): 43.5
+JHI (Asset Management): 43.5
+MDP (Publishing): 43.5
+MMYT (Travel Services): 43.5
+MYN (Asset Management): 43.5
+NVMI (Semiconductor Equipment & Materials): 43.5
+NYMT (REIT—Mortgage): 43.5
+O (REIT—Retail): 43.5
+OLN (Specialty Chemicals): 43.5
+PDFS (Software—Application): 43.5
+PXLW (Semiconductors): 43.5
+QUMU (Software—Application): 43.5
+RY (Banks—Diversified): 43.5
+TUP (Packaging & Containers): 43.5
+UFI (Textile Manufacturing): 43.5
+UTMD (Medical Instruments & Supplies): 43.5
+VRSK (Consulting Services): 43.5
+WAB (Railroads): 43.5
+WPC (REIT—Diversified): 43.5
+ABMD (Medical Devices): 43.25
+ANF (Apparel Retail): 43.25
+ATEC (Medical Devices): 43.25
+AYI (Electrical Equipment & Parts): 43.25
+BDX (Medical Instruments & Supplies): 43.25
+CBOE (Financial Data & Stock Exchanges): 43.25
+CERN (Health Information Services): 43.25
+CRI (Apparel Retail): 43.25
+EVOK (Drug Manufacturers—Specialty & Generic): 43.25
+FCCO (Banks—Regional): 43.25
+HR (REIT—Healthcare Facilities): 43.25
+IMOS (Semiconductors): 43.25
+KMDA (Drug Manufacturers—Specialty & Generic): 43.25
+MQY (Asset Management): 43.25
+MUE (Asset Management): 43.25
+MYC (Asset Management): 43.25
+PAY (Information Technology Services): 43.25
+SPLK (Software—Infrastructure): 43.25
+TBBK (Banks—Regional): 43.25
+TRQ (Copper): 43.25
+UAN (Agricultural Inputs): 43.25
+WHF (Asset Management): 43.25
+WVVI (Beverages—Wineries & Distilleries): 43.25
+APEI (Education & Training Services): 43.0
+ASH (Specialty Chemicals): 43.0
+ATHX (Biotechnology): 43.0
+AVT (Electronics & Computer Distribution): 43.0
+AXP (Credit Services): 43.0
+BKU (Banks—Regional): 43.0
+DSGX (Software—Application): 43.0
+EME (Engineering & Construction): 43.0
+FSLR (Solar): 43.0
+HALL (Insurance—Property & Casualty): 43.0
+HBAN (Banks—Regional): 43.0
+HSC (Specialty Industrial Machinery): 43.0
+JKHY (Information Technology Services): 43.0
+KAMN (Aerospace & Defense): 43.0
+KYN (Asset Management): 43.0
+MVT (Asset Management): 43.0
+OFG (Banks—Regional): 43.0
+RCI (Telecom Services): 43.0
+SAFM (Packaged Foods): 43.0
+SGEN (Biotechnology): 43.0
+SHW (Specialty Chemicals): 43.0
+SJI (Utilities—Diversified): 43.0
+TREC (Specialty Chemicals): 43.0
+XENT (Medical Devices): 43.0
+ALB (Specialty Chemicals): 42.75
+AMRS (Specialty Chemicals): 42.75
+BCPC (Specialty Chemicals): 42.75
+BNY (Asset Management): 42.75
+CMCT (REIT—Office): 42.75
+CSL (Building Products & Equipment): 42.75
+ESLT (Aerospace & Defense): 42.75
+GM (Auto Manufacturers): 42.75
+HYT (Asset Management): 42.75
+IIVI (Scientific & Technical Instruments): 42.75
+ING (Banks—Diversified): 42.75
+IRMD (Medical Devices): 42.75
+MFNC (Banks—Regional): 42.75
+MQT (Asset Management): 42.75
+NDSN (Specialty Industrial Machinery): 42.75
+PEI (REIT—Retail): 42.75
+PGRE (REIT—Office): 42.75
+SJR (Telecom Services): 42.75
+SMIT (Scientific & Technical Instruments): 42.75
+TRS (Specialty Industrial Machinery): 42.75
+TSC (Banks—Regional): 42.75
+TSQ (Advertising Agencies): 42.75
+USAP (Steel): 42.75
+USDP (Railroads): 42.75
+ADI (Semiconductors): 42.5
+AIT (Industrial Distribution): 42.5
+APO (Asset Management): 42.5
+BKN (Asset Management): 42.5
+BMRN (Biotechnology): 42.5
+CAPL (Oil & Gas Refining & Marketing): 42.5
+CARA (Biotechnology): 42.5
+CXW (REIT—Specialty): 42.5
+FOSL (Luxury Goods): 42.5
+GEF (Packaging & Containers): 42.5
+KRC (REIT—Office): 42.5
+LSTR (Integrated Freight & Logistics): 42.5
+LTC (REIT—Healthcare Facilities): 42.5
+MGIC (Software—Application): 42.5
+MICT (Computer Hardware): 42.5
+MVO (Oil & Gas E&P): 42.5
+NEPT (Drug Manufacturers—Specialty & Generic): 42.5
+NVCN (Medical Devices): 42.5
+PNW (Utilities—Regulated Electric): 42.5
+RBA (Specialty Business Services): 42.5
+RFP (Paper & Paper Products): 42.5
+RMCF (Confectioners): 42.5
+TDY (Scientific & Technical Instruments): 42.5
+TEX (Farm & Heavy Construction Machinery): 42.5
+TNP (Oil & Gas Midstream): 42.5
+UMPQ (Banks—Regional): 42.5
+UPS (Integrated Freight & Logistics): 42.5
+AAOI (Semiconductors): 42.25
+ALV (Auto Parts): 42.25
+AXL (Auto Parts): 42.25
+CONE (REIT—Specialty): 42.25
+DCOM (Banks—Regional): 42.25
+DGLY (Security & Protection Services): 42.25
+DTF (Asset Management): 42.25
+EMN (Chemicals): 42.25
+GPRO (Consumer Electronics): 42.25
+HMNY (Information Technology Services): 42.25
+HWBK (Banks—Regional): 42.25
+INO (Biotechnology): 42.25
+JNPR (Communication Equipment): 42.25
+LHCG (Medical Care Facilities): 42.25
+MUC (Asset Management): 42.25
+NSSC (Security & Protection Services): 42.25
+OI (Packaging & Containers): 42.25
+REX (Oil & Gas Refining & Marketing): 42.25
+SCI (Personal Services): 42.25
+TEN (Auto Parts): 42.25
+WAFD (Banks—Regional): 42.25
+WSTG (Electronics & Computer Distribution): 42.25
+AG (Silver): 42.0
+ASTC (Aerospace & Defense): 42
+BBVA (Banks—Diversified): 42.0
+BIP (Utilities—Diversified): 42.0
+BLK (Asset Management): 42.0
+CECE (Pollution & Treatment Controls): 42.0
+CERS (Biotechnology): 42.0
+CHCO (Banks—Regional): 42.0
+COLM (Apparel Manufacturing): 42.0
+CTSH (Information Technology Services): 42.0
+EXLS (Information Technology Services): 42.0
+GLT (Paper & Paper Products): 42.0
+GPRK (Oil & Gas E&P): 42.0
+KMI (Oil & Gas Midstream): 42.0
+KSS (Department Stores): 42.0
+LAWS (Industrial Distribution): 42.0
+LPL (Consumer Electronics): 42.0
+MT (Steel): 42.0
+PACW (Banks—Regional): 42.0
+PCYG (Software—Application): 42.0
+PRPH (Drug Manufacturers—Specialty & Generic): 42.0
+RBC (Specialty Industrial Machinery): 42.0
+RIGL (Biotechnology): 42.0
+RKT (Mortgage Finance): 42
+STZ (Beverages—Wineries & Distilleries): 42.0
+TK (Oil & Gas Midstream): 42.0
+TNET (Staffing & Employment Services): 42.0
+TPC (Engineering & Construction): 42.0
+TRP (Oil & Gas Midstream): 42.0
+TTOO (Diagnostics & Research): 42
+VPG (Scientific & Technical Instruments): 42.0
+AUPH (Biotechnology): 41.75
+BBBY (Specialty Retail): 41.75
+BG (Farm Products): 41.75
+BVN (Other Precious Metals & Mining): 41.75
+CMG (Restaurants): 41.75
+CRTO (Advertising Agencies): 41.75
+DCTH (Medical Devices): 41.75
+ERF (Oil & Gas E&P): 41.75
+GERN (Biotechnology): 41.75
+HEES (Rental & Leasing Services): 41.75
+INT (Oil & Gas Refining & Marketing): 41.75
+LEG (Furnishings, Fixtures & Appliances): 41.75
+LULU (Apparel Retail): 41.75
+NLST (Semiconductors): 41.75
+PTEN (Oil & Gas Drilling): 41.75
+SBGI (Broadcasting): 41.75
+TC (Internet Content & Information): 41.75
+TSI (Asset Management): 41.75
+TTI (Oil & Gas Equipment & Services): 41.75
+UBP (REIT—Retail): 41.75
+URI (Rental & Leasing Services): 41.75
+UTSI (Communication Equipment): 41.75
+AGEN (Biotechnology): 41.5
+AOS (Specialty Industrial Machinery): 41.5
+BKEP (Oil & Gas Midstream): 41.5
+BR (Information Technology Services): 41.5
+BXP (REIT—Office): 41.5
+CBAN (Banks—Regional): 41.5
+COST (Discount Stores): 41.5
+DBVT (Biotechnology): 41.5
+FANG (Oil & Gas E&P): 41.5
+GFED (Banks—Regional): 41.5
+GPN (Specialty Business Services): 41.5
+HQH (Asset Management): 41.5
+ILMN (Diagnostics & Research): 41.5
+JBHT (Integrated Freight & Logistics): 41.5
+MAN (Staffing & Employment Services): 41.5
+MIXT (Software—Application): 41.5
+MSCI (Financial Data & Stock Exchanges): 41.5
+PSB (REIT—Diversified): 41.5
+RMTI (Drug Manufacturers—Specialty & Generic): 41.5
+SKX (Footwear & Accessories): 41.5
+SPLP (Conglomerates): 41.5
+SREV (Software—Application): 41.5
+TEVA (Drug Manufacturers—Specialty & Generic): 41.5
+THC (Medical Care Facilities): 41.5
+UNP (Railroads): 41.5
+USEG (Oil & Gas E&P): 41.5
+ADC (REIT—Retail): 41.25
+ADM (Farm Products): 41.25
+AGRO (Farm Products): 41.25
+AHH (REIT—Diversified): 41.25
+ATRC (Medical Instruments & Supplies): 41.25
+BBSI (Staffing & Employment Services): 41.25
+CNX (Oil & Gas E&P): 41.25
+CORE (Food Distribution): 41.25
+CXP (REIT—Office): 41.25
+DMLP (Oil & Gas E&P): 41.25
+ESPR (Biotechnology): 41.25
+JHX (Building Materials): 41.25
+LPCN (Biotechnology): 41.25
+MMU (Asset Management): 41.25
+MRTN (Trucking): 41.25
+MUI (Asset Management): 41.25
+NOAH (Asset Management): 41.25
+NSTG (Medical Instruments & Supplies): 41.25
+NTGR (Communication Equipment): 41.25
+PDM (REIT—Office): 41.25
+PFBC (Banks—Regional): 41.25
+RGCO (Utilities—Regulated Gas): 41.25
+SMLP (Oil & Gas Midstream): 41.25
+TAYD (Specialty Industrial Machinery): 41.25
+THRM (Auto Parts): 41.25
+TNK (Oil & Gas Midstream): 41.25
+UBA (REIT—Retail): 41.25
+VLT (Asset Management): 41.25
+WBA (Pharmaceutical Retailers): 41.25
+XEC (Oil & Gas E&P): 41.25
+ACTG (Specialty Business Services): 41.0
+AMSF (Insurance—Specialty): 41.0
+ARW (Electronics & Computer Distribution): 41.0
+CACC (Credit Services): 41.0
+CCU (Beverages—Brewers): 41.0
+CYBE (Scientific & Technical Instruments): 41.0
+DBD (Software—Application): 41.0
+DHIL (Asset Management): 41.0
+EXPD (Integrated Freight & Logistics): 41.0
+GT (Auto Parts): 41.0
+JLL (Real Estate Services): 41.0
+NNN (REIT—Retail): 41.0
+RNA (Biotechnology): 41
+RXDX (Biotechnology): 41
+SAH (Auto & Truck Dealerships): 41.0
+SBNY (Banks—Regional): 41.0
+SIEB (Capital Markets): 41.0
+SMSI (Software—Application): 41.0
+SPSC (Software—Infrastructure): 41.0
+SSTK (Internet Content & Information): 41.0
+TU (Telecom Services): 41.0
+VAC (Resorts & Casinos): 41.0
+ASPN (Building Products & Equipment): 40.75
+AZO (Specialty Retail): 40.75
+CALM (Farm Products): 40.75
+CLS (Electronic Components): 40.75
+EOG (Oil & Gas E&P): 40.75
+FN (Electronic Components): 40.75
+GLAD (Asset Management): 40.75
+GTY (REIT—Retail): 40.75
+HAE (Medical Instruments & Supplies): 40.75
+HTBI (Banks—Regional): 40.75
+INGN (Medical Devices): 40.75
+IP (Packaging & Containers): 40.75
+KKR (Asset Management): 40.75
+MTZ (Engineering & Construction): 40.75
+PBH (Medical Distribution): 40.75
+PNR (Specialty Industrial Machinery): 40.75
+ROLL (Tools & Accessories): 40.75
+SO (Utilities—Regulated Electric): 40.75
+TG (Specialty Chemicals): 40.75
+AGX (Engineering & Construction): 40.5
+CALA (Biotechnology): 40.5
+CWST (Waste Management): 40.5
+DNP (Asset Management): 40.5
+DSWL (Electronic Components): 40.5
+ENBL (Oil & Gas Midstream): 40.5
+ITIC (Insurance—Specialty): 40.5
+KEQU (Furnishings, Fixtures & Appliances): 40.5
+LECO (Tools & Accessories): 40.5
+NAC (Asset Management): 40.5
+NP (Paper & Paper Products): 40.5
+OPTT (Electrical Equipment & Parts): 40.5
+ORN (Engineering & Construction): 40.5
+PFMT (Specialty Business Services): 40.5
+PSA (REIT—Industrial): 40.5
+QTNT (Diagnostics & Research): 40.5
+VSEC (Aerospace & Defense): 40.5
+VTN (Asset Management): 40.5
+ASA (Asset Management): 40.25
+ATNI (Telecom Services): 40.25
+AVD (Agricultural Inputs): 40.25
+BLIN (Software—Infrastructure): 40.25
+CAAS (Auto Parts): 40.25
+CCOI (Telecom Services): 40.25
+CCXI (Biotechnology): 40.25
+CLRO (Communication Equipment): 40.25
+CVI (Oil & Gas Refining & Marketing): 40.25
+FSTR (Railroads): 40.25
+GALT (Biotechnology): 40.25
+GCI (Publishing): 40.25
+GLW (Electronic Components): 40.25
+HIO (Asset Management): 40.25
+IPWR (Electrical Equipment & Parts): 40.25
+LADR (REIT—Mortgage): 40.25
+PSTI (Biotechnology): 40.25
+RMT (Asset Management): 40.25
+RRD (Specialty Business Services): 40.25
+SALM (Broadcasting): 40.25
+SCTY (Security & Protection Services): 40.25
+VCEL (Biotechnology): 40.25
+ABIO (Biotechnology): 40
+APTO (Biotechnology): 40.0
+BTZ (Asset Management): 40.0
+CBAY (Biotechnology): 40.0
+CHNR (Other Industrial Metals & Mining): 40
+CNCE (Biotechnology): 40
+CRL (Diagnostics & Research): 40.0
+FONR (Medical Devices): 40.0
+FVE (Medical Care Facilities): 40.0
+FWP (Biotechnology): 40
+GLMD (Biotechnology): 40.0
+HCKT (Information Technology Services): 40.0
+HSTM (Health Information Services): 40.0
+IBKR (Capital Markets): 40.0
+ICLR (Diagnostics & Research): 40.0
+INCY (Biotechnology): 40.0
+KEP (Utilities—Regulated Electric): 40.0
+KFY (Staffing & Employment Services): 40.0
+MHLD (Insurance—Reinsurance): 40.0
+MKC (Packaged Foods): 40.0
+MTRX (Engineering & Construction): 40.0
+OPY (Capital Markets): 40.0
+PFIN (Tools & Accessories): 40.0
+SIVB (Banks—Regional): 40.0
+SYBT (Banks—Regional): 40.0
+SYNL (Steel): 40.0
+WMT (Discount Stores): 40.0
+ZEUS (Steel): 40.0
+AGM (Credit Services): 39.75
+BTT (Asset Management): 39.75
+CLSN (Biotechnology): 39.75
+IOSP (Specialty Chemicals): 39.75
+MGLN (Healthcare Plans): 39.75
+MMC (Insurance Brokers): 39.75
+NATH (Restaurants): 39.75
+NTCT (Software—Infrastructure): 39.75
+POWL (Electrical Equipment & Parts): 39.75
+PPG (Specialty Chemicals): 39.75
+RBCN (Semiconductor Equipment & Materials): 39.75
+SPE (Asset Management): 39.75
+VCV (Asset Management): 39.75
+VSTM (Biotechnology): 39.75
+ANDE (Food Distribution): 39.5
+BTU (Thermal Coal): 39.5
+CLW (Paper & Paper Products): 39.5
+CME (Financial Data & Stock Exchanges): 39.5
+CNI (Railroads): 39.5
+CPE (Oil & Gas E&P): 39.5
+CRK (Oil & Gas E&P): 39.5
+CVGW (Packaged Foods): 39.5
+EMMS (Broadcasting): 39.5
+EOS (Asset Management): 39.5
+FE (Utilities—Regulated Electric): 39.5
+GIFI (Oil & Gas Equipment & Services): 39.5
+HIFS (Banks—Regional): 39.5
+ICAD (Health Information Services): 39.5
+KBAL (Furnishings, Fixtures & Appliances): 39.5
+KIN (Drug Manufacturers—Specialty & Generic): 39.5
+MAG (Silver): 39.5
+MGNX (Biotechnology): 39.5
+MPAA (Auto Parts): 39.5
+MRNS (Biotechnology): 39.5
+NBR (Oil & Gas Drilling): 39.5
+NC (Thermal Coal): 39.5
+NIM (Asset Management): 39.5
+NPV (Asset Management): 39.5
+NRK (Asset Management): 39.5
+NXR (Asset Management): 39.5
+PEG (Utilities—Diversified): 39.5
+PNNT (Asset Management): 39.5
+QGEN (Diagnostics & Research): 39.5
+SFBS (Banks—Regional): 39.5
+SUP (Auto Parts): 39.5
+TDS (Telecom Services): 39.5
+TNC (Specialty Industrial Machinery): 39.5
+TTEK (Engineering & Construction): 39.5
+WINA (Specialty Retail): 39.5
+ARC (Specialty Business Services): 39.25
+CIT (Banks—Regional): 39.25
+CMO (REIT—Mortgage): 39.25
+EIX (Utilities—Regulated Electric): 39.25
+FFNW (Banks—Regional): 39.25
+GWB (Banks—Regional): 39.25
+HRTG (Insurance—Property & Casualty): 39.25
+MMT (Asset Management): 39.25
+NGG (Utilities—Regulated Electric): 39.25
+NTRS (Asset Management): 39.25
+NWFL (Banks—Regional): 39.25
+PBHC (Banks—Regional): 39.25
+PEB (REIT—Hotel & Motel): 39.25
+PODD (Medical Devices): 39.25
+RGP (Consulting Services): 39.25
+RVT (Asset Management): 39.25
+STFC (Insurance—Property & Casualty): 39.25
+TARO (Drug Manufacturers—Specialty & Generic): 39.25
+UL (Household & Personal Products): 39.25
+USAK (Trucking): 39.25
+WEA (Asset Management): 39.25
+XLRN (Biotechnology): 39.25
+AXTI (Semiconductor Equipment & Materials): 39.0
+BOOT (Apparel Retail): 39.0
+CAMT (Semiconductor Equipment & Materials): 39.0
+CNTY (Resorts & Casinos): 39.0
+CSPI (Information Technology Services): 39.0
+EMKR (Semiconductors): 39.0
+HFC (Oil & Gas Refining & Marketing): 39.0
+HRL (Packaged Foods): 39.0
+HSIC (Medical Distribution): 39.0
+LND (Farm Products): 39
+MANT (Software—Application): 39.0
+MMI (Real Estate Services): 39.0
+MNKD (Biotechnology): 39
+PTSI (Trucking): 39.0
+ROYL (Oil & Gas E&P): 39
+SMPL (Packaged Foods): 39.0
+STBA (Banks—Regional): 39.0
+TRVN (Biotechnology): 39.0
+UVV (Tobacco): 39.0
+VICR (Electronic Components): 39.0
+AN (Auto & Truck Dealerships): 38.75
+ATRA (Biotechnology): 38.75
+BOKF (Banks—Regional): 38.75
+BUD (Beverages—Brewers): 38.75
+ETO (Asset Management): 38.75
+HTD (Asset Management): 38.75
+ICFI (Consulting Services): 38.75
+IRM (REIT—Specialty): 38.75
+MYJ (Asset Management): 38.75
+NEA (Asset Management): 38.75
+NWLI (Insurance—Life): 38.75
+PAHC (Drug Manufacturers—Specialty & Generic): 38.75
+PPC (Packaged Foods): 38.75
+SON (Packaging & Containers): 38.75
+TCBI (Banks—Regional): 38.75
+TDW (Oil & Gas Equipment & Services): 38.75
+TITN (Industrial Distribution): 38.75
+VMC (Building Materials): 38.75
+VNO (REIT—Office): 38.75
+XONE (Specialty Industrial Machinery): 38.75
+AAME (Insurance—Life): 38.5
+AEO (Apparel Retail): 38.5
+BKH (Utilities—Diversified): 38.5
+BOTJ (Banks—Regional): 38.5
+BTA (Asset Management): 38.5
+CAJ (Computer Hardware): 38.5
+CBT (Specialty Chemicals): 38.5
+CFNB (Credit Services): 38.5
+CHT (Telecom Services): 38.5
+DOC (REIT—Healthcare Facilities): 38.5
+DOV (Specialty Industrial Machinery): 38.5
+GPS (Apparel Retail): 38.5
+HUBG (Integrated Freight & Logistics): 38.5
+MATW (Conglomerates): 38.5
+MFA (REIT—Mortgage): 38.5
+MUA (Asset Management): 38.5
+NATR (Household & Personal Products): 38.5
+NOV (Oil & Gas Equipment & Services): 38.5
+PAR (Software—Application): 38.5
+RADA (Aerospace & Defense): 38.5
+RAVN (Specialty Industrial Machinery): 38.5
+TNXP (Biotechnology): 38.5
+WY (REIT—Specialty): 38.5
+XENE (Biotechnology): 38.5
+XNCR (Biotechnology): 38.5
+BDC (Electrical Equipment & Parts): 38.25
+DRI (Restaurants): 38.25
+FIVN (Software—Infrastructure): 38.25
+GCBC (Banks—Regional): 38.25
+IO (Oil & Gas Equipment & Services): 38.25
+JCI (Engineering & Construction): 38.25
+JJSF (Packaged Foods): 38.25
+NNBR (Conglomerates): 38.25
+ODP (Specialty Retail): 38.25
+ONE (Education & Training Services): 38.25
+ROCK (Building Products & Equipment): 38.25
+SCON (Semiconductor Equipment & Materials): 38.25
+TENX (Biotechnology): 38.25
+VET (Oil & Gas E&P): 38.25
+WHLR (REIT—Retail): 38.25
+ACAD (Biotechnology): 38.0
+AMT (REIT—Specialty): 38.0
+BAK (Chemicals): 38.0
+BBW (Specialty Retail): 38.0
+BKEPP (Oil & Gas Midstream): 38
+CUZ (REIT—Office): 38.0
+DIN (Restaurants): 38.0
+EQS (Asset Management): 38.0
+FENG (Internet Content & Information): 38.0
+FWRD (Integrated Freight & Logistics): 38.0
+GRA (Specialty Chemicals): 38.0
+HYB (Asset Management): 38.0
+INSM (Biotechnology): 38.0
+JBT (Specialty Industrial Machinery): 38.0
+JPM (Banks—Diversified): 38.0
+MNP (Asset Management): 38
+MRTX (Biotechnology): 38.0
+PCTI (Communication Equipment): 38.0
+PLD (REIT—Industrial): 38.0
+PNF (Asset Management): 38.0
+RDHL (Drug Manufacturers—Specialty & Generic): 38.0
+RDUS (Drug Manufacturers—Specialty & Generic): 38
+ST (Scientific & Technical Instruments): 38.0
+T (Telecom Services): 38.0
+TGS (Oil & Gas Integrated): 38.0
+TSBK (Banks—Regional): 38.0
+UFS (Paper & Paper Products): 38.0
+VVR (Asset Management): 38.0
+WTFC (Banks—Regional): 38.0
+AGYS (Software—Application): 37.75
+BHK (Asset Management): 37.75
+CASY (Grocery Stores): 37.75
+CBZ (Specialty Business Services): 37.75
+CMLS (Broadcasting): 37.75
+EMCF (Banks—Regional): 37.75
+EMD (Asset Management): 37.75
+HMY (Gold): 37.75
+ICE (Financial Data & Stock Exchanges): 37.75
+KN (Communication Equipment): 37.75
+MNR (REIT—Industrial): 37.75
+MWA (Specialty Industrial Machinery): 37.75
+NWL (Household & Personal Products): 37.75
+OMCL (Health Information Services): 37.75
+PYN (Asset Management): 37.75
+SQBG (Apparel Manufacturing): 37.75
+SRDX (Medical Devices): 37.75
+SWX (Utilities—Regulated Gas): 37.75
+TEF (Telecom Services): 37.75
+VLO (Oil & Gas Refining & Marketing): 37.75
+ADXS (Biotechnology): 37.5
+BCOR (Asset Management): 37.5
+CCI (REIT—Specialty): 37.5
+FCFS (Credit Services): 37.5
+FLT (Information Technology Services): 37.5
+FRPT (Packaged Foods): 37.5
+HTA (REIT—Healthcare Facilities): 37.5
+HUBS (Software—Application): 37.5
+IFN (Asset Management): 37.5
+ISRG (Medical Instruments & Supplies): 37.5
+MCR (Asset Management): 37.5
+NPK (Aerospace & Defense): 37.5
+OFC (REIT—Office): 37.5
+OGS (Utilities—Regulated Gas): 37.5
+OLP (REIT—Diversified): 37.5
+OMAB (Airports & Air Services): 37.5
+PLBC (Banks—Regional): 37.5
+PNI (Asset Management): 37.5
+ROG (Electronic Components): 37.5
+ROP (Specialty Industrial Machinery): 37.5
+SAN (Banks—Diversified): 37.5
+SCSC (Electronics & Computer Distribution): 37.5
+SR (Utilities—Regulated Gas): 37.5
+VMI (Metal Fabrication): 37.5
+AAT (REIT—Diversified): 37.25
+ACCO (Business Equipment & Supplies): 37.25
+ATR (Packaging & Containers): 37.25
+BLRX (Biotechnology): 37.25
+BOH (Banks—Regional): 37.25
+CDZI (Utilities—Regulated Water): 37.25
+CF (Agricultural Inputs): 37.25
+DPZ (Restaurants): 37.25
+EVT (Asset Management): 37.25
+FOE (Specialty Chemicals): 37.25
+G (Information Technology Services): 37.25
+HMHC (Education & Training Services): 37.25
+KALU (Aluminum): 37.25
+KW (Real Estate Services): 37.25
+LGI (Asset Management): 37.25
+MBII (Agricultural Inputs): 37.25
+NCV (Asset Management): 37.25
+OTEX (Software—Application): 37.25
+SFL (Marine Shipping): 37.25
+TBIO (Biotechnology): 37.25
+WRB (Insurance—Property & Casualty): 37.25
+AEG (Insurance—Diversified): 37
+AEY (Electronics & Computer Distribution): 37.0
+ARR (REIT—Mortgage): 37.0
+CFRX (Biotechnology): 37.0
+CIF (Asset Management): 37.0
+FCT (Asset Management): 37.0
+FISV (Information Technology Services): 37.0
+FR (REIT—Industrial): 37.0
+HRC (Medical Instruments & Supplies): 37.0
+MAGS (Security & Protection Services): 37.0
+NEON (Electronic Components): 37.0
+NM (Marine Shipping): 37.0
+NWBO (Biotechnology): 37
+PAA (Oil & Gas Midstream): 37.0
+PCQ (Asset Management): 37.0
+SLRC (Asset Management): 37.0
+SUI (REIT—Residential): 37.0
+TLOG (Biotechnology): 37
+TOUR (Travel Services): 37.0
+TRMB (Scientific & Technical Instruments): 37.0
+WNS (Specialty Business Services): 37.0
+AJG (Insurance Brokers): 36.75
+ANIP (Drug Manufacturers—Specialty & Generic): 36.75
+AWF (Asset Management): 36.75
+CMCSA (Entertainment): 36.75
+ECTE (Medical Devices): 36.75
+ENR (Electrical Equipment & Parts): 36.75
+IDA (Utilities—Regulated Electric): 36.75
+IT (Information Technology Services): 36.75
+ITCI (Biotechnology): 36.75
+KMX (Auto & Truck Dealerships): 36.75
+LII (Specialty Industrial Machinery): 36.75
+LSCC (Semiconductors): 36.75
+MDT (Medical Devices): 36.75
+PCK (Asset Management): 36.75
+PKOH (Industrial Distribution): 36.75
+POST (Packaged Foods): 36.75
+PXD (Oil & Gas E&P): 36.75
+SU (Oil & Gas Integrated): 36.75
+ADMP (Drug Manufacturers—Specialty & Generic): 36.5
+AUY (Gold): 36.5
+CNBKA (Banks—Regional): 36.5
+CPAC (Building Materials): 36.5
+CSIQ (Solar): 36.5
+DTE (Utilities—Regulated Electric): 36.5
+FLDM (Diagnostics & Research): 36.5
+FTK (Oil & Gas Equipment & Services): 36.5
+MCRI (Resorts & Casinos): 36.5
+MYE (Packaging & Containers): 36.5
+NS (Oil & Gas Midstream): 36.5
+NVEC (Semiconductors): 36.5
+SEED (Agricultural Inputs): 36.5
+TRUE (Internet Content & Information): 36.5
+TWN (Asset Management): 36.5
+TYL (Software—Application): 36.5
+ALOT (Computer Hardware): 36.25
+ASGN (Staffing & Employment Services): 36.25
+AVAL (Banks—Regional): 36.25
+CASS (Specialty Business Services): 36.25
+CRH (Building Materials): 36.25
+FIZZ (Beverages—Non-Alcoholic): 36.25
+IESC (Engineering & Construction): 36.25
+IRDM (Telecom Services): 36.25
+KTF (Asset Management): 36.25
+MDXG (Medical Devices): 36.25
+MRLN (Credit Services): 36.25
+NLSN (Consulting Services): 36.25
+OEC (Specialty Chemicals): 36.25
+PNM (Utilities—Regulated Electric): 36.25
+WTI (Oil & Gas E&P): 36.25
+AGO (Insurance—Specialty): 36.0
+BANC (Banks—Regional): 36.0
+BRP (Insurance Brokers): 36.0
+CFFI (Banks—Regional): 36.0
+CMCM (Internet Content & Information): 36.0
+CNS (Asset Management): 36.0
+E (Oil & Gas Integrated): 36.0
+EL (Household & Personal Products): 36.0
+FIVE (Specialty Retail): 36.0
+GEL (Oil & Gas Midstream): 36.0
+GLRI (Shell Companies): 36
+HQY (Health Information Services): 36.0
+MSEX (Utilities—Regulated Water): 36.0
+NERV (Biotechnology): 36.0
+NICE (Software—Application): 36.0
+NSC (Railroads): 36.0
+PSX (Oil & Gas Refining & Marketing): 36.0
+RCMT (Engineering & Construction): 36.0
+RCON (Oil & Gas Equipment & Services): 36.0
+RWLK (Medical Devices): 36.0
+SCYX (Drug Manufacturers—Specialty & Generic): 36.0
+SRC (REIT—Diversified): 36.0
+TD (Banks—Diversified): 36.0
+XOM (Oil & Gas Integrated): 36.0
+XPO (Integrated Freight & Logistics): 36.0
+BSAC (Banks—Regional): 35.75
+CBFV (Banks—Regional): 35.75
+CGNX (Scientific & Technical Instruments): 35.75
+CHS (Apparel Retail): 35.75
+CIZN (Banks—Regional): 35.75
+CM (Banks—Diversified): 35.75
+COMM (Communication Equipment): 35.75
+EBTC (Banks—Regional): 35.75
+KB (Banks—Regional): 35.75
+NCMI (Advertising Agencies): 35.75
+PFIS (Banks—Regional): 35.75
+PSMT (Discount Stores): 35.75
+SGRP (Specialty Business Services): 35.75
+SHI (Oil & Gas Refining & Marketing): 35.75
+SNR (REIT—Residential): 35.75
+SSL (Oil & Gas Integrated): 35.75
+TIGR (Capital Markets): 35.75
+VRSN (Software—Infrastructure): 35.75
+ZIOP (Biotechnology): 35.75
+ACIW (Software—Infrastructure): 35.5
+BKT (Asset Management): 35.5
+CDR (REIT—Retail): 35.5
+CGO (Asset Management): 35.5
+CLFD (Communication Equipment): 35.5
+CTSO (Medical Devices): 35.5
+CWT (Utilities—Regulated Water): 35.5
+DMB (Asset Management): 35.5
+DMO (Asset Management): 35.5
+DY (Engineering & Construction): 35.5
+FFIN (Banks—Regional): 35.5
+HAL (Oil & Gas Equipment & Services): 35.5
+IPG (Advertising Agencies): 35.5
+KVHI (Communication Equipment): 35.5
+LPI (Oil & Gas E&P): 35.5
+NGL (Oil & Gas Refining & Marketing): 35.5
+NRT (Oil & Gas Equipment & Services): 35.5
+PAGP (Oil & Gas Midstream): 35.5
+PFBI (Banks—Regional): 35.5
+RAIL (Railroads): 35.5
+REV (Household & Personal Products): 35.5
+VLGEA (Grocery Stores): 35.5
+WLDN (Engineering & Construction): 35.5
+WSTL (Communication Equipment): 35.5
+AWR (Utilities—Regulated Water): 35.25
+C (Banks—Diversified): 35.25
+CENX (Aluminum): 35.25
+COR (REIT—Office): 35.25
+CPG (Oil & Gas E&P): 35.25
+CWBC (Banks—Regional): 35.25
+DAIO (Electronic Components): 35.25
+DXPE (Industrial Distribution): 35.25
+EOI (Asset Management): 35.25
+EVGN (Biotechnology): 35.25
+GEVO (Specialty Chemicals): 35.25
+IHC (Insurance—Life): 35.25
+IVAC (Aerospace & Defense): 35.25
+MTDR (Oil & Gas E&P): 35.25
+PDCE (Oil & Gas E&P): 35.25
+RH (Specialty Retail): 35.25
+SD (Oil & Gas E&P): 35.25
+SIG (Luxury Goods): 35.25
+SQNS (Semiconductors): 35.25
+WNC (Farm & Heavy Construction Machinery): 35.25
+ACH (Aluminum): 35.0
+AES (Utilities—Diversified): 35.0
+AFT (Asset Management): 35.0
+AMH (REIT—Residential): 35.0
+ARWR (Biotechnology): 35
+ASG (Asset Management): 35.0
+FEO (Asset Management): 35
+GNCA (Biotechnology): 35.0
+HL (Gold): 35.0
+IFF (Specialty Chemicals): 35.0
+IMAX (Entertainment): 35.0
+LCI (Drug Manufacturers—Specialty & Generic): 35.0
+NFG (Oil & Gas Integrated): 35.0
+NXN (Asset Management): 35
+ORA (Utilities—Renewable): 35.0
+PBA (Oil & Gas Midstream): 35.0
+PBI (Business Equipment & Supplies): 35.0
+PDCO (Medical Distribution): 35.0
+PVG (Gold): 35.0
+RIG (Oil & Gas Drilling): 35.0
+RL (Apparel Manufacturing): 35.0
+SBR (Oil & Gas E&P): 35.0
+SHEN (Telecom Services): 35.0
+SPDC (Software—Application): 35
+ZIXI (Software—Infrastructure): 35
+ALCO (Farm Products): 34.75
+BLW (Asset Management): 34.75
+COP (Oil & Gas E&P): 34.75
+EDN (Utilities—Regulated Electric): 34.75
+EGY (Oil & Gas E&P): 34.75
+ELTK (Electronic Components): 34.75
+JACK (Restaurants): 34.75
+KMT (Tools & Accessories): 34.75
+LRN (Education & Training Services): 34.75
+MBI (Insurance—Specialty): 34.75
+OSTK (Internet Retail): 34.75
+OVLY (Banks—Regional): 34.75
+PLOW (Auto Parts): 34.75
+PPL (Utilities—Regulated Electric): 34.75
+PRU (Insurance—Life): 34.75
+SB (Marine Shipping): 34.75
+SIXD (Software—Application): 34.75
+SPG (REIT—Retail): 34.75
+VTA (Asset Management): 34.75
+W (Internet Retail): 34.75
+WABC (Banks—Regional): 34.75
+WDC (Computer Hardware): 34.75
+WEN (Restaurants): 34.75
+ARTNA (Utilities—Regulated Water): 34.5
+ATRI (Medical Instruments & Supplies): 34.5
+BCH (Banks—Regional): 34.5
+BGY (Asset Management): 34.5
+DJCO (Publishing): 34.5
+ELSE (Scientific & Technical Instruments): 34.5
+GCV (Asset Management): 34.5
+HMTV (Entertainment): 34.5
+JHS (Asset Management): 34.5
+MDLZ (Confectioners): 34.5
+MLVF (Banks—Regional): 34.5
+NAD (Asset Management): 34.5
+PCM (Asset Management): 34.5
+PLUS (Software—Application): 34.5
+PRGO (Drug Manufacturers—Specialty & Generic): 34.5
+PRTS (Internet Retail): 34.5
+PWOD (Banks—Regional): 34.5
+RAVE (Restaurants): 34.5
+RNWK (Electronic Gaming & Multimedia): 34.5
+SPPI (Biotechnology): 34.5
+TGI (Aerospace & Defense): 34.5
+WSR (REIT—Retail): 34.5
+AMC (Entertainment): 34.25
+ATLO (Banks—Regional): 34.25
+ATOS (Biotechnology): 34.25
+BBD (Banks—Regional): 34.25
+BUR (Asset Management): 34.25
+CALX (Software—Application): 34.25
+CATO (Apparel Retail): 34.25
+CMP (Other Industrial Metals & Mining): 34.25
+CMRX (Biotechnology): 34.25
+CSU (Medical Care Facilities): 34.25
+DIOD (Semiconductors): 34.25
+DLR (REIT—Office): 34.25
+FCAP (Banks—Regional): 34.25
+FIS (Information Technology Services): 34.25
+FLO (Packaged Foods): 34.25
+FTEK (Pollution & Treatment Controls): 34.25
+GBX (Railroads): 34.25
+GLYC (Biotechnology): 34.25
+HCCI (Waste Management): 34.25
+HMNF (Banks—Regional): 34.25
+LB (Apparel Retail): 34.25
+LIVE (Specialty Retail): 34.25
+LPTH (Electronic Components): 34.25
+OXM (Apparel Manufacturing): 34.25
+PAC (Airports & Air Services): 34.25
+PDS (Oil & Gas Drilling): 34.25
+SJW (Utilities—Regulated Water): 34.25
+TBK (Banks—Regional): 34.25
+UIHC (Insurance—Property & Casualty): 34.25
+AHT (REIT—Hotel & Motel): 34.0
+BCE (Telecom Services): 34.0
+FNLC (Banks—Regional): 34.0
+HIL (Engineering & Construction): 34.0
+HPF (Asset Management): 34.0
+HPS (Asset Management): 34.0
+HURC (Specialty Industrial Machinery): 34.0
+KAR (Specialty Retail): 34.0
+KOF (Beverages—Non-Alcoholic): 34.0
+LKFN (Banks—Regional): 34.0
+MITK (Software—Application): 34.0
+NR (Oil & Gas Equipment & Services): 34.0
+SCHW (Capital Markets): 34.0
+SPOK (Telecom Services): 34.0
+SXC (Coking Coal): 34.0
+BCO (Security & Protection Services): 33.75
+BFIN (Banks—Regional): 33.75
+BKD (Medical Care Facilities): 33.75
+CAKE (Restaurants): 33.75
+EXK (Silver): 33.75
+FLR (Engineering & Construction): 33.75
+FRC (Banks—Regional): 33.75
+HBIO (Medical Instruments & Supplies): 33.75
+HPI (Asset Management): 33.75
+ITUB (Banks—Regional): 33.75
+JE (None): 33.75
+MGEE (Utilities—Diversified): 33.75
+NVGS (Oil & Gas Midstream): 33.75
+NXQ (Asset Management): 33.75
+RRTS (Trucking): 33.75
+SSYS (Computer Hardware): 33.75
+UHAL (Rental & Leasing Services): 33.75
+YORW (Utilities—Regulated Water): 33.75
+AA (Aluminum): 33.5
+AEE (Utilities—Regulated Electric): 33.5
+AP (Metal Fabrication): 33.5
+BBGI (Broadcasting): 33.5
+BLL (Packaging & Containers): 33.5
+BPTH (Biotechnology): 33.5
+BWFG (Banks—Regional): 33.5
+DRE (REIT—Industrial): 33.5
+ITT (Specialty Industrial Machinery): 33.5
+NAN (Asset Management): 33.5
+OSIS (Electronic Components): 33.5
+OSN (Steel): 33.5
+OVBC (Banks—Regional): 33.5
+PDT (Asset Management): 33.5
+SAIA (Trucking): 33.5
+VOXX (Consumer Electronics): 33.5
+AEP (Utilities—Regulated Electric): 33.25
+BCS (Banks—Diversified): 33.25
+BMO (Banks—Diversified): 33.25
+CHSCP (Farm Products): 33.25
+ETN (Specialty Industrial Machinery): 33.25
+FAM (Asset Management): 33.25
+FCEL (Electrical Equipment & Parts): 33.25
+GCO (Apparel Retail): 33.25
+LMNX (Medical Instruments & Supplies): 33.25
+MRC (Oil & Gas Equipment & Services): 33.25
+MTL (Steel): 33.25
+MUX (Other Precious Metals & Mining): 33.25
+NEOG (Diagnostics & Research): 33.25
+OBAS (Real Estate Services): 33.25
+PBPB (Restaurants): 33.25
+SGMS (Gambling): 33.25
+SNN (Medical Devices): 33.25
+SPRT (Software—Application): 33.25
+TRNS (Industrial Distribution): 33.25
+AERI (Drug Manufacturers—Specialty & Generic): 33.0
+AWK (Utilities—Regulated Water): 33.0
+CVGI (Auto Parts): 33.0
+CVX (Oil & Gas Integrated): 33.0
+DB (Banks—Regional): 33.0
+ECHO (Integrated Freight & Logistics): 33.0
+EGLE (Marine Shipping): 33.0
+EVC (Broadcasting): 33.0
+GIB (Information Technology Services): 33.0
+HSII (Staffing & Employment Services): 33.0
+MAV (Asset Management): 33
+PZZA (Restaurants): 33.0
+SPHS (Biotechnology): 33
+SURG (Software—Application): 33
+TAP (Beverages—Brewers): 33.0
+APDN (Diagnostics & Research): 32.75
+APWC (Electrical Equipment & Parts): 32.75
+ENDP (Drug Manufacturers—Specialty & Generic): 32.75
+EVF (Asset Management): 32.75
+FNHC (Insurance—Property & Casualty): 32.75
+HCC (Coking Coal): 32.75
+MUJ (Asset Management): 32.75
+PEBK (Banks—Regional): 32.75
+CDXS (Biotechnology): 32.5
+CVV (Specialty Industrial Machinery): 32.5
+DEI (REIT—Office): 32.5
+HTGC (Mortgage Finance): 32.5
+LTRX (Communication Equipment): 32.5
+MIY (Asset Management): 32.5
+NYMTP (REIT—Mortgage): 32.5
+PHD (Asset Management): 32.5
+SILC (Communication Equipment): 32.5
+AER (Airports & Air Services): 32.25
+ALE (Utilities—Diversified): 32.25
+ALKS (Biotechnology): 32.25
+ATEN (Software—Infrastructure): 32.25
+DORM (Auto Parts): 32.25
+EQR (REIT—Residential): 32.25
+GPX (Education & Training Services): 32.25
+HBM (Copper): 32.25
+ICL (Agricultural Inputs): 32.25
+KCLI (Insurance—Life): 32.25
+MAC (REIT—Retail): 32.25
+MARK (Internet Content & Information): 32.25
+MCHX (Advertising Agencies): 32.25
+OIIM (Semiconductors): 32.25
+PVH (Apparel Manufacturing): 32.25
+QTWO (Software—Application): 32.25
+RELL (Electronic Components): 32.25
+RHI (Staffing & Employment Services): 32.25
+RLJ (REIT—Hotel & Motel): 32.25
+SHG (Banks—Regional): 32.25
+SQM (Chemicals): 32.25
+SVBI (Banks—Regional): 32.25
+VBF (Asset Management): 32.25
+ZEN (Software—Application): 32.25
+AIG (Insurance—Diversified): 32.0
+AMSC (Specialty Industrial Machinery): 32.0
+ANTH (Biotechnology): 32.0
+BSMX (Banks—Regional): 32.0
+COUP (Software—Application): 32
+HSBC (Banks—Diversified): 32.0
+IDCC (Telecom Services): 32.0
+KNDI (Auto Parts): 32.0
+NNY (Asset Management): 32.0
+NTP (Real Estate Services): 32.0
+PANW (Software—Infrastructure): 32.0
+SCS (Business Equipment & Supplies): 32.0
+STRS (Real Estate—Diversified): 32.0
+TCI (Real Estate Services): 32.0
+TNDM (Medical Devices): 32.0
+TWI (Farm & Heavy Construction Machinery): 32.0
+AVA (Utilities—Diversified): 31.75
+BSX (Medical Devices): 31.75
+BV (Specialty Business Services): 31.75
+CMS (Utilities—Regulated Electric): 31.75
+CPK (Utilities—Regulated Gas): 31.75
+CRIS (Biotechnology): 31.75
+EEFT (Software—Infrastructure): 31.75
+GSM (Other Industrial Metals & Mining): 31.75
+JPC (Asset Management): 31.75
+M (Department Stores): 31.75
+MAIN (Asset Management): 31.75
+MTEX (Household & Personal Products): 31.75
+NVEE (Engineering & Construction): 31.75
+OSUR (Medical Instruments & Supplies): 31.75
+PERI (Internet Content & Information): 31.75
+PRFT (Information Technology Services): 31.75
+ROIC (REIT—Retail): 31.75
+RRGB (Restaurants): 31.75
+RWT (REIT—Mortgage): 31.75
+SOR (Asset Management): 31.75
+AMTX (Oil & Gas Refining & Marketing): 31.5
+BH (Restaurants): 31.5
+BKSC (Banks—Regional): 31.5
+CCM (Medical Care Facilities): 31.5
+CDNA (Diagnostics & Research): 31.5
+CSV (Personal Services): 31.5
+DSU (Asset Management): 31.5
+EBR (Utilities—Regulated Electric): 31.5
+EVOL (Software—Application): 31.5
+GMED (Medical Devices): 31.5
+LSBK (Banks—Regional): 31.5
+MANH (Software—Application): 31.5
+MDRX (Health Information Services): 31.5
+PESI (Waste Management): 31.5
+PRO (Software—Application): 31.5
+RUSHB (Auto & Truck Dealerships): 31.5
+ZTR (Closed-End Fund - Equity): 31.5
+AFB (Asset Management): 31.25
+AWI (Building Products & Equipment): 31.25
+AWP (Asset Management): 31.25
+CII (Asset Management): 31.25
+EFX (Consulting Services): 31.25
+EGP (REIT—Industrial): 31.25
+GAIA (Internet Content & Information): 31.25
+GLBZ (Banks—Regional): 31.25
+JPS (Asset Management): 31.25
+KSM (Asset Management): 31.25
+KTOS (Aerospace & Defense): 31.25
+MAT (Leisure): 31.25
+MLAB (Scientific & Technical Instruments): 31.25
+NECB (Banks—Regional): 31.25
+PRLB (Metal Fabrication): 31.25
+RNP (Asset Management): 31.25
+TS (Oil & Gas Equipment & Services): 31.25
+WLFC (Rental & Leasing Services): 31.25
+ASR (Airports & Air Services): 31.0
+BIOL (Medical Devices): 31.0
+BOOM (Oil & Gas Equipment & Services): 31.0
+CYRN (Software—Infrastructure): 31.0
+DISCB (Entertainment): 31.0
+EMF (Asset Management): 31.0
+EXC (Utilities—Diversified): 31.0
+F (Auto Manufacturers): 31.0
+FFA (Asset Management): 31.0
+HLIT (Communication Equipment): 31.0
+LXU (Chemicals): 31.0
+MEG (Waste Management): 31.0
+MNOV (Biotechnology): 31.0
+PCN (Asset Management): 31.0
+PRKR (Semiconductors): 31.0
+PROV (Banks—Regional): 31.0
+RLGY (Real Estate Services): 31.0
+SIFY (Telecom Services): 31.0
+TDG (Aerospace & Defense): 31.0
+TESS (Communication Equipment): 31.0
+TGEN (Building Products & Equipment): 31.0
+USAC (Oil & Gas Equipment & Services): 31.0
+VJET (Computer Hardware): 31.0
+ADT (Security & Protection Services): 30.75
+AHPI (Medical Devices): 30.75
+ANGO (Medical Instruments & Supplies): 30.75
+ARL (Real Estate—Development): 30.75
+CFX (Specialty Industrial Machinery): 30.75
+CIR (Specialty Industrial Machinery): 30.75
+CSTM (Aluminum): 30.75
+CUBE (REIT—Industrial): 30.75
+EXR (REIT—Industrial): 30.75
+HGSH (Real Estate—Development): 30.75
+IBN (Banks—Regional): 30.75
+NCR (Information Technology Services): 30.75
+NRZ (REIT—Mortgage): 30.75
+NXP (Asset Management): 30.75
+OFIX (Medical Devices): 30.75
+SCHL (Publishing): 30.75
+STON (Personal Services): 30.75
+UTL (Utilities—Diversified): 30.75
+WVFC (Banks—Regional): 30.75
+BWEN (Specialty Industrial Machinery): 30.5
+BX (Asset Management): 30.5
+CBB (Telecom Services): 30.5
+CBRL (Restaurants): 30.5
+CBSH (Banks—Regional): 30.5
+CMTL (Communication Equipment): 30.5
+CVLY (Banks—Regional): 30.5
+CX (Building Materials): 30.5
+CYCC (Biotechnology): 30.5
+ELY (Leisure): 30.5
+ERJ (Aerospace & Defense): 30.5
+FRT (REIT—Retail): 30.5
+GHM (Specialty Industrial Machinery): 30.5
+HY (Farm & Heavy Construction Machinery): 30.5
+IBOC (Banks—Regional): 30.5
+LNT (Utilities—Regulated Electric): 30.5
+MG (Security & Protection Services): 30.5
+MMLP (Oil & Gas Midstream): 30.5
+MUR (Oil & Gas E&P): 30.5
+MXL (Semiconductors): 30.5
+NWE (Utilities—Diversified): 30.5
+SYNA (Semiconductors): 30.5
+TRIL (Biotechnology): 30.5
+WF (Banks—Regional): 30.5
+ALIM (Drug Manufacturers—Specialty & Generic): 30.25
+CBU (Banks—Regional): 30.25
+CLRB (Biotechnology): 30.25
+GME (Specialty Retail): 30.25
+HFBL (Banks—Regional): 30.25
+HURN (Consulting Services): 30.25
+KINS (Insurance—Property & Casualty): 30.25
+LMNR (Farm Products): 30.25
+NOW (Software—Application): 30.25
+NUV (Asset Management): 30.25
+OTIC (Biotechnology): 30.25
+PAI (Asset Management): 30.25
+PHG (Diagnostics & Research): 30.25
+RITT (Communication Equipment): 30.25
+SKYW (Airlines): 30.25
+ALGT (Airlines): 30.0
+BANX (Asset Management): 30
+BFZ (Asset Management): 30
+BJRI (Restaurants): 30.0
+CHGG (Education & Training Services): 30.0
+DEO (Beverages—Wineries & Distilleries): 30.0
+DGICB (Insurance—Property & Casualty): 30
+DVCR (Medical Care Facilities): 30.0
+EAT (Restaurants): 30.0
+GLNG (Oil & Gas Midstream): 30.0
+HOV (Residential Construction): 30.0
+MCA (Asset Management): 30
+NWHM (Residential Construction): 30.0
+OMEX (Specialty Business Services): 30.0
+OTTR (Utilities—Diversified): 30.0
+PHX (Oil & Gas E&P): 30.0
+QADB (Software—Application): 30.0
+TREE (Mortgage Finance): 30.0
+TSLA (Auto Manufacturers): 30
+VRTV (Conglomerates): 30.0
+CLH (Waste Management): 29.75
+EFT (Asset Management): 29.75
+ELS (REIT—Residential): 29.75
+IGT (Gambling): 29.75
+JTD (Asset Management): 29.75
+KBR (Engineering & Construction): 29.75
+MSI (Communication Equipment): 29.75
+MSP (Software—Application): 29.75
+QSR (Restaurants): 29.75
+VRNS (Software—Infrastructure): 29.75
+AAL (Airlines): 29.5
+BOE (Asset Management): 29.5
+CJJD (Pharmaceutical Retailers): 29.5
+CLF (Steel): 29.5
+ENB (Oil & Gas Midstream): 29.5
+ESBK (Banks—Regional): 29.5
+ESS (REIT—Residential): 29.5
+EVG (Asset Management): 29.5
+GAIN (Asset Management): 29.5
+HAYN (Metal Fabrication): 29.5
+HE (Utilities—Diversified): 29.5
+HSON (Staffing & Employment Services): 29.5
+LAMR (REIT—Specialty): 29.5
+NAII (Packaged Foods): 29.5
+PGP (Asset Management): 29.5
+PMM (Asset Management): 29.5
+STAA (Medical Instruments & Supplies): 29.5
+THR (Specialty Industrial Machinery): 29.5
+WAYN (Banks—Regional): 29.5
+ANIK (Biotechnology): 29.25
+AVB (REIT—Residential): 29.25
+CEQP (Oil & Gas Midstream): 29.25
+CHUY (Restaurants): 29.25
+CVCO (Residential Construction): 29.25
+ENLC (Oil & Gas Midstream): 29.25
+FFHL (Packaging & Containers): 29.25
+HAS (Leisure): 29.25
+MGYR (Banks—Regional): 29.25
+WM (Waste Management): 29.25
+WPG (REIT—Retail): 29.25
+ACUR (Drug Manufacturers—Specialty & Generic): 29
+CIDM (Entertainment): 29.0
+CPIX (Drug Manufacturers—Specialty & Generic): 29.0
+FLEX (Electronic Components): 29.0
+GPC (Specialty Retail): 29.0
+IPGP (Semiconductor Equipment & Materials): 29.0
+KELYB (Staffing & Employment Services): 29
+LBTYA (Entertainment): 29.0
+LC (Credit Services): 29.0
+NKX (Asset Management): 29
+NPTN (Semiconductors): 29.0
+OGE (Utilities—Regulated Electric): 29.0
+PNBK (Banks—Regional): 29.0
+PPR (Asset Management): 29.0
+QADA (Software—Application): 29.0
+RDCM (Telecom Services): 29.0
+SFE (Asset Management): 29.0
+STKL (Packaged Foods): 29.0
+TEL (Electronic Components): 29.0
+TTM (Auto Manufacturers): 29.0
+TY (Asset Management): 29.0
+ARLP (Thermal Coal): 28.75
+BHLB (Banks—Regional): 28.75
+CFR (Banks—Regional): 28.75
+DAKT (Computer Hardware): 28.75
+EQIX (REIT—Specialty): 28.75
+HES (Oil & Gas E&P): 28.75
+LLNW (Software—Infrastructure): 28.75
+MIN (Asset Management): 28.75
+MNTX (Farm & Heavy Construction Machinery): 28.75
+NUVA (Medical Devices): 28.75
+PFPT (Software—Infrastructure): 28.75
+SAVE (Airlines): 28.75
+SCOR (Internet Content & Information): 28.75
+SLAB (Semiconductors): 28.75
+SOHU (Internet Content & Information): 28.75
+SPWR (Solar): 28.75
+AKR (REIT—Retail): 28.5
+ALLT (Software—Infrastructure): 28.5
+AMRN (Biotechnology): 28.5
+AUBN (Banks—Regional): 28.5
+CHH (Lodging): 28.5
+CYH (Medical Care Facilities): 28.5
+CYTR (Biotechnology): 28.5
+DXLG (Apparel Retail): 28.5
+ED (Utilities—Regulated Electric): 28.5
+GENC (Farm & Heavy Construction Machinery): 28.5
+HQL (Asset Management): 28.5
+JEQ (Asset Management): 28.5
+LOCO (Restaurants): 28.5
+MACK (Biotechnology): 28.5
+MCHP (Semiconductors): 28.5
+MGU (Asset Management): 28.5
+NWN (Utilities—Regulated Gas): 28.5
+PMO (Asset Management): 28.5
+QUIK (Semiconductors): 28.5
+RES (Oil & Gas Equipment & Services): 28.5
+UHT (REIT—Healthcare Facilities): 28.5
+ULTA (Specialty Retail): 28.5
+AR (Oil & Gas E&P): 28.25
+BHE (Electronic Components): 28.25
+CNET (Advertising Agencies): 28.25
+DMRC (Information Technology Services): 28.25
+GAB (Asset Management): 28.25
+HDB (Banks—Regional): 28.25
+JRVR (Insurance—Specialty): 28.25
+MAA (REIT—Residential): 28.25
+NWSA (Broadcasting): 28.25
+STRM (Health Information Services): 28.25
+WIA (Asset Management): 28.25
+XYL (Specialty Industrial Machinery): 28.25
+ACC (REIT—Residential): 28.0
+ADTN (Communication Equipment): 28.0
+BRX (REIT—Retail): 28.0
+CGEN (Biotechnology): 28.0
+CHMI (REIT—Mortgage): 28.0
+CLX (Household & Personal Products): 28.0
+CS (Banks—Diversified): 28.0
+DDF (Asset Management): 28.0
+EFOI (Furnishings, Fixtures & Appliances): 28.0
+HCI (Insurance—Property & Casualty): 28.0
+HT (REIT—Hotel & Motel): 28.0
+IMGN (Biotechnology): 28.0
+ISSC (Aerospace & Defense): 28.0
+MTR (Oil & Gas E&P): 28.0
+NCA (Asset Management): 28.0
+PRA (Insurance—Property & Casualty): 28.0
+QUAD (Specialty Business Services): 28.0
+SINO (Integrated Freight & Logistics): 28.0
+SLB (Oil & Gas Equipment & Services): 28.0
+TMUS (Telecom Services): 28.0
+UNB (Banks—Regional): 28.0
+BRID (Packaged Foods): 27.75
+CHKR (Oil & Gas E&P): 27.75
+KFS (Auto & Truck Dealerships): 27.75
+KTCC (Computer Hardware): 27.75
+TTP (Asset Management): 27.75
+WEC (Utilities—Regulated Electric): 27.75
+BIF (Asset Management): 27.5
+CLDX (Biotechnology): 27.5
+CLIR (Pollution & Treatment Controls): 27.5
+CLMT (Oil & Gas E&P): 27.5
+HSKA (Diagnostics & Research): 27.5
+JBLU (Airlines): 27.5
+NWS (Broadcasting): 27.5
+PHK (Asset Management): 27.5
+SWN (Oil & Gas E&P): 27.5
+TDF (Asset Management): 27.5
+TWIN (Specialty Industrial Machinery): 27.5
+ARTW (Farm & Heavy Construction Machinery): 27.25
+ATTO (Specialty Business Services): 27.25
+CCJ (Uranium): 27.25
+CRNT (Communication Equipment): 27.25
+ECOL (Waste Management): 27.25
+HPP (REIT—Office): 27.25
+NEE (Utilities—Regulated Electric): 27.25
+NOK (Communication Equipment): 27.25
+WIW (Asset Management): 27.25
+WMB (Oil & Gas Midstream): 27.25
+AEHR (Semiconductor Equipment & Materials): 27.0
+AMOV (Telecom Services): 27.0
+AMSWA (Software—Application): 27.0
+DDD (Computer Hardware): 27.0
+DUK (Utilities—Regulated Electric): 27.0
+GSIT (Semiconductors): 27.0
+HNRG (Thermal Coal): 27.0
+MRO (Oil & Gas E&P): 27.0
+RNG (Software—Application): 27.0
+RYN (REIT—Specialty): 27.0
+WEX (Software—Infrastructure): 27.0
+WRI (REIT—Retail): 27.0
+XEL (Utilities—Regulated Electric): 27.0
+CPT (REIT—Residential): 26.75
+CVE (Oil & Gas Integrated): 26.75
+EZPW (Credit Services): 26.75
+ICON (Apparel Manufacturing): 26.75
+IIN (Medical Instruments & Supplies): 26.75
+KNL (Business Equipment & Supplies): 26.75
+MCD (Restaurants): 26.75
+NFJ (Asset Management): 26.75
+NQP (Asset Management): 26.75
+OPK (Diagnostics & Research): 26.75
+ORMP (Biotechnology): 26.75
+RCS (Asset Management): 26.75
+REG (REIT—Retail): 26.75
+RUTH (Restaurants): 26.75
+SNCR (Software—Application): 26.75
+TWTR (Internet Content & Information): 26.75
+YUM (Restaurants): 26.75
+ACFN (Scientific & Technical Instruments): 26.5
+ACP (Asset Management): 26.5
+CFFN (Banks—Regional): 26.5
+FARO (Scientific & Technical Instruments): 26.5
+MFD (Asset Management): 26.5
+OCN (Mortgage Finance): 26.5
+PFX (Asset Management): 26.5
+ROST (Apparel Retail): 26.5
+VIDE (Computer Hardware): 26.5
+CRY (Medical Devices): 26.25
+DNB (Information Technology Services): 26.25
+EDAP (Medical Devices): 26.25
+FFIV (Software—Infrastructure): 26.25
+GWRE (Software—Application): 26.25
+IGR (Asset Management): 26.25
+PFN (Asset Management): 26.25
+TBI (Staffing & Employment Services): 26.25
+VFC (Apparel Manufacturing): 26.25
+ZNGA (Electronic Gaming & Multimedia): 26.25
+AIV (REIT—Residential): 26.0
+ARES (Asset Management): 26.0
+CRT (Oil & Gas E&P): 26.0
+IROQ (Banks—Regional): 26
+KSU (Railroads): 26.0
+MFL (Asset Management): 26.0
+NEP (Utilities—Renewable): 26.0
+PBT (Oil & Gas E&P): 26.0
+RSG (Waste Management): 26.0
+TAX (None): 26
+TEO (Telecom Services): 26
+TFSL (Banks—Regional): 26.0
+VNOM (Oil & Gas Midstream): 26.0
+WPP (Advertising Agencies): 26.0
+ASYS (Semiconductor Equipment & Materials): 25.75
+CHN (Asset Management): 25.75
+CNMD (Medical Devices): 25.75
+CVEO (Specialty Business Services): 25.75
+EARN (REIT—Mortgage): 25.75
+GIL (Apparel Manufacturing): 25.75
+GRPN (Internet Content & Information): 25.75
+MIDD (Specialty Industrial Machinery): 25.75
+SJT (Oil & Gas E&P): 25.75
+SYY (Food Distribution): 25.75
+TATT (Aerospace & Defense): 25.75
+TDC (Information Technology Services): 25.75
+UBFO (Banks—Regional): 25.75
+ANY (Software—Application): 25.5
+BAM (Asset Management): 25.5
+BPT (Oil & Gas Refining & Marketing): 25.5
+CG (Asset Management): 25.5
+CYAN (Packaged Foods): 25.5
+ESRT (REIT—Diversified): 25.5
+MMSI (Medical Instruments & Supplies): 25.5
+POR (Utilities—Regulated Electric): 25.5
+PPSI (Electrical Equipment & Parts): 25.5
+PRIM (Engineering & Construction): 25.5
+TRC (Conglomerates): 25.5
+AXR (Real Estate Services): 25.25
+CIA (Insurance—Life): 25.25
+CNP (Utilities—Regulated Electric): 25.25
+HBMD (Banks—Regional): 25.25
+HXL (Aerospace & Defense): 25.25
+IRIX (Medical Devices): 25.25
+JMM (Asset Management): 25.25
+KRA (Specialty Chemicals): 25.25
+LUV (Airlines): 25.25
+WCN (Waste Management): 25.25
+ALK (Airlines): 25.0
+ARCB (Trucking): 25.0
+CERE (Biotechnology): 25
+CNQ (Oil & Gas E&P): 25.0
+COOL (Shell Companies): 25
+FITBI (Banks—Regional): 25
+FMY (Asset Management): 25
+H (Lodging): 25.0
+HAIN (Packaged Foods): 25.0
+IPI (Agricultural Inputs): 25.0
+JCS (Communication Equipment): 25.0
+JFR (Asset Management): 25
+JRO (Asset Management): 25
+KBSF (Apparel Manufacturing): 25
+NAZ (Asset Management): 25.0
+TLYS (Apparel Retail): 25.0
+VRTB (Mortgage Finance): 25
+ATRO (Aerospace & Defense): 24.75
+CEVA (Semiconductors): 24.75
+CSOD (Software—Application): 24.75
+EVLV (Security & Protection Services): 24.75
+MOSY (Semiconductors): 24.75
+PAM (Utilities—Regulated Electric): 24.75
+PTY (Asset Management): 24.75
+RPAI (REIT—Retail): 24.75
+SGMA (Electronic Components): 24.75
+SOHO (REIT—Hotel & Motel): 24.75
+TXRH (Restaurants): 24.75
+VOD (Telecom Services): 24.75
+VSAT (Communication Equipment): 24.75
+AGTC (Biotechnology): 24.5
+CAR (Rental & Leasing Services): 24.5
+CRVL (Insurance Brokers): 24.5
+DDS (Department Stores): 24.5
+EFR (Asset Management): 24.5
+EGHT (Software—Application): 24.5
+JOF (Asset Management): 24.5
+KOPN (Electronic Components): 24.5
+MAYS (Real Estate Services): 24.5
+PFL (Asset Management): 24.5
+PLCE (Apparel Retail): 24.5
+PTC (Software—Application): 24.5
+SCX (Tools & Accessories): 24.5
+UFCS (Insurance—Property & Casualty): 24.5
+VC (Auto Parts): 24.5
+VTR (REIT—Healthcare Facilities): 24.5
+AIRT (Integrated Freight & Logistics): 24.25
+CGA (Agricultural Inputs): 24.25
+EVK (Apparel Manufacturing): 24.25
+FMO (Asset Management): 24.25
+LTBR (Electrical Equipment & Parts): 24.25
+MRIN (Software—Application): 24.25
+NI (Utilities—Regulated Gas): 24.25
+RDWR (Software—Infrastructure): 24.25
+SBAC (REIT—Specialty): 24.25
+SP (Specialty Business Services): 24.25
+TRGP (Oil & Gas Midstream): 24.25
+WATT (Scientific & Technical Instruments): 24.25
+XRAY (Medical Instruments & Supplies): 24.25
+ACT (None): 24
+ARRY (Solar): 24
+BEBE (Apparel Retail): 24
+DVAX (Drug Manufacturers—Specialty & Generic): 24.0
+FC (Consulting Services): 24.0
+IEP (Conglomerates): 24.0
+KEX (Marine Shipping): 24.0
+NES (Waste Management): 24.0
+NMR (Capital Markets): 24.0
+NSL (Asset Management): 24
+STLY (Shell Companies): 24
+TWER (Telecom Services): 24.0
+WHLRP (REIT—Retail): 24
+BA (Aerospace & Defense): 23.75
+CCO (Advertising Agencies): 23.75
+CLB (Oil & Gas Equipment & Services): 23.75
+CPA (Airlines): 23.75
+CTIC (Biotechnology): 23.75
+D (Utilities—Regulated Electric): 23.75
+GROW (Asset Management): 23.75
+III (None): 23.75
+KONA (Restaurants): 23.75
+MLP (Real Estate Services): 23.75
+RELV (Packaged Foods): 23.75
+SLCA (Oil & Gas Equipment & Services): 23.75
+SRNE (Biotechnology): 23.75
+STXS (Medical Instruments & Supplies): 23.75
+USCR (Building Materials): 23.75
+VCRA (Communication Equipment): 23.75
+YELP (Internet Content & Information): 23.75
+CLNE (Oil & Gas Refining & Marketing): 23.5
+DRQ (Oil & Gas Equipment & Services): 23.5
+EPR (REIT—Retail): 23.5
+ETY (Asset Management): 23.5
+FORR (Consulting Services): 23.5
+GDOT (Credit Services): 23.5
+MTSI (Semiconductors): 23.5
+QCCO (Banks—Regional): 23.5
+QTS (REIT—Industrial): 23.5
+RDNT (Diagnostics & Research): 23.5
+VRNT (Software—Infrastructure): 23.5
+WK (Software—Application): 23.5
+ASRV (Banks—Regional): 23.25
+BTO (Asset Management): 23.25
+EGAN (Software—Application): 23.25
+ENV (Software—Application): 23.25
+HIHO (Metal Fabrication): 23.25
+MD (Medical Care Facilities): 23.25
+OCC (Communication Equipment): 23.25
+RICK (Restaurants): 23.25
+ADX (Asset Management): 23.0
+BLMN (Restaurants): 23.0
+CCRN (Staffing & Employment Services): 23.0
+CNSL (Telecom Services): 23.0
+CPS (Auto Parts): 23.0
+L (Insurance—Property & Casualty): 23.0
+LE (Specialty Retail): 23.0
+MELI (Internet Retail): 23
+MHN (Asset Management): 23
+MPC (Oil & Gas Refining & Marketing): 23.0
+ONTX (Biotechnology): 23.0
+RRC (Oil & Gas E&P): 23.0
+SHOO (Footwear & Accessories): 23.0
+SKYS (None): 23.0
+STAR (REIT—Diversified): 23.0
+VTNR (Oil & Gas Refining & Marketing): 23.0
+ZAZA (Independent Oil & Gas): 23
+CHTR (Entertainment): 22.75
+ECL (Specialty Chemicals): 22.75
+ENZ (Diagnostics & Research): 22.75
+FMX (Beverages—Brewers): 22.75
+IDT (Telecom Services): 22.75
+MARPS (Oil & Gas Equipment & Services): 22.75
+MODN (Software—Application): 22.75
+SATS (Communication Equipment): 22.75
+TRN (Railroads): 22.75
+TSRI (Software—Application): 22.75
+UIS (Information Technology Services): 22.75
+XNET (Advertising Agencies): 22.75
+BAP (Banks—Regional): 22.5
+MGI (Credit Services): 22.5
+NSYS (Electronic Components): 22.5
+OFED (Banks—Regional): 22.5
+REFR (Electronic Components): 22.5
+RYAAY (Airlines): 22.5
+ATI (Metal Fabrication): 22.25
+BNSO (Scientific & Technical Instruments): 22.25
+CREG (Utilities—Renewable): 22.25
+QRHC (Waste Management): 22.25
+AFGE (None): 22
+BEP (Utilities—Renewable): 22.0
+CORR (REIT—Diversified): 22.0
+DAL (Airlines): 22.0
+DNOW (Oil & Gas Equipment & Services): 22.0
+FUND (Asset Management): 22.0
+GOODN (REIT—Diversified): 22.0
+GOODO (REIT—Diversified): 22.0
+GVA (Engineering & Construction): 22.0
+INVT (Telecom Services): 22
+MEOH (Chemicals): 22.0
+MNRO (Auto Parts): 22.0
+NMI (Asset Management): 22.0
+NXPI (Semiconductors): 22.0
+TAC (Utilities—Independent Power Producers): 22.0
+TIPT (Insurance—Specialty): 22
+CVLT (Software—Application): 21.75
+JQC (Asset Management): 21.75
+OII (Oil & Gas Equipment & Services): 21.75
+SWZ (Asset Management): 21.75
+ALEX (REIT—Diversified): 21.5
+BGMD (Medical Instruments & Supplies): 21.5
+FEYE (Software—Infrastructure): 21.5
+FREE (Packaged Foods): 21.5
+GDV (Asset Management): 21.5
+GPM (Asset Management): 21.5
+JCOM (Software—Infrastructure): 21.5
+MGM (Resorts & Casinos): 21.5
+PCG (Utilities—Regulated Electric): 21.5
+PENN (Resorts & Casinos): 21.5
+PTNR (Telecom Services): 21.5
+SIRI (Broadcasting): 21.5
+TJX (Apparel Retail): 21.5
+USA (Asset Management): 21.5
+BSPM (Drug Manufacturers—Specialty & Generic): 21.25
+EXPR (Apparel Retail): 21.25
+HA (Airlines): 21.25
+PFIE (Oil & Gas Equipment & Services): 21.25
+RENN (Auto & Truck Dealerships): 21.25
+ATAI (Biotechnology): 21
+AVID (Electronic Gaming & Multimedia): 21.0
+BYD (Resorts & Casinos): 21.0
+CLWT (Pollution & Treatment Controls): 21.0
+CUBA (Asset Management): 21.0
+MRGE (Oil & Gas Midstream): 21
+NSS (None): 21
+PME (Farm Products): 21
+RQI (Asset Management): 21.0
+TRMR (Advertising Agencies): 21.0
+BOSC (Communication Equipment): 20.75
+CAMP (Communication Equipment): 20.75
+FLL (Resorts & Casinos): 20.75
+MYGN (Diagnostics & Research): 20.75
+NAUH (Education & Training Services): 20.75
+PMD (Diagnostics & Research): 20.75
+WDAY (Software—Application): 20.75
+CIB (Banks—Regional): 20.5
+EEA (Asset Management): 20.5
+GE (Specialty Industrial Machinery): 20.5
+GGT (Asset Management): 20.5
+HTHT (Lodging): 20.5
+IGA (Asset Management): 20.5
+MCBK (Banks—Regional): 20.5
+NXC (Asset Management): 20.5
+SBUX (Restaurants): 20.5
+SM (Oil & Gas E&P): 20.5
+SYPR (Auto Parts): 20.5
+ARMK (Restaurants): 20.25
+COHR (Scientific & Technical Instruments): 20.25
+ETV (Asset Management): 20.25
+GLBS (Marine Shipping): 20.25
+HLT (Lodging): 20.25
+MRVL (Semiconductors): 20.25
+MTN (Resorts & Casinos): 20.25
+PEO (Asset Management): 20.25
+PNRG (Oil & Gas E&P): 20.25
+TV (Broadcasting): 20.25
+AIW (): 20.0
+CHDN (Gambling): 20.0
+FNRG (Diversified Utilities): 20
+HLX (Oil & Gas Equipment & Services): 20
+INN (REIT—Hotel & Motel): 20.0
+LJPC (Biotechnology): 20
+OXLCP (Asset Management): 20
+RGS (Personal Services): 20.0
+STRI (Semiconductor Equipment & Materials): 20
+THST (Beverages—Wineries & Distilleries): 20.0
+UTF (Asset Management): 20.0
+BDJ (Asset Management): 19.75
+BLKB (Software—Application): 19.75
+FUN (Leisure): 19.75
+GPOR (Oil & Gas E&P): 19.75
+ITRI (Scientific & Technical Instruments): 19.75
+RDI (Entertainment): 19.75
+TA (Specialty Retail): 19.75
+VOC (Oil & Gas E&P): 19.75
+CYCCP (Biotechnology): 19.5
+DHX (Staffing & Employment Services): 19.5
+JCTCF (Lumber & Wood Production): 19.5
+MFV (Asset Management): 19.5
+MXF (Asset Management): 19.5
+NJR (Utilities—Regulated Gas): 19.5
+SKT (REIT—Retail): 19.5
+VBFC (Banks—Regional): 19.5
+KFFB (Banks—Regional): 19.25
+TACT (Computer Hardware): 19.25
+BMS (None): 19
+CHSCM (Farm Products): 19
+CHSCN (Farm Products): 19
+CHSCO (Farm Products): 19
+CZR (Resorts & Casinos): 19.0
+DIS (Entertainment): 19.0
+EARS (Biotechnology): 19.0
+KOSS (Consumer Electronics): 19.0
+OPOF (Banks—Regional): 19.0
+ORBC (Telecom Services): 19.0
+SPCB (Security & Protection Services): 19.0
+SRI (Auto Parts): 19.0
+VIRC (Furnishings, Fixtures & Appliances): 19.0
+VRS (Paper & Paper Products): 19.0
+ALSK (Telecom Services): 18.75
+BRT (REIT—Residential): 18.75
+INFN (Communication Equipment): 18.75
+LDL (Specialty Industrial Machinery): 18.75
+MOBL (None): 18.75
+RFI (Asset Management): 18.75
+SEAC (Software—Application): 18.75
+AVEO (Biotechnology): 18.5
+BME (Asset Management): 18.5
+DXYN (Textile Manufacturing): 18.5
+GF (Asset Management): 18.5
+NCZ (Asset Management): 18.5
+NEWP (Other Precious Metals & Mining): 18.5
+ACHC (Medical Care Facilities): 18.25
+GOL (Airlines): 18.25
+PSIX (Specialty Industrial Machinery): 18.25
+ARAY (Medical Devices): 18.0
+BXMX (Asset Management): 18.0
+CAE (Aerospace & Defense): 18.0
+CVA (Waste Management): 18.0
+EQT (Oil & Gas E&P): 18.0
+ETB (Asset Management): 18.0
+ETX (Asset Management): 18
+HDSN (Specialty Chemicals): 18.0
+IVC (Medical Devices): 18.0
+JDD (Asset Management): 18.0
+JTA (Asset Management): 18.0
+PIM (Asset Management): 18
+QBAK (Electrical Equipment & Parts): 18.0
+SPXX (Asset Management): 18.0
+TAST (Restaurants): 18.0
+ACOR (Biotechnology): 17.75
+ASPS (Mortgage Finance): 17.75
+UA (Apparel Manufacturing): 17.75
+BFAM (Personal Services): 17.5
+IIF (Asset Management): 17.5
+LBTYB (Entertainment): 17.5
+AMRC (Engineering & Construction): 17.25
+CACH (Apparel Retail): 17.25
+CMPR (Advertising Agencies): 17.25
+ESMC (Medical Devices): 17.25
+IKNX (Specialty Chemicals): 17.25
+INVE (Computer Hardware): 17.25
+RAD (Pharmaceutical Retailers): 17.25
+TCX (Software—Infrastructure): 17.25
+ALTR (Software—Infrastructure): 17.0
+FTI (Oil & Gas Equipment & Services): 17.0
+MSD (Asset Management): 17
+VIA (None): 17
+AWH (Diagnostics & Research): 16.75
+KF (Asset Management): 16.75
+MANU (Leisure): 16.75
+COTY (Household & Personal Products): 16.5
+ETW (Asset Management): 16.5
+JWN (Department Stores): 16.5
+MVIS (Scientific & Technical Instruments): 16.5
+OUT (REIT—Specialty): 16.5
+ACM (Engineering & Construction): 16.25
+MTLS (Software—Application): 16.25
+PRTA (Biotechnology): 16.25
+VAL (Oil & Gas Equipment & Services): 16.25
+WOOF (Specialty Retail): 16.25
+BBDO (Banks—Regional): 16
+CDTI (Auto Parts): 16.0
+EMITF (Medical Devices): 16
+ICLD (Information Technology Services): 16.0
+IGD (Asset Management): 16.0
+OXBRW (): 16
+RZA (None): 16
+SUMR (Household & Personal Products): 16.0
+TZOO (Travel Services): 16.0
+GAM (Asset Management): 15.75
+PFSW (Specialty Business Services): 15.75
+QKLS (Grocery Stores): 15.75
+SWIR (Communication Equipment): 15.75
+CLR (Oil & Gas E&P): 15.5
+SFBC (Banks—Regional): 15.5
+CPHC (Gambling): 15.25
+FALC (Software—Application): 15.25
+FRGI (Restaurants): 15.25
+UNAM (Insurance—Property & Casualty): 15.25
+AGNCP (REIT—Mortgage): 15
+BURL (Apparel Retail): 15.0
+CEE (Asset Management): 15.0
+INCR (None): 15
+MEIL (Oil & Gas Refining & Marketing): 15
+MON (Shell Companies): 15
+NSEC (Insurance—Property & Casualty): 15.0
+NSR (None): 15
+NVFY (Furnishings, Fixtures & Appliances): 15
+PEGA (Software—Application): 15.0
+PLAY (Restaurants): 15.0
+PRMW (Beverages—Non-Alcoholic): 15.0
+SHLD (None): 15
+SRCL (Waste Management): 15.0
+TPZ (Asset Management): 15
+TRUP (Insurance—Specialty): 15
+VLRS (Airlines): 15.0
+DYSL (Scientific & Technical Instruments): 14.75
+SHIP (Marine Shipping): 14.75
+BCOV (Software—Application): 14.5
+EYES (Medical Devices): 14.5
+GUT (Asset Management): 14.5
+MCN (Asset Management): 14.5
+PCF (Asset Management): 14.5
+TORM (Specialty Chemicals): 14.5
+WHG (Capital Markets): 14.5
+ZNH (Airlines): 14.5
+CEA (Airlines): 14.25
+DK (Oil & Gas Refining & Marketing): 14.25
+GYRO (Real Estate Services): 14.25
+IRL (Asset Management): 14.25
+NETE (Software—Infrastructure): 14.25
+TEI (Asset Management): 14.25
+CUTR (Medical Devices): 14.0
+GB (Information Technology Services): 14
+KEYW (None): 14
+LTRPB (Internet Content & Information): 14
+ONCY (Biotechnology): 14.0
+RLI (Insurance—Property & Casualty): 14.0
+EDR (Entertainment): 13.75
+NUAN (Software—Application): 13.75
+CSLT (Health Information Services): 13.5
+PFBX (Banks—Regional): 13.5
+UAL (Airlines): 13.5
+WMC (REIT—Mortgage): 13.5
+ASUR (Software—Application): 13.25
+CALI (Auto & Truck Dealerships): 13.25
+FRBK (Banks—Regional): 13.25
+MCS (Entertainment): 13.25
+VG (Telecom Services): 13.25
+WHLM (Specialty Business Services): 13.25
+WYNN (Resorts & Casinos): 13.25
+BSQR (Software—Application): 13.0
+EGF (Asset Management): 13
+GBIM (Biotechnology): 13
+GPRE (Specialty Chemicals): 13.0
+NDLS (Restaurants): 13.0
+SLMBP (Credit Services): 13.0
+STB (None): 13
+ENG (Engineering & Construction): 12.75
+FORD (Footwear & Accessories): 12.75
+HST (REIT—Hotel & Motel): 12.75
+JAKK (Leisure): 12.75
+JRJC (Capital Markets): 12.75
+MIC (Airports & Air Services): 12.75
+NTZ (Furnishings, Fixtures & Appliances): 12.75
+SOFO (Software—Application): 12.75
+CBLI (Biotechnology): 12.5
+DRH (REIT—Hotel & Motel): 12.5
+XTLB (Biotechnology): 12.5
+AMBC (Insurance—Specialty): 12.25
+AWRE (Software—Application): 12.25
+LUB (Restaurants): 12.25
+PBF (Oil & Gas Refining & Marketing): 12.25
+VNCE (Apparel Manufacturing): 12.25
+BGR (Asset Management): 12.0
+PT (Credit Services): 12
+GIGM (Electronic Gaming & Multimedia): 11.75
+LYV (Entertainment): 11.75
+SHO (REIT—Hotel & Motel): 11.75
+ARCW (Metal Fabrication): 11.5
+CDE (Gold): 11.5
+CXDC (Auto Parts): 11.5
+LQDT (Internet Retail): 11.5
+NCTY (Electronic Gaming & Multimedia): 11.5
+TRIP (Travel Services): 11.5
+GOGO (Telecom Services): 11.25
+IHG (Lodging): 11.25
+SEAS (Leisure): 11.25
+SMRT (None): 11.25
+LEE (Publishing): 10.75
+UEPS (Software—Infrastructure): 10.5
+AGC (Shell Companies): 10
+CAP (Shell Companies): 10
+CEN (Asset Management): 10
+DSL (Asset Management): 10
+EXG (Asset Management): 10
+FGB (Asset Management): 10
+FPF (Asset Management): 10
+GAME (Electronic Gaming & Multimedia): 10
+GER (Asset Management): 10
+HIE (Asset Management): 10
+IVH (Asset Management): 10
+KIO (Asset Management): 10
+LGCY (None): 10
+MGF (Asset Management): 10
+NEV (Asset Management): 10
+ODFL (Trucking): 10
+PRAN (None): 10
+RICE (Shell Companies): 10
+SPR (Aerospace & Defense): 10.0
+STK (Asset Management): 10
+THQ (Asset Management): 10
+ISIG (Advertising Agencies): 9.75
+MSTR (Software—Application): 9.75
+PPT (Asset Management): 9.75
+ARCO (Restaurants): 9.5
+DIAX (Asset Management): 9.5
+TCCO (Communication Equipment): 9.5
+EXFO (Communication Equipment): 9.25
+MTSL (Telecom Services): 9.25
+MTW (Farm & Heavy Construction Machinery): 9.25
+AMCF (Oil & Gas Equipment & Services): 9.0
+DBL (Asset Management): 9
+FEI (Asset Management): 9
+FPL (Asset Management): 9
+GDO (Asset Management): 9
+ISD (Asset Management): 9
+NBB (Asset Management): 9
+PGZ (Asset Management): 9
+WPRT (Auto Parts): 9.0
+CBL (None): 8.75
+GIGA (Scientific & Technical Instruments): 8.75
+LVS (Resorts & Casinos): 8.75
+EPAY (Software—Infrastructure): 8.5
+INTG (Lodging): 8.5
+PWR (Engineering & Construction): 8.5
+RDIB (Entertainment): 8.5
+SABR (Information Technology Services): 8.5
+USPH (Medical Care Facilities): 8.5
+HHC (Real Estate—Diversified): 8.25
+KODK (Specialty Business Services): 8.25
+BUI (Asset Management): 8
+BWG (Asset Management): 8
+EOT (Asset Management): 8
+HYI (Asset Management): 8
+IAE (Asset Management): 8
+IGI (Asset Management): 8
+IHD (Asset Management): 8
+LTRE (Education & Training Services): 8.0
+NUW (Asset Management): 8
+OPHC (Banks—Regional): 8.0
+OXBR (Insurance—Reinsurance): 8.0
+QQQX (Asset Management): 8
+STE (Medical Devices): 7.5
+STMP (Software—Application): 7.5
+ARKR (Restaurants): 7.25
+LNDC (Packaged Foods): 7.25
+MIND (Scientific & Technical Instruments): 7.25
+NE (None): 7.25
+CCL (Travel Services): 7.0
+CUK (Leisure): 7.0
+ETJ (Asset Management): 7
+GIM (Asset Management): 7.0
+GOF (Asset Management): 7
+GULTU (Oil & Gas E&P): 7.0
+IDE (Asset Management): 7
+IPDN (Staffing & Employment Services): 7.0
+NCLH (Travel Services): 7.0
+NMS (Asset Management): 7
+SOL (Solar): 7.0
+MAR (Lodging): 6.75
+GENE (Diagnostics & Research): 6.5
+SIX (Leisure): 6.5
+BYFC (Banks—Regional): 6.0
+GBAB (Asset Management): 6
+LYG (Banks—Regional): 6.0
+NURO (Medical Instruments & Supplies): 6.0
+VGI (Asset Management): 6
+NYMX (Biotechnology): 5.75
+PCOM (Internet Content & Information): 5.5
+UDR (REIT—Residential): 5.5
+TEAR (None): 5.25
+BBN (Asset Management): 5
+BGB (Asset Management): 5
+BGH (Asset Management): 5
+BGX (Asset Management): 5
+BIT (Asset Management): 5
+BST (Asset Management): 5
+CAF (Asset Management): 5
+DEX (Asset Management): 5
+DFP (Asset Management): 5
+DPG (Asset Management): 5
+EDD (Asset Management): 5
+EDF (Asset Management): 5
+EDI (Asset Management): 5
+EMO (Asset Management): 5
+EOD (Asset Management): 5
+EXD (Asset Management): 5
+FICO (Software—Application): 5
+FIF (Asset Management): 5
+FOF (Asset Management): 5
+FSD (Asset Management): 5
+GGM (Asset Management): 5
+GHY (Asset Management): 5
+GNT (Asset Management): 5
+HEQ (Asset Management): 5
+HTY (Asset Management): 5
+JCE (Asset Management): 5
+JGH (Asset Management): 5
+JLS (Asset Management): 5
+JRI (Asset Management): 5
+KEN.V (Gold): 5.0
+LDP (Asset Management): 5
+NHF (Asset Management): 5
+NIE (Asset Management): 5
+NTG (Asset Management): 5
+OXLCO (None): 5
+PCI (Asset Management): 5
+PDI (Asset Management): 5
+PKO (Asset Management): 5
+PSF (Asset Management): 5
+SMM (Asset Management): 5
+SRV (Asset Management): 5
+SZC (Asset Management): 5
+CYT (Biotechnology): 4.5
+MXE (Asset Management): 4.5
+GGZ (Asset Management): 4
+LEDS (Semiconductors): 4.0
+NSH (Shell Companies): 4
+RGT (Asset Management): 4
+SFUN (Internet Content & Information): 4.0
+CHEF (Food Distribution): 3.5
+CARV (Banks—Regional): 3.25
+DENN (Restaurants): 3.25
+EXPE (Travel Services): 3.0
+GRX (Asset Management): 3
+NIQ (Asset Management): 3
+CNK (Entertainment): 2.75
+NXTD (Security & Protection Services): 2.5
+RCL (Travel Services): 2.5
+CLDT (REIT—Hotel & Motel): 1.75
+RHP (REIT—Hotel & Motel): 1.25
+CYBR (Software—Infrastructure): 1.0
+HOS (None): 0.5
+VVI (Specialty Business Services): 0.5
+AA$B (None): 0
+AAC (Shell Companies): 0
+AAIT (None): 0
+AAV (None): 0
+AAVL (None): 0
+AAXJ (None): 0
+ABAC (None): 0
+ABAX (None): 0
+ABCD (None): 0
+ABCO (None): 0
+ABCW (None): 0
+ABDC (None): 0
+ABGB (None): 0
+ABR$A (None): 0
+ABR$B (None): 0
+ABR$C (None): 0
+ABRN (None): 0
+ABTL (None): 0
+ABX (None): 0
+ABY (None): 0
+ACAS (None): 0
+ACAT (None): 0
+ACE (None): 0
+ACFC (None): 0
+ACG (None): 0
+ACHN (None): 0
+ACMP (None): 0
+ACPW (None): 0
+ACSF (None): 0
+ACTA (None): 0
+ACTS (None): 0
+ACW (None): 0
+ACWI (None): 0
+ACWX (None): 0
+ACXM (None): 0
+ADAT (None): 0
+ADEP (None): 0
+ADHD (None): 0
+ADNC (None): 0
+ADRA (None): 0
+ADRD (None): 0
+ADRE (None): 0
+ADRU (None): 0
+ADVS (None): 0
+ADXSW (None): 0
+AEB (None): 0
+AEC (None): 0
+AED (None): 0
+AEGN (None): 0
+AEGR (None): 0
+AEH (None): 0
+AEK (None): 0
+AEPI (None): 0
+AES$C (None): 0
+AET (None): 0
+AETI (None): 0
+AF (None): 0
+AF$C (None): 0
+AFA (None): 0
+AFAM (None): 0
+AFC (None): 0
+AFCB (None): 0
+AFFX (None): 0
+AFH (None): 0
+AFM (None): 0
+AFOP (None): 0
+AFQ (None): 0
+AFSD (None): 0
+AFSI (None): 0
+AFSI$A (None): 0
+AFSI$B (None): 0
+AFSI$C (None): 0
+AFW (None): 0
+AGII (None): 0
+AGIIL (None): 0
+AGM$A (None): 0
+AGM$B (None): 0
+AGM$C (None): 0
+AGM.A (None): 0
+AGN (None): 0
+AGNCB (None): 0
+AGND (None): 0
+AGO$B (None): 0
+AGO$E (None): 0
+AGO$F (None): 0
+AGU (None): 0
+AGZD (None): 0
+AHC (None): 0
+AHGP (None): 0
+AHL (None): 0
+AHL$A (None): 0
+AHL$B (None): 0
+AHL$C (None): 0
+AHP (None): 0
+AHS (None): 0
+AHT$A (None): 0
+AHT$D (None): 0
+AHT$E (None): 0
+AIB (None): 0
+AIG.W (None): 0
+AIQ (None): 0
+AIRM (None): 0
+AIRR (None): 0
+AIV$A (None): 0
+AIV$Z (None): 0
+AIXG (None): 0
+AIY (None): 0
+AKAO (None): 0
+AKER (None): 0
+AKO.A (None): 0
+AKO.B (None): 0
+AKP (None): 0
+AKRX (None): 0
+AKS (None): 0
+ALDR (None): 0
+ALDW (None): 0
+ALJ (None): 0
+ALL$A (None): 0
+ALL$B (None): 0
+ALL$C (None): 0
+ALL$D (None): 0
+ALL$E (None): 0
+ALL$F (None): 0
+ALLB (None): 0
+ALLY$A (None): 0
+ALLY$B (None): 0
+ALOG (None): 0
+ALP$N (None): 0
+ALP$O (None): 0
+ALP$P (None): 0
+ALQA (None): 0
+ALR (None): 0
+ALR$B (None): 0
+ALU (None): 0
+ALXA (None): 0
+AMAG (None): 0
+AMBA (Semiconductor Equipment & Materials): 0
+AMBCW (None): 0
+AMBR (None): 0
+AMCC (None): 0
+AMCN (None): 0
+AMDA (None): 0
+AMFW (None): 0
+AMH$A (None): 0
+AMH$B (None): 0
+AMH$C (None): 0
+AMIC (None): 0
+AMID (None): 0
+AMRE (None): 0
+AMRI (None): 0
+AMSG (None): 0
+AMSGP (None): 0
+AMT$A (None): 0
+AMTD (None): 0
+AMTG (None): 0
+AMTG$A (None): 0
+ANAC (Shell Companies): 0
+ANAD (None): 0
+ANCB (None): 0
+ANCI (None): 0
+ANCX (None): 0
+ANFI (None): 0
+ANH (None): 0
+ANH$A (None): 0
+ANH$B (None): 0
+ANN (None): 0
+ANR (None): 0
+ANW (None): 0
+AOI (None): 0
+AOL (None): 0
+APAGF (None): 0
+APB (None): 0
+APC (None): 0
+APDNW (None): 0
+APF (None): 0
+APL (None): 0
+APL$E (None): 0
+APOL (None): 0
+APPY (None): 0
+APRI (None): 0
+APSA (None): 0
+APU (None): 0
+AQXP (None): 0
+ARCI (None): 0
+ARCP (None): 0
+ARCPP (None): 0
+ARCX (None): 0
+ARDC (Asset Management): 0
+ARDM (None): 0
+ARE$E (None): 0
+AREX (None): 0
+ARG (None): 0
+ARGS (None): 0
+ARH$C (None): 0
+ARI$A (None): 0
+ARIA (None): 0
+ARII (None): 0
+ARIS (None): 0
+ARMF (None): 0
+ARMH (None): 0
+ARN (None): 0
+ARO (None): 0
+ARP (None): 0
+ARP$D (None): 0
+ARPI (None): 0
+ARQL (None): 0
+ARR$A (None): 0
+ARR$B (None): 0
+ARRS (None): 0
+ARTX (None): 0
+ARU (None): 0
+ARUN (None): 0
+ARY (None): 0
+ASB$B (None): 0
+ASBB (None): 0
+ASBI (None): 0
+ASCMA (None): 0
+ASEI (None): 0
+ASFI (None): 0
+ASMI (None): 0
+ASNA (None): 0
+ASPX (None): 0
+ASRVP (None): 0
+AT (None): 0
+ATE (None): 0
+ATEA (None): 0
+ATHN (Shell Companies): 0
+ATK (None): 0
+ATLS (None): 0
+ATML (None): 0
+ATNY (None): 0
+ATRM (None): 0
+ATTU (None): 0
+ATU (None): 0
+ATV (None): 0
+ATW (None): 0
+AUMA (None): 0
+AUMAU (None): 0
+AUMAW (None): 0
+AUO (None): 0
+AUQ (None): 0
+AUXL (None): 0
+AV (None): 0
+AVG (None): 0
+AVH (None): 0
+AVHI (None): 0
+AVIV (None): 0
+AVNR (None): 0
+AVOL (None): 0
+AVP (None): 0
+AVV (None): 0
+AVX (None): 0
+AWAY (None): 0
+AXE (None): 0
+AXJS (None): 0
+AXLL (None): 0
+AXPW (None): 0
+AXPWW (None): 0
+AXS$C (None): 0
+AXS$D (None): 0
+AYN (None): 0
+AYR (None): 0
+BABY (None): 0
+BAC$D (None): 0
+BAC$E (None): 0
+BAC$I (None): 0
+BAC$L (None): 0
+BAC$W (None): 0
+BAC$Z (None): 0
+BAC.A (None): 0
+BAC.B (None): 0
+BAF (None): 0
+BAGR (None): 0
+BALT (None): 0
+BAMM (None): 0
+BANC$C (None): 0
+BANFP (None): 0
+BAS (None): 0
+BASI (None): 0
+BBC (None): 0
+BBCN (None): 0
+BBEP (None): 0
+BBEPP (None): 0
+BBF (None): 0
+BBG (None): 0
+BBK (None): 0
+BBLU (None): 0
+BBNK (None): 0
+BBOX (None): 0
+BBP (None): 0
+BBRG (None): 0
+BBRY (None): 0
+BBT (None): 0
+BBT$D (None): 0
+BBT$E (None): 0
+BBT$F (None): 0
+BBT$G (None): 0
+BBX (None): 0
+BCA (None): 0
+BCOM (None): 0
+BCR (None): 0
+BCRH (None): 0
+BCS$ (None): 0
+BCS$A (None): 0
+BCS$C (None): 0
+BCS$D (None): 0
+BCX (Asset Management): 0
+BDBD (None): 0
+BDCV (None): 0
+BDE (None): 0
+BDGE (None): 0
+BDMS (None): 0
+BDN$E (None): 0
+BEAT (None): 0
+BEAV (None): 0
+BEE (None): 0
+BEL (None): 0
+BF.A (None): 0
+BF.B (None): 0
+BFO (None): 0
+BFR (None): 0
+BFS$C (None): 0
+BGC (None): 0
+BGCA (None): 0
+BGE$B (None): 0
+BGG (None): 0
+BHBK (None): 0
+BHI (None): 0
+BHL (None): 0
+BIB (None): 0
+BICK (None): 0
+BID (None): 0
+BIE (None): 0
+BIN (None): 0
+BIND (None): 0
+BIO.B (None): 0
+BIOA (None): 0
+BIOA.W (None): 0
+BIOD (None): 0
+BIOS (None): 0
+BIRT (None): 0
+BIS (None): 0
+BITA (None): 0
+BJZ (None): 0
+BK$C (None): 0
+BKK (None): 0
+BKMU (None): 0
+BKS (None): 0
+BKYF (None): 0
+BLH (None): 0
+BLMT (None): 0
+BLOX (None): 0
+BLT (None): 0
+BLVD (None): 0
+BLVDU (None): 0
+BLVDW (None): 0
+BML$G (None): 0
+BML$H (None): 0
+BML$I (None): 0
+BML$J (None): 0
+BML$L (None): 0
+BMR (None): 0
+BNCL (None): 0
+BNCN (None): 0
+BNDX (None): 0
+BNJ (None): 0
+BNK (None): 0
+BOBE (None): 0
+BOCA (None): 0
+BOFI (None): 0
+BOI (None): 0
+BONA (None): 0
+BONT (None): 0
+BORN (None): 0
+BOTA (None): 0
+BOXC (None): 0
+BPFH (None): 0
+BPFHP (None): 0
+BPFHW (None): 0
+BPI (None): 0
+BPK (None): 0
+BPL (None): 0
+BPOPM (None): 0
+BPOPN (None): 0
+BPZ (None): 0
+BQH (None): 0
+BRCD (None): 0
+BRCM (None): 0
+BRDR (None): 0
+BREW (None): 0
+BRK.A (None): 0
+BRK.B (None): 0
+BRLI (Shell Companies): 0
+BRS (None): 0
+BRSS (None): 0
+BSD (None): 0
+BSDM (None): 0
+BSE (None): 0
+BSF (None): 0
+BSFT (None): 0
+BSI (None): 0
+BSTC (None): 0
+BT (None): 0
+BTE (None): 0
+BTF (None): 0
+BTH (None): 0
+BTUI (None): 0
+BVA (None): 0
+BVSN (None): 0
+BWC (None): 0
+BWINA (None): 0
+BWINB (None): 0
+BWLD (None): 0
+BWP (None): 0
+BWS (None): 0
+BXE (None): 0
+BXP$B (None): 0
+BYBK (None): 0
+BYLK (None): 0
+BZT (None): 0
+C$C (None): 0
+C$J (None): 0
+C$K (None): 0
+C$L (None): 0
+C$N (None): 0
+C$P (None): 0
+C.A (None): 0
+C.B (None): 0
+CA (None): 0
+CAB (None): 0
+CACB (None): 0
+CACG (None): 0
+CACGU (None): 0
+CACGW (None): 0
+CACQ (None): 0
+CADC (None): 0
+CADT (None): 0
+CADTR (None): 0
+CADTU (None): 0
+CADTW (None): 0
+CALD (None): 0
+CALL (None): 0
+CAM (None): 0
+CAMB (None): 0
+CAMBU (None): 0
+CAMBW (None): 0
+CAPN (None): 0
+CAPNW (None): 0
+CARB (None): 0
+CARO (None): 0
+CART (None): 0
+CARZ (None): 0
+CAS (Shell Companies): 0
+CASM (None): 0
+CATM (None): 0
+CATYW (None): 0
+CAVM (None): 0
+CBA (None): 0
+CBAK (None): 0
+CBB$B (None): 0
+CBDE (None): 0
+CBF (None): 0
+CBG (None): 0
+CBI (None): 0
+CBIN (None): 0
+CBK (None): 0
+CBL$D (None): 0
+CBL$E (None): 0
+CBM (None): 0
+CBMG (None): 0
+CBMX (None): 0
+CBNJ (None): 0
+CBPO (None): 0
+CBPX (None): 0
+CBR (None): 0
+CBRX (None): 0
+CBS (None): 0
+CBS.A (None): 0
+CBSHP (None): 0
+CBST (None): 0
+CBSTZ (None): 0
+CCC (None): 0
+CCCL (None): 0
+CCCR (None): 0
+CCE (None): 0
+CCG (None): 0
+CCG$A (None): 0
+CCI$A (None): 0
+CCIH (None): 0
+CCSC (None): 0
+CCV (Shell Companies): 0
+CCZ (None): 0
+CDC (None): 0
+CDE.W (None): 0
+CDI (None): 0
+CDR$B (None): 0
+CEB (None): 0
+CECO (None): 0
+CEL (None): 0
+CELG (None): 0
+CELGZ (None): 0
+CEM (Asset Management): 0
+CEMP (None): 0
+CERU (None): 0
+CETV (None): 0
+CFA (None): 0
+CFC$A (None): 0
+CFC$B (None): 0
+CFGE (None): 0
+CFI (None): 0
+CFN (None): 0
+CFNL (None): 0
+CFO (None): 0
+CFR$A (None): 0
+CFRXW (None): 0
+CFRXZ (None): 0
+CGG (None): 0
+CGI (None): 0
+CGIX (None): 0
+CHA (None): 0
+CHEV (None): 0
+CHFC (None): 0
+CHFN (None): 0
+CHK$D (None): 0
+CHKE (None): 0
+CHL (None): 0
+CHLN (None): 0
+CHMT (None): 0
+CHOP (None): 0
+CHSP (None): 0
+CHSP$A (None): 0
+CHU (None): 0
+CHXF (None): 0
+CHYR (None): 0
+CIE (None): 0
+CIFC (None): 0
+CIG.C (None): 0
+CIMT (None): 0
+CISAW (None): 0
+CISG (None): 0
+CIVI (None): 0
+CIZ (None): 0
+CJES (None): 0
+CKEC (None): 0
+CKH (None): 0
+CKP (None): 0
+CKSW (None): 0
+CLA (None): 0
+CLAC (None): 0
+CLACU (None): 0
+CLACW (None): 0
+CLBH (None): 0
+CLC (None): 0
+CLCT (None): 0
+CLD (None): 0
+CLDN (None): 0
+CLGX (None): 0
+CLMS (None): 0
+CLNT (None): 0
+CLNY (None): 0
+CLNY$A (None): 0
+CLNY$B (None): 0
+CLRBW (None): 0
+CLRX (None): 0
+CLTX (None): 0
+CLUB (None): 0
+CLV (None): 0
+CMA.W (None): 0
+CMCSK (None): 0
+CMFN (None): 0
+CMGE (None): 0
+CMK (None): 0
+CMLP (None): 0
+CMN (None): 0
+CMO$E (None): 0
+CMRE$B (None): 0
+CMRE$C (None): 0
+CMS$B (None): 0
+CMSB (None): 0
+CNAT (None): 0
+CNCO (None): 0
+CNDO (None): 0
+CNIT (None): 0
+CNL (None): 0
+CNLM (None): 0
+CNLMR (None): 0
+CNLMU (None): 0
+CNLMW (None): 0
+CNNX (None): 0
+CNSI (None): 0
+CNTF (None): 0
+CNV (None): 0
+CNW (None): 0
+CNXR (None): 0
+CNYD (None): 0
+COB (None): 0
+COBK (None): 0
+COBZ (None): 0
+COCO (None): 0
+CODE (None): 0
+COF$C (None): 0
+COF$D (None): 0
+COF$P (None): 0
+COF.W (None): 0
+COH (None): 0
+COL (None): 0
+COMT (None): 0
+COR$A (None): 0
+CORI (None): 0
+COSI (None): 0
+COT (None): 0
+COV (None): 0
+COVS (None): 0
+COWNL (None): 0
+CPAH (None): 0
+CPE$A (None): 0
+CPGI (None): 0
+CPHD (None): 0
+CPHR (None): 0
+CPL (None): 0
+CPLA (None): 0
+CPN (None): 0
+CPST (None): 0
+CPTA (None): 0
+CPXX (None): 0
+CRAY (None): 0
+CRCM (None): 0
+CRD.A (None): 0
+CRD.B (None): 0
+CRDC (None): 0
+CRDS (None): 0
+CRDT (None): 0
+CRESW (None): 0
+CRME (None): 0
+CRR (None): 0
+CRRC (None): 0
+CRRS (None): 0
+CRTN (None): 0
+CRWN (None): 0
+CRZO (None): 0
+CSBK (None): 0
+CSC (None): 0
+CSCD (None): 0
+CSF (None): 0
+CSFL (None): 0
+CSG (None): 0
+CSH (None): 0
+CSI (None): 0
+CSRE (None): 0
+CSS (None): 0
+CST (None): 0
+CSUN (None): 0
+CTB (None): 0
+CTCM (None): 0
+CTCT (None): 0
+CTIB (Specialty Retail): 0
+CTL (None): 0
+CTQ (None): 0
+CTR (Asset Management): 0
+CTRL (None): 0
+CTRP (None): 0
+CTRX (None): 0
+CTU (None): 0
+CTV (None): 0
+CTW (None): 0
+CTWS (None): 0
+CTX (None): 0
+CTY (None): 0
+CU (None): 0
+CUB (None): 0
+CUBE$A (None): 0
+CUBS (None): 0
+CUDA (None): 0
+CUI (None): 0
+CUNB (None): 0
+CVB (None): 0
+CVC (None): 0
+CVD (None): 0
+CVG (None): 0
+CVO (None): 0
+CVRR (None): 0
+CVT (None): 0
+CVTI (None): 0
+CWAY (None): 0
+CWEI (None): 0
+CXO (None): 0
+CY (None): 0
+CYBX (None): 0
+CYHHZ (None): 0
+CYN (None): 0
+CYN$C (None): 0
+CYN$D (None): 0
+CYNI (None): 0
+CYNO (None): 0
+CYOU (None): 0
+CYS (None): 0
+CYS$A (None): 0
+CYS$B (None): 0
+CYTX (None): 0
+CZFC (None): 0
+CZZ (None): 0
+DAEG (None): 0
+DANG (None): 0
+DARA (None): 0
+DATA (None): 0
+DATE (None): 0
+DAVE (None): 0
+DAX (None): 0
+DCA (None): 0
+DCIX (None): 0
+DCM (None): 0
+DCUA (None): 0
+DCUB (None): 0
+DCUC (None): 0
+DD$A (None): 0
+DD$B (None): 0
+DDC (None): 0
+DDE (None): 0
+DDR (None): 0
+DDR$J (None): 0
+DDR$K (None): 0
+DDT (None): 0
+DEG (None): 0
+DEL (None): 0
+DEPO (None): 0
+DERM (None): 0
+DEST (None): 0
+DF (None): 0
+DFRG (None): 0
+DFS$B (None): 0
+DFT (None): 0
+DFT$A (None): 0
+DFT$B (None): 0
+DFVL (None): 0
+DFVS (None): 0
+DGAS (None): 0
+DGI (None): 0
+DGLD (None): 0
+DGRE (None): 0
+DGRS (None): 0
+DGRW (None): 0
+DHG (None): 0
+DHRM (None): 0
+DKT (None): 0
+DL (None): 0
+DLBL (None): 0
+DLBS (None): 0
+DLPH (None): 0
+DLR$E (None): 0
+DLR$F (None): 0
+DLR$G (None): 0
+DLR$H (None): 0
+DMD (None): 0
+DMND (None): 0
+DNBF (None): 0
+DNI (None): 0
+DNKN (None): 0
+DNR (None): 0
+DNY (None): 0
+DO (None): 0
+DOM (None): 0
+DOVR (None): 0
+DPLO (None): 0
+DPM (None): 0
+DPRX (None): 0
+DPS (None): 0
+DRA (None): 0
+DRAD (None): 0
+DRAM (None): 0
+DRC (None): 0
+DRII (None): 0
+DRIV (None): 0
+DRL (None): 0
+DRWI (None): 0
+DRWIW (None): 0
+DRYS (None): 0
+DSCI (None): 0
+DSCO (None): 0
+DSE (None): 0
+DSKX (None): 0
+DSKY (None): 0
+DSLV (None): 0
+DST (None): 0
+DSW (None): 0
+DSX$B (None): 0
+DTK (None): 0
+DTLA$ (None): 0
+DTLK (None): 0
+DTQ (None): 0
+DTSI (None): 0
+DTT (None): 0
+DTUL (None): 0
+DTUS (None): 0
+DTV (None): 0
+DTYL (None): 0
+DTYS (None): 0
+DTZ (None): 0
+DUA (None): 0
+DUC (None): 0
+DUKH (None): 0
+DW (None): 0
+DWA (None): 0
+DWAT (None): 0
+DWCH (None): 0
+DWRE (None): 0
+DX$A (None): 0
+DX$B (None): 0
+DXB (None): 0
+DXGE (None): 0
+DXJS (None): 0
+DXKW (None): 0
+DXM (None): 0
+DXPS (None): 0
+DYAX (None): 0
+DYN$A (None): 0
+DYN.W (None): 0
+EAA (None): 0
+EAB (None): 0
+EAC (Shell Companies): 0
+EAE (None): 0
+EBIO (None): 0
+EBR.B (None): 0
+ECA (None): 0
+ECR (None): 0
+ECT (None): 0
+ECYT (None): 0
+EDE (None): 0
+EDGW (None): 0
+EDS (None): 0
+EE (None): 0
+EEI (None): 0
+EEMA (None): 0
+EEME (None): 0
+EEML (None): 0
+EEP (None): 0
+EEQ (None): 0
+EFF (None): 0
+EFII (None): 0
+EFM (None): 0
+EFUT (None): 0
+EGL (None): 0
+EGLT (None): 0
+EGN (None): 0
+EGOV (None): 0
+EGRW (None): 0
+EGT (None): 0
+EHIC (None): 0
+EIGI (None): 0
+EJ (None): 0
+ELB (None): 0
+ELGX (None): 0
+ELJ (None): 0
+ELLI (None): 0
+ELNK (None): 0
+ELON (None): 0
+ELOS (None): 0
+ELRC (None): 0
+ELS$C (None): 0
+ELU (None): 0
+ELX (None): 0
+EMC (None): 0
+EMCB (None): 0
+EMCG (None): 0
+EMCI (None): 0
+EMDI (None): 0
+EMES (None): 0
+EMEY (None): 0
+EMIF (None): 0
+EMMSP (None): 0
+EMQ (None): 0
+EMZ (None): 0
+ENFC (None): 0
+ENH (None): 0
+ENH$A (None): 0
+ENH$B (None): 0
+ENI (None): 0
+ENJ (None): 0
+ENL (None): 0
+ENLK (None): 0
+ENOC (None): 0
+ENT (None): 0
+ENTR (None): 0
+ENVI (Shell Companies): 0
+ENZY (None): 0
+EOC (None): 0
+EOPN (None): 0
+EP$C (None): 0
+EPAX (None): 0
+EPE (None): 0
+EPIQ (None): 0
+EPR$C (None): 0
+EPR$E (None): 0
+EPR$F (None): 0
+EPRS (None): 0
+EQC$D (None): 0
+EQC$E (None): 0
+EQCO (None): 0
+EQM (None): 0
+EQY (None): 0
+ERA (None): 0
+ERI (None): 0
+EROC (None): 0
+EROS (None): 0
+ERS (None): 0
+ERW (None): 0
+ESBF (None): 0
+ESCR (None): 0
+ESCRP (None): 0
+ESD (None): 0
+ESIO (None): 0
+ESL (None): 0
+ESRX (None): 0
+ESS$H (None): 0
+ESSX (None): 0
+ESV (None): 0
+ESYS (None): 0
+ETE (None): 0
+ETFC (None): 0
+ETM (None): 0
+ETP (None): 0
+ETRM (None): 0
+EUFN (None): 0
+EV (None): 0
+EVAL (None): 0
+EVAR (None): 0
+EVBS (None): 0
+EVDY (None): 0
+EVEP (None): 0
+EVER$A (None): 0
+EVHC (None): 0
+EVRY (None): 0
+EXA (None): 0
+EXAC (None): 0
+EXAM (None): 0
+EXAR (None): 0
+EXCU (None): 0
+EXH (None): 0
+EXL (None): 0
+EXL$B (None): 0
+EXLP (None): 0
+EXXI (None): 0
+EZCH (None): 0
+EZT (None): 0
+FAC (None): 0
+FAV (None): 0
+FBNK (None): 0
+FBR (None): 0
+FBRC (None): 0
+FBS$A (None): 0
+FBSS (None): 0
+FCAM (None): 0
+FCAU (None): 0
+FCB (None): 0
+FCE.A (None): 0
+FCE.B (None): 0
+FCH (None): 0
+FCH$A (None): 0
+FCH$C (None): 0
+FCHI (None): 0
+FCLF (None): 0
+FCS (None): 0
+FCSC (None): 0
+FCTY (None): 0
+FCVA (None): 0
+FCZA (None): 0
+FCZAP (None): 0
+FDEF (None): 0
+FDI (None): 0
+FDIV (None): 0
+FDML (None): 0
+FDO (None): 0
+FEIC (None): 0
+FELP (None): 0
+FEMB (None): 0
+FES (None): 0
+FEUZ (None): 0
+FFBCW (None): 0
+FFG (None): 0
+FFKT (None): 0
+FFNM (None): 0
+FGL (None): 0
+FGP (None): 0
+FHCO (None): 0
+FHN$A (None): 0
+FHY (None): 0
+FIG (None): 0
+FII (None): 0
+FINL (None): 0
+FISH (None): 0
+FLAT (None): 0
+FLIR (None): 0
+FLML (None): 0
+FLTX (None): 0
+FMB (None): 0
+FMD (None): 0
+FMER (None): 0
+FMER$A (None): 0
+FMI (None): 0
+FMSA (None): 0
+FNB$E (None): 0
+FNBC (None): 0
+FNFG (None): 0
+FNFG$B (None): 0
+FNFV (None): 0
+FNGN (None): 0
+FNJN (None): 0
+FNSR (None): 0
+FOMX (None): 0
+FONE (None): 0
+FPO (None): 0
+FPO$A (None): 0
+FPRX (None): 0
+FPT (None): 0
+FPXI (None): 0
+FRAN (None): 0
+FRC$A (None): 0
+FRC$B (None): 0
+FRC$C (None): 0
+FRC$D (None): 0
+FRC$E (None): 0
+FRED (None): 0
+FRM (None): 0
+FRP (None): 0
+FRPHV (None): 0
+FRSH (None): 0
+FSAM (None): 0
+FSBK (None): 0
+FSC (None): 0
+FSCE (None): 0
+FSCFL (None): 0
+FSFR (None): 0
+FSGI (None): 0
+FSIC (None): 0
+FSL (None): 0
+FSNN (None): 0
+FSRV (None): 0
+FSYS (None): 0
+FTCS (None): 0
+FTD (None): 0
+FTGC (None): 0
+FTHI (None): 0
+FTLB (None): 0
+FTR (None): 0
+FTSL (None): 0
+FTSM (None): 0
+FTT (None): 0
+FUEL (None): 0
+FULL (None): 0
+FULLL (None): 0
+FUR (None): 0
+FV (None): 0
+FWM (None): 0
+FXCB (None): 0
+FXCM (None): 0
+FXEN (None): 0
+FXENP (None): 0
+GAB$D (None): 0
+GAB$G (None): 0
+GAB$H (None): 0
+GAI (None): 0
+GAINO (None): 0
+GAINP (None): 0
+GALE (None): 0
+GALTU (None): 0
+GALTW (None): 0
+GAM$B (None): 0
+GARS (None): 0
+GAS (None): 0
+GBNK (None): 0
+GBSN (None): 0
+GCA (None): 0
+GCAP (None): 0
+GCH (None): 0
+GCV$B (None): 0
+GCVRZ (None): 0
+GDEF (None): 0
+GDF (None): 0
+GDL (Asset Management): 0
+GDL$B (None): 0
+GDP$C (None): 0
+GDP$D (None): 0
+GDV$A (None): 0
+GDV$D (None): 0
+GEB (None): 0
+GEF.B (None): 0
+GEH (None): 0
+GEK (None): 0
+GEQ (None): 0
+GEVA (None): 0
+GFA (None): 0
+GFIG (None): 0
+GFN (None): 0
+GFNCP (None): 0
+GFNSL (None): 0
+GFY (None): 0
+GG (None): 0
+GGAC (None): 0
+GGACR (None): 0
+GGACU (None): 0
+GGACW (None): 0
+GGE (None): 0
+GGP (None): 0
+GGP$A (None): 0
+GGT$B (None): 0
+GHDX (None): 0
+GHI (None): 0
+GIMO (None): 0
+GJH (None): 0
+GJO (None): 0
+GJP (None): 0
+GJR (None): 0
+GJS (None): 0
+GJT (None): 0
+GJV (None): 0
+GK (None): 0
+GKNT (None): 0
+GLADO (None): 0
+GLDC (None): 0
+GLDI (None): 0
+GLF (None): 0
+GLOG (None): 0
+GLPW (None): 0
+GLUU (None): 0
+GM.A (None): 0
+GM.B (None): 0
+GM.C (None): 0
+GMAN (None): 0
+GMCR (None): 0
+GMK (None): 0
+GMLP (None): 0
+GMT (None): 0
+GMZ (None): 0
+GNBC (None): 0
+GNC (None): 0
+GNCMA (None): 0
+GNE$A (None): 0
+GNI (None): 0
+GNMA (None): 0
+GNMK (None): 0
+GNVC (None): 0
+GOMO (None): 0
+GOODP (None): 0
+GOV (None): 0
+GPE$A (None): 0
+GPIC (None): 0
+GPT (None): 0
+GPT$B (None): 0
+GRAM (None): 0
+GRID (None): 0
+GRIF (None): 0
+GRO (None): 0
+GRP.U (None): 0
+GRR (None): 0
+GRT (None): 0
+GRT$G (None): 0
+GRT$H (None): 0
+GRT$I (None): 0
+GRX$A (None): 0
+GRX$B (None): 0
+GS$A (None): 0
+GS$B (None): 0
+GS$C (None): 0
+GS$D (None): 0
+GS$I (None): 0
+GS$J (None): 0
+GS$K (None): 0
+GSF (None): 0
+GSH (None): 0
+GSI (None): 0
+GSIG (None): 0
+GSJ (None): 0
+GSL$B (None): 0
+GSOL (None): 0
+GSVC (None): 0
+GTI (None): 0
+GTIV (None): 0
+GTN.A (None): 0
+GTT (None): 0
+GTWN (None): 0
+GTXI (None): 0
+GUA (None): 0
+GUID (None): 0
+GULF (None): 0
+GUT$A (None): 0
+GWPH (None): 0
+GWR (None): 0
+GWRU (None): 0
+GXP (None): 0
+GXP$A (None): 0
+GXP$D (None): 0
+GXP$E (None): 0
+GY (None): 0
+GYB (None): 0
+GYC (None): 0
+GZT (None): 0
+HABT (None): 0
+HAR (None): 0
+HART (None): 0
+HAWK (None): 0
+HAWKB (None): 0
+HBANP (None): 0
+HBHC (None): 0
+HBK (None): 0
+HBM.W (None): 0
+HBNK (None): 0
+HBOS (None): 0
+HCAC (None): 0
+HCACU (None): 0
+HCACW (None): 0
+HCAP (None): 0
+HCBK (None): 0
+HCJ (None): 0
+HCLP (None): 0
+HCN (None): 0
+HCN$I (None): 0
+HCN$J (None): 0
+HCOM (None): 0
+HCP (None): 0
+HCT (None): 0
+HDNG (None): 0
+HDP (None): 0
+HDRA (None): 0
+HDRAR (None): 0
+HDRAU (None): 0
+HDRAW (None): 0
+HDS (None): 0
+HDY (None): 0
+HE$U (None): 0
+HEI.A (None): 0
+HELI (None): 0
+HEOP (None): 0
+HERO (None): 0
+HF (None): 0
+HFBC (None): 0
+HFFC (None): 0
+HGG (None): 0
+HGH (None): 0
+HGR (None): 0
+HGT (None): 0
+HHS (None): 0
+HHY (None): 0
+HIG.W (None): 0
+HIIQ (None): 0
+HILL (None): 0
+HIVE (None): 0
+HJV (None): 0
+HK (None): 0
+HKTV (None): 0
+HL$B (None): 0
+HLS (None): 0
+HLSS (None): 0
+HME (None): 0
+HMIN (None): 0
+HMPR (None): 0
+HMSY (None): 0
+HNH (None): 0
+HNR (None): 0
+HNSN (None): 0
+HNT (None): 0
+HOT (None): 0
+HOTR (None): 0
+HOTRW (None): 0
+HOVNP (None): 0
+HPJ (None): 0
+HPP$B (None): 0
+HPT (None): 0
+HPT$D (None): 0
+HPTX (None): 0
+HPY (None): 0
+HRG (None): 0
+HRS (None): 0
+HSBC$A (None): 0
+HSEA (None): 0
+HSEB (None): 0
+HSFC$B (None): 0
+HSGX (None): 0
+HSNI (None): 0
+HSOL (None): 0
+HSP (None): 0
+HT$B (None): 0
+HT$C (None): 0
+HTCH (None): 0
+HTF (None): 0
+HTGX (None): 0
+HTGY (None): 0
+HTGZ (None): 0
+HTR (None): 0
+HTS (None): 0
+HTS$A (None): 0
+HTWO (None): 0
+HTWR (None): 0
+HTZ (None): 0
+HUB.A (None): 0
+HUB.B (None): 0
+HUSI$D (None): 0
+HUSI$F (None): 0
+HUSI$G (None): 0
+HUSI$H (None): 0
+HUSI$Z (None): 0
+HVB (None): 0
+HVT.A (None): 0
+HW (None): 0
+HWAY (None): 0
+HWCC (None): 0
+HYF (None): 0
+HYGS (None): 0
+HYH (None): 0
+HYLS (None): 0
+HYND (None): 0
+HYZD (None): 0
+I (None): 0
+I$A (None): 0
+IACI (None): 0
+IBB (None): 0
+IBCA (None): 0
+IBKC (None): 0
+ICA (None): 0
+ICB (None): 0
+ICEL (None): 0
+ICLDW (None): 0
+ICLN (None): 0
+IDG (None): 0
+IDSA (None): 0
+IDSY (None): 0
+IDTI (None): 0
+IEH (None): 0
+IEUS (None): 0
+IFAS (None): 0
+IFEU (None): 0
+IFGL (None): 0
+IFNA (None): 0
+IFON (None): 0
+IFT (None): 0
+IFV (None): 0
+IGLD (None): 0
+IGOV (None): 0
+IGTE (None): 0
+IHS (None): 0
+IID (None): 0
+IIJI (None): 0
+IILG (None): 0
+IKAN (None): 0
+IKGH (None): 0
+IL (None): 0
+IM (None): 0
+IMDZ (None): 0
+IMI (None): 0
+IMMU (None): 0
+IMMY (None): 0
+IMN (None): 0
+IMNP (None): 0
+IMPR (None): 0
+IMPV (None): 0
+IMRS (None): 0
+IMS (None): 0
+INAP (None): 0
+INB (None): 0
+IND (None): 0
+INDY (None): 0
+INF (None): 0
+INFA (None): 0
+ININ (None): 0
+INN$A (None): 0
+INN$B (None): 0
+INN$C (None): 0
+INNL (None): 0
+INPH (None): 0
+INSY (None): 0
+INTL (None): 0
+INTLL (None): 0
+INTX (None): 0
+INVN (None): 0
+INWK (None): 0
+INXN (None): 0
+INZ (None): 0
+IOC (None): 0
+IPAS (None): 0
+IPCC (None): 0
+IPCI (None): 0
+IPCM (None): 0
+IPHI (None): 0
+IPHS (None): 0
+IPKW (None): 0
+IPL$D (None): 0
+IPXL (None): 0
+IQNT (None): 0
+IRC (None): 0
+IRC$A (None): 0
+IRC$B (None): 0
+IRDMB (None): 0
+IRDMZ (None): 0
+IRE (None): 0
+IRET (None): 0
+IRET$ (None): 0
+IRET$B (None): 0
+IRF (None): 0
+IRG (None): 0
+IRR (None): 0
+ISCA (None): 0
+ISF (None): 0
+ISG (None): 0
+ISH (None): 0
+ISH$A (None): 0
+ISH$B (None): 0
+ISHG (None): 0
+ISIL (None): 0
+ISIS (None): 0
+ISLE (Shell Companies): 0
+ISM (None): 0
+ISP (None): 0
+ISRL (None): 0
+ISSI (None): 0
+ITC (None): 0
+ITG (None): 0
+IVAN (Shell Companies): 0
+IVR$A (None): 0
+IVR$B (None): 0
+IXYS (None): 0
+JACQ (None): 0
+JACQU (None): 0
+JACQW (None): 0
+JAH (None): 0
+JASN (None): 0
+JASNW (None): 0
+JASO (None): 0
+JAXB (None): 0
+JBK (None): 0
+JBN (None): 0
+JBR (None): 0
+JCP (None): 0
+JDSU (None): 0
+JEC (None): 0
+JFC (None): 0
+JGBB (None): 0
+JGV (None): 0
+JGW (None): 0
+JHP (None): 0
+JIVE (None): 0
+JMBA (None): 0
+JMEI (None): 0
+JMF (None): 0
+JMI (None): 0
+JMLP (None): 0
+JMPB (None): 0
+JMPC (None): 0
+JMT (None): 0
+JNS (None): 0
+JOEZ (None): 0
+JONE (None): 0
+JOY (None): 0
+JPEP (None): 0
+JPI (Asset Management): 0
+JPM$A (None): 0
+JPM$B (None): 0
+JPM$C (None): 0
+JPM$D (None): 0
+JPM$E (None): 0
+JPM.W (None): 0
+JPW (None): 0
+JRN (None): 0
+JSD (Asset Management): 0
+JSM (None): 0
+JST (None): 0
+JTP (None): 0
+JTPY (None): 0
+JUNO (None): 0
+JW.A (None): 0
+JW.B (None): 0
+JXSB (None): 0
+KANG (None): 0
+KAP (None): 0
+KATE (None): 0
+KBIO (None): 0
+KCAP (None): 0
+KCC (None): 0
+KCG (None): 0
+KED (None): 0
+KEF (None): 0
+KEG (None): 0
+KEM (None): 0
+KERX (None): 0
+KEY$G (None): 0
+KFH (None): 0
+KFI (None): 0
+KFN$ (None): 0
+KFX (None): 0
+KHI (None): 0
+KIM$H (None): 0
+KIM$I (None): 0
+KIM$J (None): 0
+KIM$K (None): 0
+KING (None): 0
+KITE (None): 0
+KKD (None): 0
+KLXI (None): 0
+KMF (Asset Management): 0
+KMG (None): 0
+KMI.W (None): 0
+KMM (None): 0
+KMPA (None): 0
+KND (None): 0
+KNM (None): 0
+KODK.A (None): 0
+KODK.W (None): 0
+KONE (None): 0
+KOOL (None): 0
+KORS (None): 0
+KRC$G (None): 0
+KRC$H (None): 0
+KRFT (None): 0
+KRG$A (None): 0
+KS (None): 0
+KST (None): 0
+KSU$ (None): 0
+KTEC (None): 0
+KTH (None): 0
+KTN (None): 0
+KTP (None): 0
+KTWO (None): 0
+KUTV (None): 0
+KWEB (None): 0
+KWN (None): 0
+KYE (None): 0
+KYN$E (None): 0
+KYN$F (None): 0
+KYN$G (None): 0
+KYO (None): 0
+KYTH (None): 0
+KZ (None): 0
+LABC (None): 0
+LABL (None): 0
+LACO (None): 0
+LALT (None): 0
+LAS (None): 0
+LAYN (None): 0
+LBF (None): 0
+LBIX (None): 0
+LBRKR (None): 0
+LCM (None): 0
+LDF (None): 0
+LDR (None): 0
+LDRH (None): 0
+LDRI (None): 0
+LEAF (None): 0
+LEN.B (None): 0
+LEVY (None): 0
+LEVYU (None): 0
+LEVYW (None): 0
+LF (None): 0
+LFL (None): 0
+LG (None): 0
+LGCYO (None): 0
+LGCYP (None): 0
+LGF (None): 0
+LHO (None): 0
+LHO$H (None): 0
+LHO$I (None): 0
+LIME (None): 0
+LINE (None): 0
+LION (None): 0
+LIOX (None): 0
+LIQD (None): 0
+LLEX (None): 0
+LLL (None): 0
+LLTC (None): 0
+LM (None): 0
+LMBS (None): 0
+LMCA (None): 0
+LMCB (None): 0
+LMCK (None): 0
+LMIA (None): 0
+LMNS (None): 0
+LMOS (None): 0
+LNBB (None): 0
+LNC.W (None): 0
+LNCE (None): 0
+LNCO (None): 0
+LNKD (None): 0
+LO (None): 0
+LOCK (None): 0
+LOCM (None): 0
+LOGM (None): 0
+LOJN (None): 0
+LONG (None): 0
+LOOK (None): 0
+LOR (None): 0
+LOXO (None): 0
+LPHI (None): 0
+LPNT (None): 0
+LPSB (None): 0
+LPT (None): 0
+LPTN (None): 0
+LQ (None): 0
+LRAD (None): 0
+LRE (None): 0
+LTM (None): 0
+LTXB (None): 0
+LUK (None): 0
+LUX (None): 0
+LVLT (None): 0
+LVNTA (None): 0
+LVNTB (None): 0
+LXFT (None): 0
+LXK (None): 0
+LXP$C (None): 0
+LYG$A (None): 0
+MAMS (None): 0
+MATR (None): 0
+MBFI (None): 0
+MBFIP (None): 0
+MBLX (None): 0
+MBLY (None): 0
+MBRG (None): 0
+MBSD (None): 0
+MBTF (None): 0
+MBVT (None): 0
+MCC (None): 0
+MCEP (None): 0
+MCGC (None): 0
+MCOX (None): 0
+MCP (None): 0
+MCQ (None): 0
+MCRL (None): 0
+MCUR (None): 0
+MCV (None): 0
+MDAS (None): 0
+MDCO (None): 0
+MDIV (None): 0
+MDLY (None): 0
+MDM (None): 0
+MDR (None): 0
+MDSO (None): 0
+MDSY (None): 0
+MDVN (None): 0
+MDVXU (None): 0
+MEET (None): 0
+MEILW (None): 0
+MEILZ (None): 0
+MELA (None): 0
+MELR (None): 0
+MEMP (None): 0
+MEN (None): 0
+MENT (None): 0
+MEP (None): 0
+MER$D (None): 0
+MER$E (None): 0
+MER$F (None): 0
+MER$K (None): 0
+MER$M (None): 0
+MER$P (None): 0
+MERU (None): 0
+MET$A (None): 0
+MET$B (None): 0
+METR (None): 0
+MFA$B (None): 0
+MFI (None): 0
+MFLX (None): 0
+MFO (None): 0
+MFRI (None): 0
+MFRM (None): 0
+MFSF (None): 0
+MFT (None): 0
+MGCD (None): 0
+MGR (None): 0
+MH$A (None): 0
+MHFI (None): 0
+MHG (None): 0
+MHGC (None): 0
+MHLDO (None): 0
+MHNA (None): 0
+MHNB (None): 0
+MHNC (None): 0
+MHO$A (None): 0
+MHR (None): 0
+MHY (None): 0
+MICTW (None): 0
+MIE (Asset Management): 0
+MIFI (None): 0
+MIG (None): 0
+MIK (None): 0
+MIL (None): 0
+MILL (None): 0
+MILL$C (None): 0
+MILL$D (None): 0
+MINI (None): 0
+MITL (None): 0
+MITT$A (None): 0
+MITT$B (None): 0
+MJI (None): 0
+MJN (None): 0
+MKC.V (None): 0
+MKTO (None): 0
+MLNK (None): 0
+MLNX (None): 0
+MM (None): 0
+MNDL (None): 0
+MNE (None): 0
+MNGA (None): 0
+MNI (None): 0
+MNK (None): 0
+MNR$A (None): 0
+MNR$B (None): 0
+MNRK (None): 0
+MNTA (None): 0
+MOBI (None): 0
+MOCO (None): 0
+MOG.A (None): 0
+MOG.B (None): 0
+MOKO (None): 0
+MOLG (None): 0
+MORE (None): 0
+MP$D (None): 0
+MPEL (None): 0
+MPET (None): 0
+MPG (None): 0
+MPO (None): 0
+MR (None): 0
+MRD (None): 0
+MRH (None): 0
+MRH$A (None): 0
+MRKT (None): 0
+MRVC (None): 0
+MS$A (None): 0
+MS$E (None): 0
+MS$F (None): 0
+MS$G (None): 0
+MS$I (None): 0
+MSBF (None): 0
+MSCA (None): 0
+MSCC (None): 0
+MSF (None): 0
+MSFG (None): 0
+MSG (None): 0
+MSJ (None): 0
+MSK (None): 0
+MSL (None): 0
+MSLI (None): 0
+MSO (None): 0
+MSZ (None): 0
+MTB$ (None): 0
+MTB$C (None): 0
+MTB.W (None): 0
+MTCN (None): 0
+MTGE (None): 0
+MTGEP (None): 0
+MTL$ (None): 0
+MTS (None): 0
+MTSC (None): 0
+MTSN (None): 0
+MTT (None): 0
+MTU (None): 0
+MUH (None): 0
+MULT (None): 0
+MUS (None): 0
+MVC (None): 0
+MVCB (None): 0
+MVNR (None): 0
+MW (None): 0
+MWE (None): 0
+MWG (None): 0
+MWIV (None): 0
+MWO (None): 0
+MWR (None): 0
+MWV (None): 0
+MWW (None): 0
+MXWL (None): 0
+MY (None): 0
+MYCC (None): 0
+MYF (None): 0
+MYL (None): 0
+MYM (None): 0
+MYOS (None): 0
+MZF (None): 0
+MZOR (None): 0
+N (None): 0
+NADL (None): 0
+NAME (None): 0
+NANO (None): 0
+NAO (None): 0
+NAP (None): 0
+NATL (None): 0
+NAV (None): 0
+NAV$D (None): 0
+NAVG (None): 0
+NBBC (None): 0
+NBD (None): 0
+NBG (None): 0
+NBG$A (None): 0
+NBL (None): 0
+NBS (None): 0
+NBTF (None): 0
+NCFT (None): 0
+NCI (None): 0
+NCIT (None): 0
+NCS (None): 0
+NCT (None): 0
+NCT$B (None): 0
+NCT$C (None): 0
+NCT$D (None): 0
+NDP (Asset Management): 0
+NDRM (None): 0
+NDRO (None): 0
+NEE$C (None): 0
+NEE$G (None): 0
+NEE$H (None): 0
+NEE$I (None): 0
+NEE$J (None): 0
+NEE$O (None): 0
+NEE$P (None): 0
+NEFF (None): 0
+NEOT (None): 0
+NEWM (None): 0
+NEWS (None): 0
+NFEC (None): 0
+NFX (None): 0
+NGHC (None): 0
+NGHCP (None): 0
+NGLS (None): 0
+NHTB (None): 0
+NILE (None): 0
+NJ (None): 0
+NKA (None): 0
+NLNK (None): 0
+NLY$A (None): 0
+NLY$C (None): 0
+NLY$D (None): 0
+NM$G (None): 0
+NM$H (None): 0
+NMA (None): 0
+NMBL (None): 0
+NMK$B (None): 0
+NMK$C (None): 0
+NMO (None): 0
+NMRX (None): 0
+NMY (None): 0
+NNC (None): 0
+NNN$D (None): 0
+NNN$E (None): 0
+NNP (None): 0
+NOM$C (None): 0
+NOR (None): 0
+NORD (None): 0
+NPBC (None): 0
+NPD (None): 0
+NPF (None): 0
+NPI (None): 0
+NPM (None): 0
+NPP (None): 0
+NPSP (None): 0
+NPT (None): 0
+NQ (None): 0
+NQI (None): 0
+NQM (None): 0
+NQS (None): 0
+NQU (None): 0
+NRCIA (None): 0
+NRCIB (None): 0
+NRF (None): 0
+NRF$A (None): 0
+NRF$B (None): 0
+NRF$C (None): 0
+NRF$D (None): 0
+NRF$E (None): 0
+NRX (None): 0
+NSAM (None): 0
+NSLP (None): 0
+NSM (None): 0
+NSPH (None): 0
+NTC (None): 0
+NTI (None): 0
+NTK (None): 0
+NTL (None): 0
+NTLS (None): 0
+NTRI (None): 0
+NTRSP (None): 0
+NTT (None): 0
+NTX (None): 0
+NTX$C (None): 0
+NU (None): 0
+NUM (None): 0
+NUTR (None): 0
+NVDQ (None): 0
+NVEEW (None): 0
+NVGN (None): 0
+NVSL (None): 0
+NW$C (None): 0
+NWBOW (None): 0
+NWY (None): 0
+NXJ$C (None): 0
+NXTDW (None): 0
+NXTM (None): 0
+NYCB$U (None): 0
+NYLD (None): 0
+NYNY (None): 0
+NYRT (None): 0
+O$F (None): 0
+OAK (None): 0
+OAKS (None): 0
+OAKS$A (None): 0
+OB (None): 0
+OCIP (None): 0
+OCIR (None): 0
+OCLR (None): 0
+OCLS (None): 0
+OCR (None): 0
+OCR$A (None): 0
+OCR$B (None): 0
+OCRX (None): 0
+OFC$L (None): 0
+OFG$A (None): 0
+OFG$B (None): 0
+OFG$D (None): 0
+OGXI (None): 0
+OHAI (None): 0
+OHGI (None): 0
+OHRP (None): 0
+OIBR (None): 0
+OIBR.C (None): 0
+OILT (None): 0
+OKS (None): 0
+OKSB (None): 0
+OLBK (None): 0
+OMAM (None): 0
+OME (None): 0
+OMED (None): 0
+OMG (None): 0
+OMN (None): 0
+ONDK (None): 0
+ONEQ (None): 0
+ONFC (None): 0
+ONNN (None): 0
+ONTY (None): 0
+ONVI (None): 0
+OPB (None): 0
+OPHT (None): 0
+OPWR (None): 0
+OPXA (None): 0
+ORB (None): 0
+ORBK (None): 0
+OREX (None): 0
+ORIG (None): 0
+ORIT (None): 0
+ORPN (None): 0
+OSBCP (None): 0
+OSHC (None): 0
+OSIR (None): 0
+OSM (None): 0
+OTEL (None): 0
+OTIV (None): 0
+OUBS (None): 0
+OUTR (None): 0
+OVAS (None): 0
+OVTI (None): 0
+OWW (None): 0
+OXFD (None): 0
+OXGN (None): 0
+OXLCN (None): 0
+OZM (None): 0
+OZRK (None): 0
+P (None): 0
+PACD (None): 0
+PAGG (None): 0
+PAH (None): 0
+PARN (None): 0
+PATIV (None): 0
+PBCP (None): 0
+PBI$A (None): 0
+PBI$B (None): 0
+PBIB (None): 0
+PBMD (None): 0
+PBR.A (None): 0
+PBSK (None): 0
+PBY (None): 0
+PCBK (None): 0
+PCCC (None): 0
+PCL (None): 0
+PCLN (None): 0
+PCMI (None): 0
+PCO (None): 0
+PCP (None): 0
+PCYC (None): 0
+PDBC (None): 0
+PDII (None): 0
+PDLI (None): 0
+PE (None): 0
+PEB$A (None): 0
+PEB$B (None): 0
+PEB$C (None): 0
+PEGI (None): 0
+PEI$A (None): 0
+PEI$B (None): 0
+PEIX (None): 0
+PENX (None): 0
+PEOP (None): 0
+PER (None): 0
+PERF (None): 0
+PERY (None): 0
+PES (None): 0
+PETM (None): 0
+PETX (None): 0
+PF (None): 0
+PFG$B (None): 0
+PFH (None): 0
+PFK (None): 0
+PGEM (None): 0
+PGH (None): 0
+PGI (None): 0
+PGN (None): 0
+PGNX (None): 0
+PHH (None): 0
+PHII (None): 0
+PHIIK (None): 0
+PHMD (None): 0
+PICO (None): 0
+PIH (None): 0
+PIR (None): 0
+PIY (None): 0
+PJC (None): 0
+PJH (None): 0
+PJS (None): 0
+PKD (None): 0
+PKT (None): 0
+PKY (None): 0
+PL (None): 0
+PL$B (None): 0
+PL$C (None): 0
+PL$E (None): 0
+PLCM (None): 0
+PLKI (None): 0
+PLMT (None): 0
+PLNR (None): 0
+PLPM (None): 0
+PLT (None): 0
+PLTM (None): 0
+PMC (None): 0
+PMCS (None): 0
+PMFG (None): 0
+PNC$P (None): 0
+PNC$Q (None): 0
+PNC.W (None): 0
+PNK (None): 0
+PNQI (None): 0
+PNRA (None): 0
+PNTA (None): 0
+PNTR (None): 0
+PNX (None): 0
+PNY (None): 0
+POL (None): 0
+POM (None): 0
+POPE (None): 0
+POT (None): 0
+POWR (None): 0
+POZN (None): 0
+PPHM (None): 0
+PPHMP (None): 0
+PPO (None): 0
+PPP (None): 0
+PPS (None): 0
+PPS$A (None): 0
+PPX (None): 0
+PQ (None): 0
+PRAH (None): 0
+PRCP (None): 0
+PRE (None): 0
+PRE$D (None): 0
+PRE$E (None): 0
+PRE$F (None): 0
+PRFZ (None): 0
+PRGN (None): 0
+PRGNL (None): 0
+PRGX (None): 0
+PRH (None): 0
+PRLS (None): 0
+PRSC (None): 0
+PRSS (None): 0
+PRTO (None): 0
+PRXI (None): 0
+PRXL (None): 0
+PRY (None): 0
+PSA$A (None): 0
+PSA$O (None): 0
+PSA$P (None): 0
+PSA$Q (None): 0
+PSA$R (None): 0
+PSA$S (None): 0
+PSA$T (None): 0
+PSA$U (None): 0
+PSA$V (None): 0
+PSA$W (None): 0
+PSA$X (None): 0
+PSA$Y (None): 0
+PSA$Z (None): 0
+PSAU (None): 0
+PSB$R (None): 0
+PSB$S (None): 0
+PSB$T (None): 0
+PSB$U (None): 0
+PSB$V (None): 0
+PSBH (None): 0
+PSCC (None): 0
+PSCD (None): 0
+PSCE (None): 0
+PSCF (None): 0
+PSCH (None): 0
+PSCI (None): 0
+PSCM (None): 0
+PSCT (None): 0
+PSCU (None): 0
+PSDV (None): 0
+PSEM (None): 0
+PSG (None): 0
+PSTB (None): 0
+PSTR (None): 0
+PSUN (None): 0
+PTBI (None): 0
+PTBIW (None): 0
+PTIE (None): 0
+PTLA (None): 0
+PTNT (None): 0
+PTP (None): 0
+PTRY (None): 0
+PTX (None): 0
+PUK$ (None): 0
+PUK$A (None): 0
+PULB (None): 0
+PVA (None): 0
+PVTB (None): 0
+PVTBP (None): 0
+PVTD (None): 0
+PWE (None): 0
+PWRD (None): 0
+PWX (None): 0
+PX (None): 0
+PYB (None): 0
+PYS (None): 0
+PYT (None): 0
+PZB (None): 0
+PZE (None): 0
+Q (None): 0
+QABA (None): 0
+QAT (None): 0
+QCLN (None): 0
+QEP (None): 0
+QEPM (None): 0
+QIHU (None): 0
+QINC (None): 0
+QLGC (None): 0
+QLIK (None): 0
+QLTI (None): 0
+QLTY (None): 0
+QQEW (None): 0
+QQQ (None): 0
+QQQC (None): 0
+QQXT (None): 0
+QSII (None): 0
+QTEC (None): 0
+QTM (None): 0
+QTNTW (None): 0
+QTWW (None): 0
+QUNR (None): 0
+QVCA (None): 0
+QVCB (None): 0
+QYLD (None): 0
+RAI (None): 0
+RALY (None): 0
+RAS (None): 0
+RAS$A (None): 0
+RAS$B (None): 0
+RAS$C (None): 0
+RATE (None): 0
+RAX (None): 0
+RBPAA (None): 0
+RBS (None): 0
+RBS$E (None): 0
+RBS$F (None): 0
+RBS$G (None): 0
+RBS$H (None): 0
+RBS$I (None): 0
+RBS$L (None): 0
+RBS$M (None): 0
+RBS$N (None): 0
+RBS$P (None): 0
+RBS$Q (None): 0
+RBS$R (None): 0
+RBS$S (None): 0
+RBS$T (None): 0
+RCAP (None): 0
+RCPI (None): 0
+RCPT (None): 0
+RDC (None): 0
+RDEN (None): 0
+RDS.A (None): 0
+RDS.B (None): 0
+RDVY (None): 0
+RECN (None): 0
+REDF (None): 0
+REG$F (None): 0
+REG$G (None): 0
+REIS (None): 0
+REMY (None): 0
+REN (None): 0
+RENT (None): 0
+RESI (None): 0
+REXI (None): 0
+REXX (None): 0
+RF$A (None): 0
+RF$B (None): 0
+RFT (None): 0
+RFTA (None): 0
+RGC (None): 0
+RGDO (None): 0
+RGDX (None): 0
+RGSE (None): 0
+RHT (None): 0
+RIBTW (None): 0
+RIGP (None): 0
+RIOM (None): 0
+RIT (None): 0
+RITTW (None): 0
+RIVR (None): 0
+RJD (None): 0
+RJET (None): 0
+RKUS (None): 0
+RLD (None): 0
+RLH (None): 0
+RLH$A (None): 0
+RLJE (None): 0
+RLOC (None): 0
+RLOG (None): 0
+RLYP (None): 0
+RMGN (None): 0
+RMP (None): 0
+RNDY (None): 0
+RNE (None): 0
+RNET (None): 0
+RNF (None): 0
+RNO (None): 0
+RNR$C (None): 0
+RNR$E (None): 0
+ROBO (None): 0
+ROC (None): 0
+ROIA (None): 0
+ROIAK (None): 0
+ROIQ (None): 0
+ROIQU (None): 0
+ROIQW (None): 0
+ROKA (None): 0
+ROSE (None): 0
+ROSG (None): 0
+ROVI (None): 0
+ROYT (None): 0
+RP (None): 0
+RPAI$A (None): 0
+RPRXW (None): 0
+RPRXZ (None): 0
+RPT$D (None): 0
+RPTP (None): 0
+RPXC (None): 0
+RRMS (None): 0
+RRST (None): 0
+RSE (None): 0
+RSH (None): 0
+RSO (None): 0
+RSO$A (None): 0
+RSO$B (None): 0
+RSO$C (None): 0
+RSPP (None): 0
+RST (None): 0
+RSTI (None): 0
+RSYS (None): 0
+RT (None): 0
+RTEC (None): 0
+RTGN (None): 0
+RTI (None): 0
+RTIX (None): 0
+RTK (None): 0
+RTN (None): 0
+RTRX (None): 0
+RUBI (None): 0
+RUK (None): 0
+RVBD (None): 0
+RVLT (None): 0
+RXII (None): 0
+RYL (None): 0
+SAAS (None): 0
+SAEX (None): 0
+SAJA (None): 0
+SALE (None): 0
+SALT (None): 0
+SAN$A (None): 0
+SAN$B (None): 0
+SAN$C (None): 0
+SAN$I (None): 0
+SANWZ (None): 0
+SAPE (None): 0
+SAQ (None): 0
+SB$B (None): 0
+SB$C (None): 0
+SB$D (None): 0
+SBBX (None): 0
+SBCP (None): 0
+SBGL (None): 0
+SBLKL (None): 0
+SBNA (None): 0
+SBNB (None): 0
+SBNYW (None): 0
+SBRAP (None): 0
+SBSA (None): 0
+SBW (None): 0
+SBY (None): 0
+SCAI (None): 0
+SCE$F (None): 0
+SCE$G (None): 0
+SCE$H (None): 0
+SCG (None): 0
+SCHW$B (None): 0
+SCLN (None): 0
+SCMP (None): 0
+SCOK (None): 0
+SCQ (None): 0
+SCSS (None): 0
+SDLP (None): 0
+SDR (None): 0
+SDRL (None): 0
+SDT (None): 0
+SEMG (None): 0
+SEMI (None): 0
+SEP (None): 0
+SERV (None): 0
+SEV (None): 0
+SFB (None): 0
+SFG (None): 0
+SFLY (None): 0
+SFN (None): 0
+SFS (None): 0
+SFXE (None): 0
+SFY (None): 0
+SGBK (None): 0
+SGF (None): 0
+SGI (None): 0
+SGL (None): 0
+SGM (None): 0
+SGNL (None): 0
+SGNT (None): 0
+SGY (None): 0
+SGYP (None): 0
+SGYPU (None): 0
+SGYPW (None): 0
+SGZA (None): 0
+SHLDW (None): 0
+SHLM (None): 0
+SHLO (None): 0
+SHO$D (None): 0
+SHOR (None): 0
+SHOS (None): 0
+SHPG (None): 0
+SIAL (None): 0
+SIBC (None): 0
+SIFI (None): 0
+SIGM (None): 0
+SIMG (None): 0
+SINA (None): 0
+SIR (None): 0
+SIRO (None): 0
+SIVBO (None): 0
+SKBI (None): 0
+SKH (None): 0
+SKIS (None): 0
+SKOR (None): 0
+SKUL (None): 0
+SKYY (None): 0
+SLG$I (None): 0
+SLH (None): 0
+SLMAP (None): 0
+SLRA (None): 0
+SLTB (None): 0
+SLTC (None): 0
+SLVO (None): 0
+SLW (None): 0
+SLXP (None): 0
+SMAC (None): 0
+SMACR (None): 0
+SMACU (None): 0
+SMI (None): 0
+SMT (None): 0
+SMTP (None): 0
+SMTX (None): 0
+SN (None): 0
+SNAK (None): 0
+SNBC (None): 0
+SNC (None): 0
+SNDK (None): 0
+SNE (None): 0
+SNH (None): 0
+SNHN (None): 0
+SNHY (None): 0
+SNI (None): 0
+SNMX (None): 0
+SNSS (None): 0
+SNTA (None): 0
+SNV$C (None): 0
+SOCB (None): 0
+SOCL (None): 0
+SODA (None): 0
+SOHOL (None): 0
+SOHOM (None): 0
+SONA (None): 0
+SONC (None): 0
+SONS (None): 0
+SORL (None): 0
+SOV$C (None): 0
+SOXX (None): 0
+SPA (None): 0
+SPAN (None): 0
+SPAR (None): 0
+SPEX (None): 0
+SPF (None): 0
+SPG$J (None): 0
+SPIL (None): 0
+SPLS (None): 0
+SPN (None): 0
+SPNC (None): 0
+SPPR (None): 0
+SPPRO (None): 0
+SPPRP (None): 0
+SPU (None): 0
+SPW (None): 0
+SQBK (None): 0
+SQI (None): 0
+SQNM (None): 0
+SQQQ (None): 0
+SRF (None): 0
+SRSC (None): 0
+SSE (None): 0
+SSFN (None): 0
+SSH (None): 0
+SSI (None): 0
+SSLT (None): 0
+SSNI (None): 0
+SSRG (None): 0
+SSRI (None): 0
+SSS (None): 0
+SSW (None): 0
+SSW$C (None): 0
+SSW$D (None): 0
+SSW$E (None): 0
+SSWN (None): 0
+STAG$A (None): 0
+STAG$B (None): 0
+STAR$D (None): 0
+STAR$E (None): 0
+STAR$F (None): 0
+STAR$G (None): 0
+STAR$I (None): 0
+STAY (None): 0
+STBZ (None): 0
+STCK (None): 0
+STI (None): 0
+STI$A (None): 0
+STI$E (None): 0
+STI.A (None): 0
+STI.B (None): 0
+STJ (None): 0
+STML (None): 0
+STNR (None): 0
+STO (None): 0
+STPP (None): 0
+STR (None): 0
+STRN (None): 0
+STRZA (None): 0
+STRZB (None): 0
+STT$C (None): 0
+STT$D (None): 0
+STT$E (None): 0
+STV (None): 0
+STZ.B (None): 0
+SUBK (None): 0
+SUI$A (None): 0
+SUNE (None): 0
+SUSQ (None): 0
+SUTR (None): 0
+SVU (None): 0
+SWAY (None): 0
+SWC (None): 0
+SWFT (None): 0
+SWH (None): 0
+SWHC (None): 0
+SWJ (None): 0
+SWSH (None): 0
+SWU (None): 0
+SWY (None): 0
+SXCP (None): 0
+SXE (None): 0
+SXL (None): 0
+SYA (None): 0
+SYMC (None): 0
+SYMX (None): 0
+SYNC (None): 0
+SYNT (None): 0
+SYRX (None): 0
+SYT (None): 0
+SYUT (None): 0
+SYX (None): 0
+SZMK (None): 0
+SZYM (None): 0
+TAHO (None): 0
+TAI (None): 0
+TANN (None): 0
+TANO (None): 0
+TAOM (None): 0
+TAP.A (None): 0
+TAPR (None): 0
+TASR (None): 0
+TAXI (None): 0
+TCAP (None): 0
+TCB (None): 0
+TCB$B (None): 0
+TCB$C (None): 0
+TCB.W (None): 0
+TCBIL (None): 0
+TCBIP (None): 0
+TCBIW (None): 0
+TCC (None): 0
+TCCA (None): 0
+TCK (None): 0
+TCO (None): 0
+TCO$J (None): 0
+TCO$K (None): 0
+TCP (None): 0
+TCPI (None): 0
+TCRD (None): 0
+TCRX (None): 0
+TDA (None): 0
+TDE (None): 0
+TDI (None): 0
+TDIV (None): 0
+TDJ (None): 0
+TE (None): 0
+TECD (None): 0
+TECU (None): 0
+TEG (None): 0
+TEP (None): 0
+TERP (None): 0
+TESO (None): 0
+TEU (None): 0
+TEU$C (None): 0
+TFG (None): 0
+TFM (None): 0
+TFSC (None): 0
+TFSCR (None): 0
+TFSCU (None): 0
+TFSCW (None): 0
+TGE (None): 0
+THGA (None): 0
+THLD (None): 0
+THOR (None): 0
+THRX (None): 0
+THTI (None): 0
+TI (None): 0
+TI.A (None): 0
+TICC (None): 0
+TIF (None): 0
+TIME (None): 0
+TINY (None): 0
+TISA (None): 0
+TIVO (None): 0
+TKAI (None): 0
+TKF (None): 0
+TKMR (None): 0
+TLF (None): 0
+TLI (None): 0
+TLLP (None): 0
+TLM (None): 0
+TLMR (None): 0
+TLP (None): 0
+TMH (None): 0
+TMK (None): 0
+TMK$B (None): 0
+TMUS$A (None): 0
+TNAV (None): 0
+TNGO (None): 0
+TNH (None): 0
+TNP$B (None): 0
+TNP$C (None): 0
+TOO (None): 0
+TOO$A (None): 0
+TOT (None): 0
+TOWR (None): 0
+TPRE (None): 0
+TPUB (None): 0
+TQQQ (None): 0
+TRAK (None): 0
+TRCB (None): 0
+TRCH (None): 0
+TRCO (None): 0
+TRF (None): 0
+TRGT (None): 0
+TRIV (None): 0
+TRK (None): 0
+TRLA (None): 0
+TRNO$A (None): 0
+TROV (None): 0
+TROVU (None): 0
+TROVW (None): 0
+TRR (None): 0
+TRTL (None): 0
+TRTLU (None): 0
+TRTLW (None): 0
+TRW (None): 0
+TSL (None): 0
+TSLF (None): 0
+TSNU (None): 0
+TSO (None): 0
+TSRA (None): 0
+TSRE (None): 0
+TSRO (None): 0
+TSS (None): 0
+TST (None): 0
+TSU (None): 0
+TSYS (None): 0
+TTF (None): 0
+TTHI (None): 0
+TTPH (None): 0
+TTS (None): 0
+TUBE (None): 0
+TUES (None): 0
+TUMI (None): 0
+TUSA (None): 0
+TVC (None): 0
+TVE (None): 0
+TVIX (None): 0
+TVIZ (None): 0
+TVPT (None): 0
+TWC (None): 0
+TWMC (None): 0
+TWX (None): 0
+TXTR (None): 0
+TY$ (None): 0
+TYC (None): 0
+TYG$B (None): 0
+TYG$C (None): 0
+TYPE (None): 0
+TZF (None): 0
+UACL (None): 0
+UAE (None): 0
+UAM (None): 0
+UBIC (None): 0
+UBNK (None): 0
+UBNT (None): 0
+UBP$F (None): 0
+UBP$G (None): 0
+UBS$D (None): 0
+UBSH (None): 0
+UCBA (None): 0
+UCFC (None): 0
+UCP (None): 0
+UDF (None): 0
+UE.V (None): 0
+UGLD (None): 0
+UIL (None): 0
+ULTI (None): 0
+ULTR (None): 0
+UMH$A (None): 0
+UN (None): 0
+UNIS (None): 0
+UNT (None): 0
+UNTD (None): 0
+UNXL (None): 0
+UPI (None): 0
+UPIP (None): 0
+UPL (None): 0
+URRE (None): 0
+USAT (None): 0
+USATP (None): 0
+USB$A (None): 0
+USB$H (None): 0
+USB$M (None): 0
+USB$N (None): 0
+USB$O (None): 0
+USBI (None): 0
+USG (None): 0
+USLV (None): 0
+USMD (None): 0
+USTR (None): 0
+UTEK (None): 0
+UTIW (None): 0
+UTX (None): 0
+UTX$A (None): 0
+UZA (None): 0
+UZB (None): 0
+VA (None): 0
+VALE.P (None): 0
+VALX (None): 0
+VAR (None): 0
+VASC (None): 0
+VBND (None): 0
+VCIT (None): 0
+VCLT (None): 0
+VCO (None): 0
+VCSH (None): 0
+VDSI (None): 0
+VGGL (None): 0
+VGIT (None): 0
+VGLT (None): 0
+VGSH (None): 0
+VIAB (None): 0
+VIAS (None): 0
+VICL (None): 0
+VIDI (None): 0
+VIEW (Building Products & Equipment): 0
+VIIX (None): 0
+VIIZ (None): 0
+VIMC (None): 0
+VIP (None): 0
+VISN (None): 0
+VLCCF (None): 0
+VLP (None): 0
+VLTC (None): 0
+VLY.W (None): 0
+VLYWW (None): 0
+VMBS (None): 0
+VMEM (None): 0
+VNO$G (None): 0
+VNO$I (None): 0
+VNO$J (None): 0
+VNO$K (None): 0
+VNO$L (None): 0
+VNO.V (None): 0
+VNQI (None): 0
+VNR (None): 0
+VNRAP (None): 0
+VNRBP (None): 0
+VNRCP (None): 0
+VNTV (None): 0
+VOLC (None): 0
+VONE (None): 0
+VONG (None): 0
+VONV (None): 0
+VPCO (None): 0
+VR (None): 0
+VRML (None): 0
+VRNG (None): 0
+VRNGW (None): 0
+VRTU (None): 0
+VRX (None): 0
+VSAR (None): 0
+VSCI (None): 0
+VSCP (None): 0
+VSI (None): 0
+VSLR (None): 0
+VTAE (None): 0
+VTHR (None): 0
+VTIP (None): 0
+VTL (None): 0
+VTRB (None): 0
+VTSS (None): 0
+VTTI (None): 0
+VTWG (None): 0
+VTWO (None): 0
+VTWV (None): 0
+VUSE (None): 0
+VVC (None): 0
+VVUS (None): 0
+VWOB (None): 0
+VWR (None): 0
+VXUS (None): 0
+VYFC (None): 0
+VZA (None): 0
+WAC (None): 0
+WAFDW (None): 0
+WAGE (None): 0
+WAIR (None): 0
+WAVX (None): 0
+WBAI (None): 0
+WBB (None): 0
+WBC (None): 0
+WBKC (None): 0
+WBMD (None): 0
+WBS$E (None): 0
+WBS.W (None): 0
+WCG (None): 0
+WCIC (None): 0
+WDR (None): 0
+WEBK (None): 0
+WFBI (None): 0
+WFC$J (None): 0
+WFC$L (None): 0
+WFC$N (None): 0
+WFC$O (None): 0
+WFC$P (None): 0
+WFC$Q (None): 0
+WFC$R (None): 0
+WFC$T (None): 0
+WFC.W (None): 0
+WFD (None): 0
+WFE$A (None): 0
+WFM (None): 0
+WFT (None): 0
+WG (None): 0
+WGBS (None): 0
+WGL (None): 0
+WGP (None): 0
+WHFBL (None): 0
+WHLRW (None): 0
+WHX (None): 0
+WHZ (None): 0
+WIBC (None): 0
+WIFI (None): 0
+WILN (None): 0
+WIN (None): 0
+WLB (None): 0
+WLBPZ (None): 0
+WLH (None): 0
+WLRH (None): 0
+WLRHU (None): 0
+WLRHW (None): 0
+WLT (None): 0
+WMAR (None): 0
+WMGI (None): 0
+WMGIZ (None): 0
+WMLP (None): 0
+WNR (None): 0
+WNRL (None): 0
+WOOD (None): 0
+WPCS (None): 0
+WPPGY (None): 0
+WPT (None): 0
+WPX (None): 0
+WPZ (None): 0
+WR (None): 0
+WRB$B (None): 0
+WRES (None): 0
+WRI$F (None): 0
+WRT (None): 0
+WSCI (None): 0
+WSFSL (None): 0
+WSH (None): 0
+WSO.B (None): 0
+WSTC (None): 0
+WTFCW (None): 0
+WTR (None): 0
+WTSL (None): 0
+WTW (None): 0
+WUBA (None): 0
+WWAV (None): 0
+WWWW (None): 0
+WX (None): 0
+WY$A (None): 0
+WYN (None): 0
+XBKS (None): 0
+XCO (None): 0
+XCRA (None): 0
+XGTI (None): 0
+XGTIW (None): 0
+XIV (None): 0
+XKE (None): 0
+XLS (None): 0
+XNPT (None): 0
+XNY (None): 0
+XON (None): 0
+XOOM (None): 0
+XOXO (None): 0
+XPLR (None): 0
+XRM (None): 0
+XRS (None): 0
+XUE (None): 0
+XXIA (None): 0
+YDIV (None): 0
+YDKN (None): 0
+YDLE (None): 0
+YGE (None): 0
+YHOO (None): 0
+YOD (None): 0
+YOKU (None): 0
+YPRO (None): 0
+YRCW (None): 0
+YUME (None): 0
+YZC (None): 0
+ZA (None): 0
+ZAGG (None): 0
+ZAYO (None): 0
+ZB$A (None): 0
+ZB$F (None): 0
+ZB$G (None): 0
+ZB$H (None): 0
+ZBK (None): 0
+ZEP (None): 0
+ZF (None): 0
+ZFC (None): 0
+ZFGN (None): 0
+ZHNE (None): 0
+ZINC (None): 0
+ZIONW (None): 0
+ZIONZ (None): 0
+ZIV (None): 0
+ZLTQ (None): 0
+ZMH (None): 0
+ZN (None): 0
+ZOES (None): 0
+ZPIN (None): 0
+ZQK (None): 0
+ZSPH (None): 0
+ZU (None): 0
+ZX (None): 0
+ASTI (Solar): -2.75
+ENZN (Biotechnology): -2.75
+ORC (REIT—Mortgage): -6.75
+NLY (REIT—Mortgage): -11.5
+DX (REIT—Mortgage): -22.25
+VRTA (Mortgage Finance): -54.75
+IVR (REIT—Mortgage): -164.25
+TYG (Asset Management): -164.5
+GWGH (Insurance—Life): -1953.0

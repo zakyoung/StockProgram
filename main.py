@@ -274,16 +274,19 @@ def currentRatioPoints(stockObject):
   return points
 
 def returnOnEquityPoints(stockObject):
-	points = 0
-	averageROE = 11.39
-	if stockObject.returnOnEquity:
-		if stockObject.returnOnEquity - averageROE >= 0:
-			points = int((stockObject.returnOnEquity - averageROE) * 0.5)
-			if points >= 10:
-				return 10
-			else:
-				return points
-	return points
+  try:
+    points = 0
+    averageROE = 11.39
+    if stockObject.returnOnEquity:
+      if stockObject.returnOnEquity - averageROE >= 0:
+        points = int((stockObject.returnOnEquity - averageROE) * 0.5)
+        if points >= 10:
+          return 10
+        else:
+          return points
+    return points
+  except:
+    return 0
 def revenueGrowthRatePoints(stockObject):
   points = 0
   if stockObject.fourYearRevenueGrowthRate:
@@ -302,12 +305,15 @@ def operatingCashflowPoints(stockObject):
 
 def interestCoverageRatioPoints(stockObject):
   points = 0
-  if stockObject.interestCoverageRatio:
-    if stockObject.interestCoverageRatio >= 10:
-      points += 10
-    else:
-      points += int(stockObject.interestCoverageRatio)
-  return points
+  try:
+    if stockObject.interestCoverageRatio:
+      if stockObject.interestCoverageRatio >= 10:
+        points += 10
+      else:
+        points += int(stockObject.interestCoverageRatio)
+    return points
+  except:
+    return 0
 
 def dividendPoints(stockObject):
   points = 0
@@ -384,6 +390,7 @@ def run():
     with open(f'{date.today()}-Output.txt','w') as output:
       for val in scoringList:
         output.write(f"{val[0]}: {val[1]}\n")
+    exit()
 
 if __name__ == "__main__":
   run()
