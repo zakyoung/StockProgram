@@ -241,19 +241,17 @@ def netIncomePoints(stockObject):
 def priceToEarningsPoints(stockObject):
 	points = 0
 	averagePe = 20
-	if stockObject.forwardPeRatio:
-		if stockObject.forwardPeRatio < averagePe - 6:
-			points += 15
-		elif stockObject.forwardPeRatio < averagePe - 5:
-			points += 12.5
-		elif stockObject.forwardPeRatio < averagePe - 4:
+	if stockObject.forwardPeRatio and stockObject.forwardPeRatio >= 0:
+		if stockObject.forwardPeRatio < averagePe - 5:
 			points += 10
+		elif stockObject.forwardPeRatio < averagePe - 4:
+			points += 8
 		elif stockObject.forwardPeRatio < averagePe - 3:
-			points += 7.5
+			points += 6
 		elif stockObject.forwardPeRatio < averagePe - 2:
-			points += 5
+			points += 4
 		elif stockObject.forwardPeRatio < averagePe - 1:
-			points += 2.5
+			points += 2
 	return points
   
 def currentRatioPoints(stockObject):
@@ -351,6 +349,17 @@ def priceToBookPoints(stockObject):
         points += (5-(0.5*int(stockObject.priceToBook)))
   return points
 
+def marketCapPoints(stockObject):
+  points = 0
+  if stockObject.marketCap:
+    if stockObject.marketCap > 10000000000:
+      points += 5
+    elif stockObject.marketCap > 2000000000:
+      points += 4
+    elif stockObject.marketCap > 300000000:
+      points += 2
+  return points
+
 def stockAnalyzer(stockObject):
   totalPoints = 0
   totalPoints += netIncomePoints(stockObject)
@@ -384,7 +393,5 @@ def run():
     with open(f'{date.today()}-Output.txt','w') as output:
       for val in scoringList:
         output.write(f"{val[0]}: {val[1]}\n")
-      # yo
-
 if __name__ == "__main__":
   run()
