@@ -384,6 +384,7 @@ def run():
     with open(f'{date.today()}-Output.txt','w') as output:
       for val in scoringList:
         output.write(f"{val[0]}: {val[1]}\n")
+      # yo
 
 if __name__ == "__main__":
   run()
