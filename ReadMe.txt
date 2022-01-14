@@ -54,3 +54,12 @@ This is the data weighting system used in the stock program. The data will be we
   + 4 points $2 billion to $10 Billion(mid cap)
   + 5 points over $10 billion (large cap)
     
+Still need to implement:
+  get data from pedatafinal.csv and change the industry averages in the comparing methods so that we can actually compare to the industry averages instead of the placeholders that we are currently using.
+
+  lets make it more effiecient because right now it is very slow since you are reopening the pedatafinal.csv for every ticker which is making it really slow when the data is going to be the same no matter what this needs to be fixed first.
+
+  add stocks remaining countdown instead of listing the stock and its points to increase effieicency
+
+  change all the methods that we arent currently using from property methods to regular methods so that they do not run for every stock increasing the effieicency of the program
+  

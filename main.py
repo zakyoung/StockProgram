@@ -1,10 +1,12 @@
 import yfinance as yf
 import csv
 from datetime import date
+import sys
 class Stock:
-  def __init__(self,ticker):
+  def __init__(self,ticker,industryAveragesDict):
     self.ticker = ticker
     self.yfData = yf.Ticker(ticker)
+    self.industryAveragesDict = industryAveragesDict
   def getPoints(self):
     return stockAnalyzer(self)
 
@@ -220,10 +222,17 @@ class Stock:
     except:
       return None
 
-class IndustryAverages:
-  def __init__(self):
-    pass
-
+  @property
+  def averagesForIndustry(self):
+    try:
+      returningDict = self.industryAveragesDict[self.industry]
+      for key in returningDict:
+        if key != "Industry Name" and key != "Yahoo Finance Equivalent":
+          returningDict[key] = float(returningDict[key].strip("%"))
+      return returningDict
+    except:
+      return {"Average PE Ratio": 20,"Average ROE":18.6,"Average Profit Margin":11}
+  
 def netIncomePoints(stockObject):
   points = 0
   if stockObject.mostRecentYearsEarnings != None:
@@ -240,7 +249,7 @@ def netIncomePoints(stockObject):
 
 def priceToEarningsPoints(stockObject):
 	points = 0
-	averagePe = 20
+	averagePe = stockObject.averagesForIndustry["Average PE Ratio"]
 	if stockObject.forwardPeRatio and stockObject.forwardPeRatio >= 0:
 		if stockObject.forwardPeRatio < averagePe - 5:
 			points += 10
@@ -273,7 +282,7 @@ def currentRatioPoints(stockObject):
 
 def returnOnEquityPoints(stockObject):
 	points = 0
-	averageROE = 11.39
+	averageROE = stockObject.averagesForIndustry["Average ROE"]
 	if stockObject.returnOnEquity:
 		if stockObject.returnOnEquity - averageROE >= 0:
 			points = int((stockObject.returnOnEquity - averageROE) * 0.5)
@@ -300,11 +309,14 @@ def operatingCashflowPoints(stockObject):
 
 def interestCoverageRatioPoints(stockObject):
   points = 0
-  if stockObject.interestCoverageRatio:
-    if stockObject.interestCoverageRatio >= 10:
-      points += 10
-    else:
-      points += int(stockObject.interestCoverageRatio)
+  try:
+    if stockObject.interestCoverageRatio:
+      if stockObject.interestCoverageRatio >= 10:
+        points += 10
+      else:
+        points += int(stockObject.interestCoverageRatio)
+  except:
+    return points
   return points
 
 def dividendPoints(stockObject):
@@ -328,20 +340,22 @@ def dividendPoints(stockObject):
   return points
 
 def profitMarginPoints(stockObject):
-	points = 0
-	averageProfitMargin = 7.71
-	if stockObject.profitMargin:
-		if stockObject.profitMargin - averageProfitMargin >= 0:
-			points = int(stockObject.profitMargin-averageProfitMargin)*0.5
-			if points >= 5:
-				return 5
-			else:
-				return points
-	return points
+  points = 0
+  try:
+    averageProfitMargin = stockObject.averagesForIndustry["Average Profit Margin"]
+    if stockObject.profitMargin:
+      if stockObject.profitMargin - averageProfitMargin >= 0:
+        if int(stockObject.profitMargin-averageProfitMargin)*0.5 >= 5:
+          points += 5
+        elif int(stockObject.profitMargin-averageProfitMargin)*0.5 > 0:
+          points += int(stockObject.profitMargin-averageProfitMargin)*0.5
+  except:
+    return points
+  return points
 
 def priceToBookPoints(stockObject):
   points = 0
-  if stockObject.priceToBook:
+  if stockObject.priceToBook and stockObject.priceToBook > 0:
     if stockObject.priceToBook < 1:
       points += 5
     else:
@@ -372,20 +386,23 @@ def stockAnalyzer(stockObject):
   totalPoints += dividendPoints(stockObject)
   totalPoints += profitMarginPoints(stockObject)
   totalPoints += priceToBookPoints(stockObject)
+  totalPoints += marketCapPoints(stockObject)
   return totalPoints
 
 def individualStockScore(Ticker):
   s1 = Stock(Ticker)
   return f"{s1}: {stockAnalyzer(s1)}"
-  
+
 def run():
-  with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq:
+  with open('NYSE.csv','r') as nyse, open('NASDAQ.csv','r') as nasdaq,open("pedatafinal.csv","r") as data:
     nyseReader = csv.DictReader(nyse)
     nasdaqReader = csv.DictReader(nasdaq)
+    reader = list(csv.DictReader(data))
+    dict_final_pe_data = {i["Yahoo Finance Equivalent"]:i for i in reader}
     allStocks = sorted([stock['Ticker'] for stock in nyseReader] + [stock['Symbol'] for stock in nasdaqReader])
     scoringList = []
     for stock in allStocks:
-      stockObj = Stock(stock)
+      stockObj = Stock(stock,dict_final_pe_data)
       stockScore = stockAnalyzer(stockObj)
       print(f"{stockObj}: {stockScore}")
       scoringList.append((stockObj,stockScore))
@@ -393,5 +410,6 @@ def run():
     with open(f'{date.today()}-Output.txt','w') as output:
       for val in scoringList:
         output.write(f"{val[0]}: {val[1]}\n")
+    sys.exit()
 if __name__ == "__main__":
   run()
